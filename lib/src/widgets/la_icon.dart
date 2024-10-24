@@ -16,7 +16,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labAccessibleIcon);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labAccessibleIcon,
+        );
 
   /// Icon for _accusoft_ in `la lab` style
   const LaIcon.labAccusoft({
@@ -25,7 +33,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labAccusoft);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labAccusoft,
+        );
 
   /// Icon for _acquisitions-incorporated_ in `la lab` style
   const LaIcon.labAcquisitionsIncorporated({
@@ -34,7 +50,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labAcquisitionsIncorporated);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labAcquisitionsIncorporated,
+        );
 
   /// Icon for _ad_ in `la las` style
   const LaIcon.lasAd({
@@ -43,7 +67,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAd);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAd,
+        );
 
   /// Icon for _address-book_ in `la lar` style
   const LaIcon.larAddressBook({
@@ -52,7 +84,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larAddressBook);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larAddressBook,
+        );
 
   /// Icon for _address-book_ in `la las` style
   const LaIcon.lasAddressBook({
@@ -61,7 +101,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAddressBook);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAddressBook,
+        );
 
   /// Icon for _address-card_ in `la lar` style
   const LaIcon.larAddressCard({
@@ -70,7 +118,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larAddressCard);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larAddressCard,
+        );
 
   /// Icon for _address-card_ in `la las` style
   const LaIcon.lasAddressCard({
@@ -79,7 +135,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAddressCard);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAddressCard,
+        );
 
   /// Icon for _add-to-shopping-cart_ in `la las` style
   const LaIcon.lasAddToShoppingCart({
@@ -88,7 +152,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAddToShoppingCart);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAddToShoppingCart,
+        );
 
   /// Icon for _adjust_ in `la las` style
   const LaIcon.lasAdjust({
@@ -97,7 +169,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAdjust);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAdjust,
+        );
 
   /// Icon for _adobe_ in `la lab` style
   const LaIcon.labAdobe({
@@ -106,7 +186,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labAdobe);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labAdobe,
+        );
 
   /// Icon for _adversal_ in `la lab` style
   const LaIcon.labAdversal({
@@ -115,7 +203,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labAdversal);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labAdversal,
+        );
 
   /// Icon for _affiliatetheme_ in `la lab` style
   const LaIcon.labAffiliatetheme({
@@ -124,7 +220,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labAffiliatetheme);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labAffiliatetheme,
+        );
 
   /// Icon for _airbnb_ in `la lab` style
   const LaIcon.labAirbnb({
@@ -133,7 +237,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labAirbnb);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labAirbnb,
+        );
 
   /// Icon for _air-freshener_ in `la las` style
   const LaIcon.lasAirFreshener({
@@ -142,7 +254,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAirFreshener);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAirFreshener,
+        );
 
   /// Icon for _algolia_ in `la lab` style
   const LaIcon.labAlgolia({
@@ -151,7 +271,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labAlgolia);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labAlgolia,
+        );
 
   /// Icon for _align-center_ in `la las` style
   const LaIcon.lasAlignCenter({
@@ -160,7 +288,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlignCenter);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlignCenter,
+        );
 
   /// Icon for _align-justify_ in `la las` style
   const LaIcon.lasAlignJustify({
@@ -169,7 +305,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlignJustify);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlignJustify,
+        );
 
   /// Icon for _align-left_ in `la las` style
   const LaIcon.lasAlignLeft({
@@ -178,7 +322,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlignLeft);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlignLeft,
+        );
 
   /// Icon for _align-right_ in `la las` style
   const LaIcon.lasAlignRight({
@@ -187,7 +339,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlignRight);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlignRight,
+        );
 
   /// Icon for _alipay_ in `la lab` style
   const LaIcon.labAlipay({
@@ -196,7 +356,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labAlipay);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labAlipay,
+        );
 
   /// Icon for _allergies_ in `la las` style
   const LaIcon.lasAllergies({
@@ -205,7 +373,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAllergies);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAllergies,
+        );
 
   /// Icon for _alternate-arrow-circle-down_ in `la lar` style
   const LaIcon.larAlternateArrowCircleDown({
@@ -214,7 +390,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larAlternateArrowCircleDown);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larAlternateArrowCircleDown,
+        );
 
   /// Icon for _alternate-arrow-circle-down_ in `la las` style
   const LaIcon.lasAlternateArrowCircleDown({
@@ -223,7 +407,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateArrowCircleDown);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateArrowCircleDown,
+        );
 
   /// Icon for _alternate-arrow-circle-left_ in `la lar` style
   const LaIcon.larAlternateArrowCircleLeft({
@@ -232,7 +424,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larAlternateArrowCircleLeft);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larAlternateArrowCircleLeft,
+        );
 
   /// Icon for _alternate-arrow-circle-left_ in `la las` style
   const LaIcon.lasAlternateArrowCircleLeft({
@@ -241,7 +441,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateArrowCircleLeft);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateArrowCircleLeft,
+        );
 
   /// Icon for _alternate-arrow-circle-right_ in `la lar` style
   const LaIcon.larAlternateArrowCircleRight({
@@ -250,7 +458,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larAlternateArrowCircleRight);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larAlternateArrowCircleRight,
+        );
 
   /// Icon for _alternate-arrow-circle-right_ in `la las` style
   const LaIcon.lasAlternateArrowCircleRight({
@@ -259,7 +475,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateArrowCircleRight);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateArrowCircleRight,
+        );
 
   /// Icon for _alternate-arrow-circle-up_ in `la lar` style
   const LaIcon.larAlternateArrowCircleUp({
@@ -268,7 +492,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larAlternateArrowCircleUp);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larAlternateArrowCircleUp,
+        );
 
   /// Icon for _alternate-arrow-circle-up_ in `la las` style
   const LaIcon.lasAlternateArrowCircleUp({
@@ -277,7 +509,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateArrowCircleUp);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateArrowCircleUp,
+        );
 
   /// Icon for _alternate-arrows_ in `la las` style
   const LaIcon.lasAlternateArrows({
@@ -286,7 +526,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateArrows);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateArrows,
+        );
 
   /// Icon for _alternate-arrows-horizontal_ in `la las` style
   const LaIcon.lasAlternateArrowsHorizontal({
@@ -295,7 +543,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateArrowsHorizontal);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateArrowsHorizontal,
+        );
 
   /// Icon for _alternate-arrows-vertical_ in `la las` style
   const LaIcon.lasAlternateArrowsVertical({
@@ -304,7 +560,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateArrowsVertical);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateArrowsVertical,
+        );
 
   /// Icon for _alternate-calendar_ in `la lar` style
   const LaIcon.larAlternateCalendar({
@@ -313,7 +577,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larAlternateCalendar);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larAlternateCalendar,
+        );
 
   /// Icon for _alternate-calendar_ in `la las` style
   const LaIcon.lasAlternateCalendar({
@@ -322,7 +594,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateCalendar);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateCalendar,
+        );
 
   /// Icon for _alternate-car_ in `la las` style
   const LaIcon.lasAlternateCar({
@@ -331,7 +611,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateCar);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateCar,
+        );
 
   /// Icon for _alternate-cloud-download_ in `la las` style
   const LaIcon.lasAlternateCloudDownload({
@@ -340,7 +628,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateCloudDownload);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateCloudDownload,
+        );
 
   /// Icon for _alternate-cloud-upload_ in `la las` style
   const LaIcon.lasAlternateCloudUpload({
@@ -349,7 +645,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateCloudUpload);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateCloudUpload,
+        );
 
   /// Icon for _alternate-comment_ in `la lar` style
   const LaIcon.larAlternateComment({
@@ -358,7 +662,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larAlternateComment);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larAlternateComment,
+        );
 
   /// Icon for _alternate-comment_ in `la las` style
   const LaIcon.lasAlternateComment({
@@ -367,7 +679,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateComment);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateComment,
+        );
 
   /// Icon for _alternate-compress-arrows_ in `la las` style
   const LaIcon.lasAlternateCompressArrows({
@@ -376,7 +696,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateCompressArrows);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateCompressArrows,
+        );
 
   /// Icon for _alternate-creative-commons-public-domain_ in `la lab` style
   const LaIcon.labAlternateCreativeCommonsPublicDomain({
@@ -385,7 +713,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labAlternateCreativeCommonsPublicDomain);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labAlternateCreativeCommonsPublicDomain,
+        );
 
   /// Icon for _alternate-crop_ in `la las` style
   const LaIcon.lasAlternateCrop({
@@ -394,7 +730,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateCrop);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateCrop,
+        );
 
   /// Icon for _alternate-css3-logo_ in `la lab` style
   const LaIcon.labAlternateCss3Logo({
@@ -403,7 +747,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labAlternateCss3Logo);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labAlternateCss3Logo,
+        );
 
   /// Icon for _alternate-exchange_ in `la las` style
   const LaIcon.lasAlternateExchange({
@@ -412,7 +764,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateExchange);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateExchange,
+        );
 
   /// Icon for _alternate-expand-arrows_ in `la las` style
   const LaIcon.lasAlternateExpandArrows({
@@ -421,7 +781,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateExpandArrows);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateExpandArrows,
+        );
 
   /// Icon for _alternate-external-link_ in `la las` style
   const LaIcon.lasAlternateExternalLink({
@@ -430,7 +798,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateExternalLink);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateExternalLink,
+        );
 
   /// Icon for _alternate-external-link-square_ in `la las` style
   const LaIcon.lasAlternateExternalLinkSquare({
@@ -439,7 +815,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateExternalLinkSquare);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateExternalLinkSquare,
+        );
 
   /// Icon for _alternate-feather_ in `la las` style
   const LaIcon.lasAlternateFeather({
@@ -448,7 +832,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateFeather);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateFeather,
+        );
 
   /// Icon for _alternate-file_ in `la lar` style
   const LaIcon.larAlternateFile({
@@ -457,7 +849,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larAlternateFile);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larAlternateFile,
+        );
 
   /// Icon for _alternate-file_ in `la las` style
   const LaIcon.lasAlternateFile({
@@ -466,7 +866,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateFile);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateFile,
+        );
 
   /// Icon for _alternate-fire_ in `la las` style
   const LaIcon.lasAlternateFire({
@@ -475,7 +883,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateFire);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateFire,
+        );
 
   /// Icon for _alternate-first-order_ in `la lab` style
   const LaIcon.labAlternateFirstOrder({
@@ -484,7 +900,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labAlternateFirstOrder);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labAlternateFirstOrder,
+        );
 
   /// Icon for _alternate-font-awesome_ in `la lab` style
   const LaIcon.labAlternateFontAwesome({
@@ -493,7 +917,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labAlternateFontAwesome);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labAlternateFontAwesome,
+        );
 
   /// Icon for _alternate-fort-awesome_ in `la lab` style
   const LaIcon.labAlternateFortAwesome({
@@ -502,7 +934,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labAlternateFortAwesome);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labAlternateFortAwesome,
+        );
 
   /// Icon for _alternate-github_ in `la lab` style
   const LaIcon.labAlternateGithub({
@@ -511,7 +951,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labAlternateGithub);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labAlternateGithub,
+        );
 
   /// Icon for _alternate-glass-martini_ in `la las` style
   const LaIcon.lasAlternateGlassMartini({
@@ -520,7 +968,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateGlassMartini);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateGlassMartini,
+        );
 
   /// Icon for _alternate-grinning-face_ in `la lar` style
   const LaIcon.larAlternateGrinningFace({
@@ -529,7 +985,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larAlternateGrinningFace);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larAlternateGrinningFace,
+        );
 
   /// Icon for _alternate-grinning-face_ in `la las` style
   const LaIcon.lasAlternateGrinningFace({
@@ -538,7 +1002,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateGrinningFace);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateGrinningFace,
+        );
 
   /// Icon for _alternate-headphones_ in `la las` style
   const LaIcon.lasAlternateHeadphones({
@@ -547,7 +1019,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateHeadphones);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateHeadphones,
+        );
 
   /// Icon for _alternate-hospital_ in `la las` style
   const LaIcon.lasAlternateHospital({
@@ -556,7 +1036,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateHospital);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateHospital,
+        );
 
   /// Icon for _alternate-identification-card_ in `la las` style
   const LaIcon.lasAlternateIdentificationCard({
@@ -565,7 +1053,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateIdentificationCard);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateIdentificationCard,
+        );
 
   /// Icon for _alternate-level-down_ in `la las` style
   const LaIcon.lasAlternateLevelDown({
@@ -574,7 +1070,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateLevelDown);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateLevelDown,
+        );
 
   /// Icon for _alternate-level-up_ in `la las` style
   const LaIcon.lasAlternateLevelUp({
@@ -583,7 +1087,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateLevelUp);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateLevelUp,
+        );
 
   /// Icon for _alternate-list_ in `la lar` style
   const LaIcon.larAlternateList({
@@ -592,7 +1104,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larAlternateList);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larAlternateList,
+        );
 
   /// Icon for _alternate-list_ in `la las` style
   const LaIcon.lasAlternateList({
@@ -601,7 +1121,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateList);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateList,
+        );
 
   /// Icon for _alternate-long-arrow-down_ in `la las` style
   const LaIcon.lasAlternateLongArrowDown({
@@ -610,7 +1138,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateLongArrowDown);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateLongArrowDown,
+        );
 
   /// Icon for _alternate-long-arrow-left_ in `la las` style
   const LaIcon.lasAlternateLongArrowLeft({
@@ -619,7 +1155,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateLongArrowLeft);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateLongArrowLeft,
+        );
 
   /// Icon for _alternate-long-arrow-right_ in `la las` style
   const LaIcon.lasAlternateLongArrowRight({
@@ -628,7 +1172,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateLongArrowRight);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateLongArrowRight,
+        );
 
   /// Icon for _alternate-long-arrow-up_ in `la las` style
   const LaIcon.lasAlternateLongArrowUp({
@@ -637,7 +1189,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateLongArrowUp);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateLongArrowUp,
+        );
 
   /// Icon for _alternate-map-marked_ in `la las` style
   const LaIcon.lasAlternateMapMarked({
@@ -646,7 +1206,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateMapMarked);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateMapMarked,
+        );
 
   /// Icon for _alternate-map-marker_ in `la las` style
   const LaIcon.lasAlternateMapMarker({
@@ -655,7 +1223,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateMapMarker);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateMapMarker,
+        );
 
   /// Icon for _alternate-medical-chat_ in `la las` style
   const LaIcon.lasAlternateMedicalChat({
@@ -664,7 +1240,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateMedicalChat);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateMedicalChat,
+        );
 
   /// Icon for _alternate-medical-file_ in `la las` style
   const LaIcon.lasAlternateMedicalFile({
@@ -673,7 +1257,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateMedicalFile);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateMedicalFile,
+        );
 
   /// Icon for _alternate-microphone_ in `la las` style
   const LaIcon.lasAlternateMicrophone({
@@ -682,7 +1274,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateMicrophone);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateMicrophone,
+        );
 
   /// Icon for _alternate-microphone-slash_ in `la las` style
   const LaIcon.lasAlternateMicrophoneSlash({
@@ -691,7 +1291,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateMicrophoneSlash);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateMicrophoneSlash,
+        );
 
   /// Icon for _alternate-mobile_ in `la las` style
   const LaIcon.lasAlternateMobile({
@@ -700,7 +1308,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateMobile);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateMobile,
+        );
 
   /// Icon for _alternate-money-bill_ in `la lar` style
   const LaIcon.larAlternateMoneyBill({
@@ -709,7 +1325,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larAlternateMoneyBill);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larAlternateMoneyBill,
+        );
 
   /// Icon for _alternate-money-bill_ in `la las` style
   const LaIcon.lasAlternateMoneyBill({
@@ -718,7 +1342,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateMoneyBill);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateMoneyBill,
+        );
 
   /// Icon for _alternate-money-check_ in `la las` style
   const LaIcon.lasAlternateMoneyCheck({
@@ -727,7 +1359,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateMoneyCheck);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateMoneyCheck,
+        );
 
   /// Icon for _alternate-pen_ in `la las` style
   const LaIcon.lasAlternatePen({
@@ -736,7 +1376,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternatePen);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternatePen,
+        );
 
   /// Icon for _alternate-pencil_ in `la las` style
   const LaIcon.lasAlternatePencil({
@@ -745,7 +1393,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternatePencil);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternatePencil,
+        );
 
   /// Icon for _alternate-phone_ in `la las` style
   const LaIcon.lasAlternatePhone({
@@ -754,7 +1410,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternatePhone);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternatePhone,
+        );
 
   /// Icon for _alternate-phone-square_ in `la las` style
   const LaIcon.lasAlternatePhoneSquare({
@@ -763,7 +1427,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternatePhoneSquare);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternatePhoneSquare,
+        );
 
   /// Icon for _alternate-pied-piper-logo_ in `la lab` style
   const LaIcon.labAlternatePiedPiperLogo({
@@ -772,7 +1444,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labAlternatePiedPiperLogo);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labAlternatePiedPiperLogo,
+        );
 
   /// Icon for _alternate-prescription-bottle_ in `la las` style
   const LaIcon.lasAlternatePrescriptionBottle({
@@ -781,7 +1461,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternatePrescriptionBottle);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternatePrescriptionBottle,
+        );
 
   /// Icon for _alternate-radiation_ in `la las` style
   const LaIcon.lasAlternateRadiation({
@@ -790,7 +1478,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateRadiation);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateRadiation,
+        );
 
   /// Icon for _alternate-redo_ in `la las` style
   const LaIcon.lasAlternateRedo({
@@ -799,7 +1495,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateRedo);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateRedo,
+        );
 
   /// Icon for _alternate-share_ in `la las` style
   const LaIcon.lasAlternateShare({
@@ -808,7 +1512,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateShare);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateShare,
+        );
 
   /// Icon for _alternate-share-square_ in `la las` style
   const LaIcon.lasAlternateShareSquare({
@@ -817,7 +1529,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateShareSquare);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateShareSquare,
+        );
 
   /// Icon for _alternate-shield_ in `la las` style
   const LaIcon.lasAlternateShield({
@@ -826,7 +1546,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateShield);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateShield,
+        );
 
   /// Icon for _alternate-sign-in_ in `la las` style
   const LaIcon.lasAlternateSignIn({
@@ -835,7 +1563,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateSignIn);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateSignIn,
+        );
 
   /// Icon for _alternate-sign-out_ in `la las` style
   const LaIcon.lasAlternateSignOut({
@@ -844,7 +1580,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateSignOut);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateSignOut,
+        );
 
   /// Icon for _alternate-sort-alphabetical-down_ in `la las` style
   const LaIcon.lasAlternateSortAlphabeticalDown({
@@ -853,7 +1597,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateSortAlphabeticalDown);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateSortAlphabeticalDown,
+        );
 
   /// Icon for _alternate-sort-alphabetical-up_ in `la las` style
   const LaIcon.lasAlternateSortAlphabeticalUp({
@@ -862,7 +1614,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateSortAlphabeticalUp);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateSortAlphabeticalUp,
+        );
 
   /// Icon for _alternate-sort-amount-down_ in `la las` style
   const LaIcon.lasAlternateSortAmountDown({
@@ -871,7 +1631,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateSortAmountDown);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateSortAmountDown,
+        );
 
   /// Icon for _alternate-sort-amount-up_ in `la las` style
   const LaIcon.lasAlternateSortAmountUp({
@@ -880,7 +1648,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateSortAmountUp);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateSortAmountUp,
+        );
 
   /// Icon for _alternate-sort-numeric-down_ in `la las` style
   const LaIcon.lasAlternateSortNumericDown({
@@ -889,7 +1665,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateSortNumericDown);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateSortNumericDown,
+        );
 
   /// Icon for _alternate-sort-numeric-up_ in `la las` style
   const LaIcon.lasAlternateSortNumericUp({
@@ -898,7 +1682,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateSortNumericUp);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateSortNumericUp,
+        );
 
   /// Icon for _alternate-square-root_ in `la las` style
   const LaIcon.lasAlternateSquareRoot({
@@ -907,7 +1699,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateSquareRoot);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateSquareRoot,
+        );
 
   /// Icon for _alternate-star-half_ in `la las` style
   const LaIcon.lasAlternateStarHalf({
@@ -916,7 +1716,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateStarHalf);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateStarHalf,
+        );
 
   /// Icon for _alternate-store_ in `la las` style
   const LaIcon.lasAlternateStore({
@@ -925,7 +1733,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateStore);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateStore,
+        );
 
   /// Icon for _alternate-sync_ in `la las` style
   const LaIcon.lasAlternateSync({
@@ -934,7 +1750,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateSync);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateSync,
+        );
 
   /// Icon for _alternate-tablet_ in `la las` style
   const LaIcon.lasAlternateTablet({
@@ -943,7 +1767,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateTablet);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateTablet,
+        );
 
   /// Icon for _alternate-tachometer_ in `la las` style
   const LaIcon.lasAlternateTachometer({
@@ -952,7 +1784,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateTachometer);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateTachometer,
+        );
 
   /// Icon for _alternate-ticket_ in `la las` style
   const LaIcon.lasAlternateTicket({
@@ -961,7 +1801,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateTicket);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateTicket,
+        );
 
   /// Icon for _alternate-transgender_ in `la las` style
   const LaIcon.lasAlternateTransgender({
@@ -970,7 +1818,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateTransgender);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateTransgender,
+        );
 
   /// Icon for _alternate-trash_ in `la lar` style
   const LaIcon.larAlternateTrash({
@@ -979,7 +1835,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larAlternateTrash);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larAlternateTrash,
+        );
 
   /// Icon for _alternate-trash_ in `la las` style
   const LaIcon.lasAlternateTrash({
@@ -988,7 +1852,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateTrash);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateTrash,
+        );
 
   /// Icon for _alternate-undo_ in `la las` style
   const LaIcon.lasAlternateUndo({
@@ -997,7 +1869,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateUndo);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateUndo,
+        );
 
   /// Icon for _alternate-unlock_ in `la las` style
   const LaIcon.lasAlternateUnlock({
@@ -1006,7 +1886,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateUnlock);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateUnlock,
+        );
 
   /// Icon for _alternate-user_ in `la las` style
   const LaIcon.lasAlternateUser({
@@ -1015,7 +1903,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateUser);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateUser,
+        );
 
   /// Icon for _alternate-user-slash_ in `la las` style
   const LaIcon.lasAlternateUserSlash({
@@ -1024,7 +1920,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateUserSlash);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateUserSlash,
+        );
 
   /// Icon for _alternate-wavy-money-bill_ in `la las` style
   const LaIcon.lasAlternateWavyMoneyBill({
@@ -1033,7 +1937,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateWavyMoneyBill);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateWavyMoneyBill,
+        );
 
   /// Icon for _alternate-wine-glass_ in `la las` style
   const LaIcon.lasAlternateWineGlass({
@@ -1042,7 +1954,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternateWineGlass);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternateWineGlass,
+        );
 
   /// Icon for _alternative-trash-restore_ in `la las` style
   const LaIcon.lasAlternativeTrashRestore({
@@ -1051,7 +1971,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAlternativeTrashRestore);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAlternativeTrashRestore,
+        );
 
   /// Icon for _amazon_ in `la lab` style
   const LaIcon.labAmazon({
@@ -1060,7 +1988,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labAmazon);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labAmazon,
+        );
 
   /// Icon for _amazon-pay_ in `la lab` style
   const LaIcon.labAmazonPay({
@@ -1069,7 +2005,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labAmazonPay);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labAmazonPay,
+        );
 
   /// Icon for _amazon-pay-credit-card_ in `la lab` style
   const LaIcon.labAmazonPayCreditCard({
@@ -1078,7 +2022,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labAmazonPayCreditCard);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labAmazonPayCreditCard,
+        );
 
   /// Icon for _amazon-web-services--aws-_ in `la lab` style
   const LaIcon.labAmazonWebServicesAws({
@@ -1087,7 +2039,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labAmazonWebServicesAws);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labAmazonWebServicesAws,
+        );
 
   /// Icon for _ambulance_ in `la las` style
   const LaIcon.lasAmbulance({
@@ -1096,7 +2056,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAmbulance);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAmbulance,
+        );
 
   /// Icon for _american-express-credit-card_ in `la lab` style
   const LaIcon.labAmericanExpressCreditCard({
@@ -1105,7 +2073,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labAmericanExpressCreditCard);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labAmericanExpressCreditCard,
+        );
 
   /// Icon for _american-sign-language-interpreting_ in `la las` style
   const LaIcon.lasAmericanSignLanguageInterpreting({
@@ -1114,7 +2090,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAmericanSignLanguageInterpreting);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAmericanSignLanguageInterpreting,
+        );
 
   /// Icon for _amilia_ in `la lab` style
   const LaIcon.labAmilia({
@@ -1123,7 +2107,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labAmilia);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labAmilia,
+        );
 
   /// Icon for _anchor_ in `la las` style
   const LaIcon.lasAnchor({
@@ -1132,7 +2124,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAnchor);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAnchor,
+        );
 
   /// Icon for _android_ in `la lab` style
   const LaIcon.labAndroid({
@@ -1141,7 +2141,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labAndroid);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labAndroid,
+        );
 
   /// Icon for _angellist_ in `la lab` style
   const LaIcon.labAngellist({
@@ -1150,7 +2158,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labAngellist);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labAngellist,
+        );
 
   /// Icon for _angle-double-down_ in `la las` style
   const LaIcon.lasAngleDoubleDown({
@@ -1159,7 +2175,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAngleDoubleDown);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAngleDoubleDown,
+        );
 
   /// Icon for _angle-double-left_ in `la las` style
   const LaIcon.lasAngleDoubleLeft({
@@ -1168,7 +2192,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAngleDoubleLeft);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAngleDoubleLeft,
+        );
 
   /// Icon for _angle-double-right_ in `la las` style
   const LaIcon.lasAngleDoubleRight({
@@ -1177,7 +2209,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAngleDoubleRight);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAngleDoubleRight,
+        );
 
   /// Icon for _angle-double-up_ in `la las` style
   const LaIcon.lasAngleDoubleUp({
@@ -1186,7 +2226,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAngleDoubleUp);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAngleDoubleUp,
+        );
 
   /// Icon for _angle-down_ in `la las` style
   const LaIcon.lasAngleDown({
@@ -1195,7 +2243,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAngleDown);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAngleDown,
+        );
 
   /// Icon for _angle-left_ in `la las` style
   const LaIcon.lasAngleLeft({
@@ -1204,7 +2260,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAngleLeft);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAngleLeft,
+        );
 
   /// Icon for _angle-right_ in `la las` style
   const LaIcon.lasAngleRight({
@@ -1213,7 +2277,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAngleRight);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAngleRight,
+        );
 
   /// Icon for _angle-up_ in `la las` style
   const LaIcon.lasAngleUp({
@@ -1222,7 +2294,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAngleUp);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAngleUp,
+        );
 
   /// Icon for _angry-creative_ in `la lab` style
   const LaIcon.labAngryCreative({
@@ -1231,7 +2311,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labAngryCreative);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labAngryCreative,
+        );
 
   /// Icon for _angry-face_ in `la lar` style
   const LaIcon.larAngryFace({
@@ -1240,7 +2328,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larAngryFace);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larAngryFace,
+        );
 
   /// Icon for _angry-face_ in `la las` style
   const LaIcon.lasAngryFace({
@@ -1249,7 +2345,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAngryFace);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAngryFace,
+        );
 
   /// Icon for _angular_ in `la lab` style
   const LaIcon.labAngular({
@@ -1258,7 +2362,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labAngular);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labAngular,
+        );
 
   /// Icon for _ankh_ in `la las` style
   const LaIcon.lasAnkh({
@@ -1267,7 +2379,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAnkh);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAnkh,
+        );
 
   /// Icon for _apper-systems-ab_ in `la lab` style
   const LaIcon.labApperSystemsAb({
@@ -1276,7 +2396,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labApperSystemsAb);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labApperSystemsAb,
+        );
 
   /// Icon for _apple_ in `la lab` style
   const LaIcon.labApple({
@@ -1285,7 +2413,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labApple);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labApple,
+        );
 
   /// Icon for _apple-pay_ in `la lab` style
   const LaIcon.labApplePay({
@@ -1294,7 +2430,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labApplePay);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labApplePay,
+        );
 
   /// Icon for _apple-pay-credit-card_ in `la lab` style
   const LaIcon.labApplePayCreditCard({
@@ -1303,7 +2447,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labApplePayCreditCard);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labApplePayCreditCard,
+        );
 
   /// Icon for _app-net_ in `la lab` style
   const LaIcon.labAppNet({
@@ -1312,7 +2464,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labAppNet);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labAppNet,
+        );
 
   /// Icon for _app-store_ in `la lab` style
   const LaIcon.labAppStore({
@@ -1321,7 +2481,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labAppStore);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labAppStore,
+        );
 
   /// Icon for _archive_ in `la las` style
   const LaIcon.lasArchive({
@@ -1330,7 +2498,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasArchive);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasArchive,
+        );
 
   /// Icon for _archive-file_ in `la lar` style
   const LaIcon.larArchiveFile({
@@ -1339,7 +2515,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larArchiveFile);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larArchiveFile,
+        );
 
   /// Icon for _archive-file_ in `la las` style
   const LaIcon.lasArchiveFile({
@@ -1348,7 +2532,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasArchiveFile);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasArchiveFile,
+        );
 
   /// Icon for _archway_ in `la las` style
   const LaIcon.lasArchway({
@@ -1357,7 +2549,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasArchway);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasArchway,
+        );
 
   /// Icon for _area-chart_ in `la las` style
   const LaIcon.lasAreaChart({
@@ -1366,7 +2566,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAreaChart);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAreaChart,
+        );
 
   /// Icon for _arrow-circle-down_ in `la las` style
   const LaIcon.lasArrowCircleDown({
@@ -1375,7 +2583,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasArrowCircleDown);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasArrowCircleDown,
+        );
 
   /// Icon for _arrow-circle-left_ in `la las` style
   const LaIcon.lasArrowCircleLeft({
@@ -1384,7 +2600,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasArrowCircleLeft);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasArrowCircleLeft,
+        );
 
   /// Icon for _arrow-circle-right_ in `la las` style
   const LaIcon.lasArrowCircleRight({
@@ -1393,7 +2617,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasArrowCircleRight);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasArrowCircleRight,
+        );
 
   /// Icon for _arrow-circle-up_ in `la las` style
   const LaIcon.lasArrowCircleUp({
@@ -1402,7 +2634,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasArrowCircleUp);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasArrowCircleUp,
+        );
 
   /// Icon for _arrow-down_ in `la las` style
   const LaIcon.lasArrowDown({
@@ -1411,7 +2651,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasArrowDown);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasArrowDown,
+        );
 
   /// Icon for _arrow-left_ in `la las` style
   const LaIcon.lasArrowLeft({
@@ -1420,7 +2668,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasArrowLeft);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasArrowLeft,
+        );
 
   /// Icon for _arrow-right_ in `la las` style
   const LaIcon.lasArrowRight({
@@ -1429,7 +2685,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasArrowRight);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasArrowRight,
+        );
 
   /// Icon for _arrow-up_ in `la las` style
   const LaIcon.lasArrowUp({
@@ -1438,7 +2702,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasArrowUp);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasArrowUp,
+        );
 
   /// Icon for _artstation_ in `la lab` style
   const LaIcon.labArtstation({
@@ -1447,7 +2719,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labArtstation);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labArtstation,
+        );
 
   /// Icon for _assistive-listening-systems_ in `la las` style
   const LaIcon.lasAssistiveListeningSystems({
@@ -1456,7 +2736,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAssistiveListeningSystems);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAssistiveListeningSystems,
+        );
 
   /// Icon for _asterisk_ in `la las` style
   const LaIcon.lasAsterisk({
@@ -1465,7 +2753,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAsterisk);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAsterisk,
+        );
 
   /// Icon for _asymmetrik--ltd-_ in `la lab` style
   const LaIcon.labAsymmetrikLtd({
@@ -1474,7 +2770,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labAsymmetrikLtd);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labAsymmetrikLtd,
+        );
 
   /// Icon for _at_ in `la las` style
   const LaIcon.lasAt({
@@ -1483,7 +2787,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAt);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAt,
+        );
 
   /// Icon for _atlas_ in `la las` style
   const LaIcon.lasAtlas({
@@ -1492,7 +2804,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAtlas);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAtlas,
+        );
 
   /// Icon for _atlassian_ in `la lab` style
   const LaIcon.labAtlassian({
@@ -1501,7 +2821,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labAtlassian);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labAtlassian,
+        );
 
   /// Icon for _atom_ in `la las` style
   const LaIcon.lasAtom({
@@ -1510,7 +2838,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAtom);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAtom,
+        );
 
   /// Icon for _audible_ in `la lab` style
   const LaIcon.labAudible({
@@ -1519,7 +2855,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labAudible);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labAudible,
+        );
 
   /// Icon for _audio-description_ in `la las` style
   const LaIcon.lasAudioDescription({
@@ -1528,7 +2872,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAudioDescription);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAudioDescription,
+        );
 
   /// Icon for _audio-file_ in `la lar` style
   const LaIcon.larAudioFile({
@@ -1537,7 +2889,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larAudioFile);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larAudioFile,
+        );
 
   /// Icon for _audio-file_ in `la las` style
   const LaIcon.lasAudioFile({
@@ -1546,7 +2906,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAudioFile);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAudioFile,
+        );
 
   /// Icon for _autoprefixer_ in `la lab` style
   const LaIcon.labAutoprefixer({
@@ -1555,7 +2923,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labAutoprefixer);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labAutoprefixer,
+        );
 
   /// Icon for _avianex_ in `la lab` style
   const LaIcon.labAvianex({
@@ -1564,7 +2940,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labAvianex);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labAvianex,
+        );
 
   /// Icon for _aviato_ in `la lab` style
   const LaIcon.labAviato({
@@ -1573,7 +2957,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labAviato);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labAviato,
+        );
 
   /// Icon for _award_ in `la las` style
   const LaIcon.lasAward({
@@ -1582,7 +2974,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasAward);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasAward,
+        );
 
   /// Icon for _baby_ in `la las` style
   const LaIcon.lasBaby({
@@ -1591,7 +2991,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBaby);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBaby,
+        );
 
   /// Icon for _baby-carriage_ in `la las` style
   const LaIcon.lasBabyCarriage({
@@ -1600,7 +3008,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBabyCarriage);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBabyCarriage,
+        );
 
   /// Icon for _backspace_ in `la las` style
   const LaIcon.lasBackspace({
@@ -1609,7 +3025,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBackspace);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBackspace,
+        );
 
   /// Icon for _backward_ in `la las` style
   const LaIcon.lasBackward({
@@ -1618,7 +3042,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBackward);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBackward,
+        );
 
   /// Icon for _bacon_ in `la las` style
   const LaIcon.lasBacon({
@@ -1627,7 +3059,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBacon);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBacon,
+        );
 
   /// Icon for _balance-scale_ in `la las` style
   const LaIcon.lasBalanceScale({
@@ -1636,7 +3076,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBalanceScale);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBalanceScale,
+        );
 
   /// Icon for _balance-scale--left-weighted-_ in `la las` style
   const LaIcon.lasBalanceScaleLeftWeighted({
@@ -1645,7 +3093,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBalanceScaleLeftWeighted);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBalanceScaleLeftWeighted,
+        );
 
   /// Icon for _balance-scale--right-weighted-_ in `la las` style
   const LaIcon.lasBalanceScaleRightWeighted({
@@ -1654,7 +3110,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBalanceScaleRightWeighted);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBalanceScaleRightWeighted,
+        );
 
   /// Icon for _ban_ in `la las` style
   const LaIcon.lasBan({
@@ -1663,7 +3127,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBan);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBan,
+        );
 
   /// Icon for _band-aid_ in `la las` style
   const LaIcon.lasBandAid({
@@ -1672,7 +3144,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBandAid);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBandAid,
+        );
 
   /// Icon for _bandcamp_ in `la lab` style
   const LaIcon.labBandcamp({
@@ -1681,7 +3161,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labBandcamp);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labBandcamp,
+        );
 
   /// Icon for _bar-chart_ in `la lar` style
   const LaIcon.larBarChart({
@@ -1690,7 +3178,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larBarChart);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larBarChart,
+        );
 
   /// Icon for _bar-chart_ in `la las` style
   const LaIcon.lasBarChart({
@@ -1699,7 +3195,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBarChart);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBarChart,
+        );
 
   /// Icon for _barcode_ in `la las` style
   const LaIcon.lasBarcode({
@@ -1708,7 +3212,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBarcode);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBarcode,
+        );
 
   /// Icon for _bars_ in `la las` style
   const LaIcon.lasBars({
@@ -1717,7 +3229,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBars);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBars,
+        );
 
   /// Icon for _baseball-ball_ in `la las` style
   const LaIcon.lasBaseballBall({
@@ -1726,7 +3246,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBaseballBall);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBaseballBall,
+        );
 
   /// Icon for _basketball-ball_ in `la las` style
   const LaIcon.lasBasketballBall({
@@ -1735,7 +3263,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBasketballBall);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBasketballBall,
+        );
 
   /// Icon for _bath_ in `la las` style
   const LaIcon.lasBath({
@@ -1744,7 +3280,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBath);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBath,
+        );
 
   /// Icon for _battery-1-2-full_ in `la las` style
   const LaIcon.lasBattery12Full({
@@ -1753,7 +3297,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBattery12Full);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBattery12Full,
+        );
 
   /// Icon for _battery-1-4-full_ in `la las` style
   const LaIcon.lasBattery14Full({
@@ -1762,7 +3314,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBattery14Full);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBattery14Full,
+        );
 
   /// Icon for _battery-3-4-full_ in `la las` style
   const LaIcon.lasBattery34Full({
@@ -1771,7 +3331,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBattery34Full);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBattery34Full,
+        );
 
   /// Icon for _battery-empty_ in `la las` style
   const LaIcon.lasBatteryEmpty({
@@ -1780,7 +3348,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBatteryEmpty);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBatteryEmpty,
+        );
 
   /// Icon for _battery-full_ in `la las` style
   const LaIcon.lasBatteryFull({
@@ -1789,7 +3365,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBatteryFull);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBatteryFull,
+        );
 
   /// Icon for _battle-net_ in `la lab` style
   const LaIcon.labBattleNet({
@@ -1798,7 +3382,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labBattleNet);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labBattleNet,
+        );
 
   /// Icon for _beaming-face-with-smiling-eyes_ in `la lar` style
   const LaIcon.larBeamingFaceWithSmilingEyes({
@@ -1807,7 +3399,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larBeamingFaceWithSmilingEyes);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larBeamingFaceWithSmilingEyes,
+        );
 
   /// Icon for _beaming-face-with-smiling-eyes_ in `la las` style
   const LaIcon.lasBeamingFaceWithSmilingEyes({
@@ -1816,7 +3416,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBeamingFaceWithSmilingEyes);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBeamingFaceWithSmilingEyes,
+        );
 
   /// Icon for _bed_ in `la las` style
   const LaIcon.lasBed({
@@ -1825,7 +3433,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBed);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBed,
+        );
 
   /// Icon for _beer_ in `la las` style
   const LaIcon.lasBeer({
@@ -1834,7 +3450,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBeer);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBeer,
+        );
 
   /// Icon for _behance_ in `la lab` style
   const LaIcon.labBehance({
@@ -1843,7 +3467,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labBehance);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labBehance,
+        );
 
   /// Icon for _behance-square_ in `la lab` style
   const LaIcon.labBehanceSquare({
@@ -1852,7 +3484,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labBehanceSquare);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labBehanceSquare,
+        );
 
   /// Icon for _bell_ in `la lar` style
   const LaIcon.larBell({
@@ -1861,7 +3501,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larBell);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larBell,
+        );
 
   /// Icon for _bell_ in `la las` style
   const LaIcon.lasBell({
@@ -1870,7 +3518,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBell);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBell,
+        );
 
   /// Icon for _bell-slash_ in `la lar` style
   const LaIcon.larBellSlash({
@@ -1879,7 +3535,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larBellSlash);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larBellSlash,
+        );
 
   /// Icon for _bell-slash_ in `la las` style
   const LaIcon.lasBellSlash({
@@ -1888,7 +3552,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBellSlash);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBellSlash,
+        );
 
   /// Icon for _bezier-curve_ in `la las` style
   const LaIcon.lasBezierCurve({
@@ -1897,7 +3569,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBezierCurve);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBezierCurve,
+        );
 
   /// Icon for _bible_ in `la las` style
   const LaIcon.lasBible({
@@ -1906,7 +3586,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBible);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBible,
+        );
 
   /// Icon for _bicycle_ in `la las` style
   const LaIcon.lasBicycle({
@@ -1915,7 +3603,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBicycle);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBicycle,
+        );
 
   /// Icon for _biking_ in `la las` style
   const LaIcon.lasBiking({
@@ -1924,7 +3620,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBiking);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBiking,
+        );
 
   /// Icon for _bimobject_ in `la lab` style
   const LaIcon.labBimobject({
@@ -1933,7 +3637,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labBimobject);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labBimobject,
+        );
 
   /// Icon for _binoculars_ in `la las` style
   const LaIcon.lasBinoculars({
@@ -1942,7 +3654,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBinoculars);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBinoculars,
+        );
 
   /// Icon for _biohazard_ in `la las` style
   const LaIcon.lasBiohazard({
@@ -1951,7 +3671,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBiohazard);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBiohazard,
+        );
 
   /// Icon for _birthday-cake_ in `la las` style
   const LaIcon.lasBirthdayCake({
@@ -1960,7 +3688,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBirthdayCake);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBirthdayCake,
+        );
 
   /// Icon for _bitbucket_ in `la lab` style
   const LaIcon.labBitbucket({
@@ -1969,7 +3705,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labBitbucket);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labBitbucket,
+        );
 
   /// Icon for _bitcoin_ in `la lab` style
   const LaIcon.labBitcoin({
@@ -1978,7 +3722,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labBitcoin);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labBitcoin,
+        );
 
   /// Icon for _bity_ in `la lab` style
   const LaIcon.labBity({
@@ -1987,7 +3739,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labBity);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labBity,
+        );
 
   /// Icon for _blackberry_ in `la lab` style
   const LaIcon.labBlackberry({
@@ -1996,7 +3756,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labBlackberry);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labBlackberry,
+        );
 
   /// Icon for _blender_ in `la las` style
   const LaIcon.lasBlender({
@@ -2005,7 +3773,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBlender);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBlender,
+        );
 
   /// Icon for _blender-phone_ in `la las` style
   const LaIcon.lasBlenderPhone({
@@ -2014,7 +3790,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBlenderPhone);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBlenderPhone,
+        );
 
   /// Icon for _blind_ in `la las` style
   const LaIcon.lasBlind({
@@ -2023,7 +3807,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBlind);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBlind,
+        );
 
   /// Icon for _blog_ in `la las` style
   const LaIcon.lasBlog({
@@ -2032,7 +3824,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBlog);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBlog,
+        );
 
   /// Icon for _blogger_ in `la lab` style
   const LaIcon.labBlogger({
@@ -2041,7 +3841,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labBlogger);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labBlogger,
+        );
 
   /// Icon for _blogger-b_ in `la lab` style
   const LaIcon.labBloggerB({
@@ -2050,7 +3858,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labBloggerB);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labBloggerB,
+        );
 
   /// Icon for _bluetooth_ in `la lab` style
   const LaIcon.labBluetooth({
@@ -2059,7 +3875,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labBluetooth);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labBluetooth,
+        );
 
   /// Icon for _bluetooth-2_ in `la lab` style
   const LaIcon.labBluetooth2({
@@ -2068,7 +3892,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labBluetooth2);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labBluetooth2,
+        );
 
   /// Icon for _bold_ in `la las` style
   const LaIcon.lasBold({
@@ -2077,7 +3909,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBold);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBold,
+        );
 
   /// Icon for _bomb_ in `la las` style
   const LaIcon.lasBomb({
@@ -2086,7 +3926,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBomb);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBomb,
+        );
 
   /// Icon for _bone_ in `la las` style
   const LaIcon.lasBone({
@@ -2095,7 +3943,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBone);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBone,
+        );
 
   /// Icon for _bong_ in `la las` style
   const LaIcon.lasBong({
@@ -2104,7 +3960,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBong);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBong,
+        );
 
   /// Icon for _book_ in `la las` style
   const LaIcon.lasBook({
@@ -2113,7 +3977,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBook);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBook,
+        );
 
   /// Icon for _bookmark_ in `la lar` style
   const LaIcon.larBookmark({
@@ -2122,7 +3994,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larBookmark);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larBookmark,
+        );
 
   /// Icon for _bookmark_ in `la las` style
   const LaIcon.lasBookmark({
@@ -2131,7 +4011,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBookmark);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBookmark,
+        );
 
   /// Icon for _book-of-the-dead_ in `la las` style
   const LaIcon.lasBookOfTheDead({
@@ -2140,7 +4028,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBookOfTheDead);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBookOfTheDead,
+        );
 
   /// Icon for _book-open_ in `la las` style
   const LaIcon.lasBookOpen({
@@ -2149,7 +4045,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBookOpen);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBookOpen,
+        );
 
   /// Icon for _book-reader_ in `la las` style
   const LaIcon.lasBookReader({
@@ -2158,7 +4062,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBookReader);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBookReader,
+        );
 
   /// Icon for _bootstrap_ in `la lab` style
   const LaIcon.labBootstrap({
@@ -2167,7 +4079,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labBootstrap);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labBootstrap,
+        );
 
   /// Icon for _border-all_ in `la las` style
   const LaIcon.lasBorderAll({
@@ -2176,7 +4096,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBorderAll);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBorderAll,
+        );
 
   /// Icon for _border-none_ in `la las` style
   const LaIcon.lasBorderNone({
@@ -2185,7 +4113,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBorderNone);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBorderNone,
+        );
 
   /// Icon for _border-style_ in `la las` style
   const LaIcon.lasBorderStyle({
@@ -2194,7 +4130,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBorderStyle);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBorderStyle,
+        );
 
   /// Icon for _bowling-ball_ in `la las` style
   const LaIcon.lasBowlingBall({
@@ -2203,7 +4147,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBowlingBall);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBowlingBall,
+        );
 
   /// Icon for _box_ in `la las` style
   const LaIcon.lasBox({
@@ -2212,7 +4164,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBox);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBox,
+        );
 
   /// Icon for _boxes_ in `la las` style
   const LaIcon.lasBoxes({
@@ -2221,7 +4181,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBoxes);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBoxes,
+        );
 
   /// Icon for _box-open_ in `la las` style
   const LaIcon.lasBoxOpen({
@@ -2230,7 +4198,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBoxOpen);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBoxOpen,
+        );
 
   /// Icon for _braille_ in `la las` style
   const LaIcon.lasBraille({
@@ -2239,7 +4215,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBraille);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBraille,
+        );
 
   /// Icon for _brain_ in `la las` style
   const LaIcon.lasBrain({
@@ -2248,7 +4232,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBrain);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBrain,
+        );
 
   /// Icon for _bread-slice_ in `la las` style
   const LaIcon.lasBreadSlice({
@@ -2257,7 +4249,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBreadSlice);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBreadSlice,
+        );
 
   /// Icon for _briefcase_ in `la las` style
   const LaIcon.lasBriefcase({
@@ -2266,7 +4266,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBriefcase);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBriefcase,
+        );
 
   /// Icon for _broadcast-tower_ in `la las` style
   const LaIcon.lasBroadcastTower({
@@ -2275,7 +4283,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBroadcastTower);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBroadcastTower,
+        );
 
   /// Icon for _b-rom-bel-experte-gmbh---co--kg-_ in `la lab` style
   const LaIcon.labBRomBelExperteGmbhCoKg({
@@ -2284,7 +4300,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labBRomBelExperteGmbhCoKg);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labBRomBelExperteGmbhCoKg,
+        );
 
   /// Icon for _broom_ in `la las` style
   const LaIcon.lasBroom({
@@ -2293,7 +4317,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBroom);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBroom,
+        );
 
   /// Icon for _brush_ in `la las` style
   const LaIcon.lasBrush({
@@ -2302,7 +4334,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBrush);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBrush,
+        );
 
   /// Icon for _btc_ in `la lab` style
   const LaIcon.labBtc({
@@ -2311,7 +4351,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labBtc);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labBtc,
+        );
 
   /// Icon for _buffer_ in `la lab` style
   const LaIcon.labBuffer({
@@ -2320,7 +4368,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labBuffer);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labBuffer,
+        );
 
   /// Icon for _bug_ in `la las` style
   const LaIcon.lasBug({
@@ -2329,7 +4385,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBug);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBug,
+        );
 
   /// Icon for _building_ in `la lar` style
   const LaIcon.larBuilding({
@@ -2338,7 +4402,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larBuilding);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larBuilding,
+        );
 
   /// Icon for _building_ in `la las` style
   const LaIcon.lasBuilding({
@@ -2347,7 +4419,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBuilding);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBuilding,
+        );
 
   /// Icon for _bullhorn_ in `la las` style
   const LaIcon.lasBullhorn({
@@ -2356,7 +4436,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBullhorn);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBullhorn,
+        );
 
   /// Icon for _bullseye_ in `la las` style
   const LaIcon.lasBullseye({
@@ -2365,7 +4453,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBullseye);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBullseye,
+        );
 
   /// Icon for _burn_ in `la las` style
   const LaIcon.lasBurn({
@@ -2374,7 +4470,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBurn);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBurn,
+        );
 
   /// Icon for _bus_ in `la las` style
   const LaIcon.lasBus({
@@ -2383,7 +4487,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBus);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBus,
+        );
 
   /// Icon for _bus-alt_ in `la las` style
   const LaIcon.lasBusAlt({
@@ -2392,7 +4504,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBusAlt);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBusAlt,
+        );
 
   /// Icon for _business-time_ in `la las` style
   const LaIcon.lasBusinessTime({
@@ -2401,7 +4521,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasBusinessTime);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasBusinessTime,
+        );
 
   /// Icon for _buy-n-large_ in `la lab` style
   const LaIcon.labBuyNLarge({
@@ -2410,7 +4538,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labBuyNLarge);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labBuyNLarge,
+        );
 
   /// Icon for _buysellads_ in `la lab` style
   const LaIcon.labBuysellads({
@@ -2419,7 +4555,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labBuysellads);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labBuysellads,
+        );
 
   /// Icon for _calculator_ in `la las` style
   const LaIcon.lasCalculator({
@@ -2428,7 +4572,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCalculator);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCalculator,
+        );
 
   /// Icon for _calendar_ in `la lar` style
   const LaIcon.larCalendar({
@@ -2437,7 +4589,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larCalendar);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larCalendar,
+        );
 
   /// Icon for _calendar_ in `la las` style
   const LaIcon.lasCalendar({
@@ -2446,7 +4606,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCalendar);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCalendar,
+        );
 
   /// Icon for _calendar-check_ in `la lar` style
   const LaIcon.larCalendarCheck({
@@ -2455,7 +4623,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larCalendarCheck);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larCalendarCheck,
+        );
 
   /// Icon for _calendar-check_ in `la las` style
   const LaIcon.lasCalendarCheck({
@@ -2464,7 +4640,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCalendarCheck);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCalendarCheck,
+        );
 
   /// Icon for _calendar-minus_ in `la lar` style
   const LaIcon.larCalendarMinus({
@@ -2473,7 +4657,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larCalendarMinus);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larCalendarMinus,
+        );
 
   /// Icon for _calendar-minus_ in `la las` style
   const LaIcon.lasCalendarMinus({
@@ -2482,7 +4674,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCalendarMinus);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCalendarMinus,
+        );
 
   /// Icon for _calendar-plus_ in `la lar` style
   const LaIcon.larCalendarPlus({
@@ -2491,7 +4691,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larCalendarPlus);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larCalendarPlus,
+        );
 
   /// Icon for _calendar-plus_ in `la las` style
   const LaIcon.lasCalendarPlus({
@@ -2500,7 +4708,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCalendarPlus);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCalendarPlus,
+        );
 
   /// Icon for _calendar-times_ in `la lar` style
   const LaIcon.larCalendarTimes({
@@ -2509,7 +4725,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larCalendarTimes);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larCalendarTimes,
+        );
 
   /// Icon for _calendar-times_ in `la las` style
   const LaIcon.lasCalendarTimes({
@@ -2518,7 +4742,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCalendarTimes);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCalendarTimes,
+        );
 
   /// Icon for _calendar-with-day-focus_ in `la las` style
   const LaIcon.lasCalendarWithDayFocus({
@@ -2527,7 +4759,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCalendarWithDayFocus);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCalendarWithDayFocus,
+        );
 
   /// Icon for _calendar-with-week-focus_ in `la las` style
   const LaIcon.lasCalendarWithWeekFocus({
@@ -2536,7 +4776,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCalendarWithWeekFocus);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCalendarWithWeekFocus,
+        );
 
   /// Icon for _camera_ in `la las` style
   const LaIcon.lasCamera({
@@ -2545,7 +4793,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCamera);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCamera,
+        );
 
   /// Icon for _campground_ in `la las` style
   const LaIcon.lasCampground({
@@ -2554,7 +4810,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCampground);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCampground,
+        );
 
   /// Icon for _canadian-maple-leaf_ in `la lab` style
   const LaIcon.labCanadianMapleLeaf({
@@ -2563,7 +4827,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labCanadianMapleLeaf);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labCanadianMapleLeaf,
+        );
 
   /// Icon for _candy-cane_ in `la las` style
   const LaIcon.lasCandyCane({
@@ -2572,7 +4844,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCandyCane);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCandyCane,
+        );
 
   /// Icon for _cannabis_ in `la las` style
   const LaIcon.lasCannabis({
@@ -2581,7 +4861,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCannabis);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCannabis,
+        );
 
   /// Icon for _capsules_ in `la las` style
   const LaIcon.lasCapsules({
@@ -2590,7 +4878,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCapsules);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCapsules,
+        );
 
   /// Icon for _car_ in `la las` style
   const LaIcon.lasCar({
@@ -2599,7 +4895,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCar);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCar,
+        );
 
   /// Icon for _car-battery_ in `la las` style
   const LaIcon.lasCarBattery({
@@ -2608,7 +4912,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCarBattery);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCarBattery,
+        );
 
   /// Icon for _car-crash_ in `la las` style
   const LaIcon.lasCarCrash({
@@ -2617,7 +4929,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCarCrash);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCarCrash,
+        );
 
   /// Icon for _cardboard-vr_ in `la las` style
   const LaIcon.lasCardboardVr({
@@ -2626,7 +4946,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCardboardVr);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCardboardVr,
+        );
 
   /// Icon for _caret-down_ in `la las` style
   const LaIcon.lasCaretDown({
@@ -2635,7 +4963,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCaretDown);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCaretDown,
+        );
 
   /// Icon for _caret-left_ in `la las` style
   const LaIcon.lasCaretLeft({
@@ -2644,7 +4980,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCaretLeft);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCaretLeft,
+        );
 
   /// Icon for _caret-right_ in `la las` style
   const LaIcon.lasCaretRight({
@@ -2653,7 +4997,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCaretRight);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCaretRight,
+        );
 
   /// Icon for _caret-square-down_ in `la lar` style
   const LaIcon.larCaretSquareDown({
@@ -2662,7 +5014,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larCaretSquareDown);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larCaretSquareDown,
+        );
 
   /// Icon for _caret-square-down_ in `la las` style
   const LaIcon.lasCaretSquareDown({
@@ -2671,7 +5031,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCaretSquareDown);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCaretSquareDown,
+        );
 
   /// Icon for _caret-square-left_ in `la lar` style
   const LaIcon.larCaretSquareLeft({
@@ -2680,7 +5048,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larCaretSquareLeft);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larCaretSquareLeft,
+        );
 
   /// Icon for _caret-square-left_ in `la las` style
   const LaIcon.lasCaretSquareLeft({
@@ -2689,7 +5065,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCaretSquareLeft);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCaretSquareLeft,
+        );
 
   /// Icon for _caret-square-right_ in `la lar` style
   const LaIcon.larCaretSquareRight({
@@ -2698,7 +5082,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larCaretSquareRight);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larCaretSquareRight,
+        );
 
   /// Icon for _caret-square-right_ in `la las` style
   const LaIcon.lasCaretSquareRight({
@@ -2707,7 +5099,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCaretSquareRight);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCaretSquareRight,
+        );
 
   /// Icon for _caret-square-up_ in `la lar` style
   const LaIcon.larCaretSquareUp({
@@ -2716,7 +5116,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larCaretSquareUp);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larCaretSquareUp,
+        );
 
   /// Icon for _caret-square-up_ in `la las` style
   const LaIcon.lasCaretSquareUp({
@@ -2725,7 +5133,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCaretSquareUp);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCaretSquareUp,
+        );
 
   /// Icon for _caret-up_ in `la las` style
   const LaIcon.lasCaretUp({
@@ -2734,7 +5150,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCaretUp);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCaretUp,
+        );
 
   /// Icon for _carrot_ in `la las` style
   const LaIcon.lasCarrot({
@@ -2743,7 +5167,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCarrot);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCarrot,
+        );
 
   /// Icon for _car-side_ in `la las` style
   const LaIcon.lasCarSide({
@@ -2752,7 +5184,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCarSide);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCarSide,
+        );
 
   /// Icon for _cash-register_ in `la las` style
   const LaIcon.lasCashRegister({
@@ -2761,7 +5201,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCashRegister);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCashRegister,
+        );
 
   /// Icon for _cat_ in `la las` style
   const LaIcon.lasCat({
@@ -2770,7 +5218,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCat);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCat,
+        );
 
   /// Icon for _centercode_ in `la lab` style
   const LaIcon.labCentercode({
@@ -2779,7 +5235,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labCentercode);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labCentercode,
+        );
 
   /// Icon for _centos_ in `la lab` style
   const LaIcon.labCentos({
@@ -2788,7 +5252,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labCentos);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labCentos,
+        );
 
   /// Icon for _certificate_ in `la las` style
   const LaIcon.lasCertificate({
@@ -2797,7 +5269,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCertificate);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCertificate,
+        );
 
   /// Icon for _chair_ in `la las` style
   const LaIcon.lasChair({
@@ -2806,7 +5286,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasChair);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasChair,
+        );
 
   /// Icon for _chalkboard_ in `la las` style
   const LaIcon.lasChalkboard({
@@ -2815,7 +5303,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasChalkboard);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasChalkboard,
+        );
 
   /// Icon for _chalkboard-teacher_ in `la las` style
   const LaIcon.lasChalkboardTeacher({
@@ -2824,7 +5320,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasChalkboardTeacher);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasChalkboardTeacher,
+        );
 
   /// Icon for _charging-station_ in `la las` style
   const LaIcon.lasChargingStation({
@@ -2833,7 +5337,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasChargingStation);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasChargingStation,
+        );
 
   /// Icon for _check_ in `la las` style
   const LaIcon.lasCheck({
@@ -2842,7 +5354,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCheck);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCheck,
+        );
 
   /// Icon for _check-circle_ in `la lar` style
   const LaIcon.larCheckCircle({
@@ -2851,7 +5371,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larCheckCircle);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larCheckCircle,
+        );
 
   /// Icon for _check-circle_ in `la las` style
   const LaIcon.lasCheckCircle({
@@ -2860,7 +5388,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCheckCircle);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCheckCircle,
+        );
 
   /// Icon for _check-square_ in `la lar` style
   const LaIcon.larCheckSquare({
@@ -2869,7 +5405,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larCheckSquare);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larCheckSquare,
+        );
 
   /// Icon for _check-square_ in `la las` style
   const LaIcon.lasCheckSquare({
@@ -2878,7 +5422,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCheckSquare);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCheckSquare,
+        );
 
   /// Icon for _cheese_ in `la las` style
   const LaIcon.lasCheese({
@@ -2887,7 +5439,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCheese);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCheese,
+        );
 
   /// Icon for _chess_ in `la las` style
   const LaIcon.lasChess({
@@ -2896,7 +5456,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasChess);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasChess,
+        );
 
   /// Icon for _chess-bishop_ in `la las` style
   const LaIcon.lasChessBishop({
@@ -2905,7 +5473,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasChessBishop);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasChessBishop,
+        );
 
   /// Icon for _chess-board_ in `la las` style
   const LaIcon.lasChessBoard({
@@ -2914,7 +5490,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasChessBoard);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasChessBoard,
+        );
 
   /// Icon for _chess-king_ in `la las` style
   const LaIcon.lasChessKing({
@@ -2923,7 +5507,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasChessKing);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasChessKing,
+        );
 
   /// Icon for _chess-knight_ in `la las` style
   const LaIcon.lasChessKnight({
@@ -2932,7 +5524,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasChessKnight);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasChessKnight,
+        );
 
   /// Icon for _chess-pawn_ in `la las` style
   const LaIcon.lasChessPawn({
@@ -2941,7 +5541,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasChessPawn);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasChessPawn,
+        );
 
   /// Icon for _chess-queen_ in `la las` style
   const LaIcon.lasChessQueen({
@@ -2950,7 +5558,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasChessQueen);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasChessQueen,
+        );
 
   /// Icon for _chess-rook_ in `la las` style
   const LaIcon.lasChessRook({
@@ -2959,7 +5575,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasChessRook);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasChessRook,
+        );
 
   /// Icon for _chevron-circle-down_ in `la las` style
   const LaIcon.lasChevronCircleDown({
@@ -2968,7 +5592,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasChevronCircleDown);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasChevronCircleDown,
+        );
 
   /// Icon for _chevron-circle-left_ in `la las` style
   const LaIcon.lasChevronCircleLeft({
@@ -2977,7 +5609,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasChevronCircleLeft);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasChevronCircleLeft,
+        );
 
   /// Icon for _chevron-circle-right_ in `la las` style
   const LaIcon.lasChevronCircleRight({
@@ -2986,7 +5626,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasChevronCircleRight);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasChevronCircleRight,
+        );
 
   /// Icon for _chevron-circle-up_ in `la las` style
   const LaIcon.lasChevronCircleUp({
@@ -2995,7 +5643,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasChevronCircleUp);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasChevronCircleUp,
+        );
 
   /// Icon for _chevron-down_ in `la las` style
   const LaIcon.lasChevronDown({
@@ -3004,7 +5660,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasChevronDown);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasChevronDown,
+        );
 
   /// Icon for _chevron-left_ in `la las` style
   const LaIcon.lasChevronLeft({
@@ -3013,7 +5677,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasChevronLeft);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasChevronLeft,
+        );
 
   /// Icon for _chevron-right_ in `la las` style
   const LaIcon.lasChevronRight({
@@ -3022,7 +5694,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasChevronRight);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasChevronRight,
+        );
 
   /// Icon for _chevron-up_ in `la las` style
   const LaIcon.lasChevronUp({
@@ -3031,7 +5711,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasChevronUp);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasChevronUp,
+        );
 
   /// Icon for _child_ in `la las` style
   const LaIcon.lasChild({
@@ -3040,7 +5728,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasChild);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasChild,
+        );
 
   /// Icon for _chrome_ in `la lab` style
   const LaIcon.labChrome({
@@ -3049,7 +5745,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labChrome);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labChrome,
+        );
 
   /// Icon for _chromecast_ in `la lab` style
   const LaIcon.labChromecast({
@@ -3058,7 +5762,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labChromecast);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labChromecast,
+        );
 
   /// Icon for _church_ in `la las` style
   const LaIcon.lasChurch({
@@ -3067,7 +5779,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasChurch);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasChurch,
+        );
 
   /// Icon for _circle_ in `la lar` style
   const LaIcon.larCircle({
@@ -3076,7 +5796,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larCircle);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larCircle,
+        );
 
   /// Icon for _circle_ in `la las` style
   const LaIcon.lasCircle({
@@ -3085,7 +5813,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCircle);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCircle,
+        );
 
   /// Icon for _circle-notched_ in `la las` style
   const LaIcon.lasCircleNotched({
@@ -3094,7 +5830,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCircleNotched);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCircleNotched,
+        );
 
   /// Icon for _city_ in `la las` style
   const LaIcon.lasCity({
@@ -3103,7 +5847,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCity);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCity,
+        );
 
   /// Icon for _clipboard_ in `la lar` style
   const LaIcon.larClipboard({
@@ -3112,7 +5864,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larClipboard);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larClipboard,
+        );
 
   /// Icon for _clipboard_ in `la las` style
   const LaIcon.lasClipboard({
@@ -3121,7 +5881,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasClipboard);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasClipboard,
+        );
 
   /// Icon for _clipboard-list_ in `la las` style
   const LaIcon.lasClipboardList({
@@ -3130,7 +5898,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasClipboardList);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasClipboardList,
+        );
 
   /// Icon for _clipboard-with-check_ in `la las` style
   const LaIcon.lasClipboardWithCheck({
@@ -3139,7 +5915,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasClipboardWithCheck);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasClipboardWithCheck,
+        );
 
   /// Icon for _clock_ in `la lar` style
   const LaIcon.larClock({
@@ -3148,7 +5932,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larClock);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larClock,
+        );
 
   /// Icon for _clock_ in `la las` style
   const LaIcon.lasClock({
@@ -3157,7 +5949,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasClock);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasClock,
+        );
 
   /// Icon for _clone_ in `la lar` style
   const LaIcon.larClone({
@@ -3166,7 +5966,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larClone);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larClone,
+        );
 
   /// Icon for _clone_ in `la las` style
   const LaIcon.lasClone({
@@ -3175,7 +5983,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasClone);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasClone,
+        );
 
   /// Icon for _closed-captioning_ in `la lar` style
   const LaIcon.larClosedCaptioning({
@@ -3184,7 +6000,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larClosedCaptioning);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larClosedCaptioning,
+        );
 
   /// Icon for _closed-captioning_ in `la las` style
   const LaIcon.lasClosedCaptioning({
@@ -3193,7 +6017,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasClosedCaptioning);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasClosedCaptioning,
+        );
 
   /// Icon for _cloud_ in `la las` style
   const LaIcon.lasCloud({
@@ -3202,7 +6034,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCloud);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCloud,
+        );
 
   /// Icon for _cloudscale-ch_ in `la lab` style
   const LaIcon.labCloudscaleCh({
@@ -3211,7 +6051,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labCloudscaleCh);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labCloudscaleCh,
+        );
 
   /// Icon for _cloudsmith_ in `la lab` style
   const LaIcon.labCloudsmith({
@@ -3220,7 +6068,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labCloudsmith);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labCloudsmith,
+        );
 
   /// Icon for _cloudversify_ in `la lab` style
   const LaIcon.labCloudversify({
@@ -3229,7 +6085,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labCloudversify);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labCloudversify,
+        );
 
   /// Icon for _cloud-with--a-chance-of--meatball_ in `la las` style
   const LaIcon.lasCloudWithAChanceOfMeatball({
@@ -3238,7 +6102,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCloudWithAChanceOfMeatball);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCloudWithAChanceOfMeatball,
+        );
 
   /// Icon for _cloud-with-heavy-showers_ in `la las` style
   const LaIcon.lasCloudWithHeavyShowers({
@@ -3247,7 +6119,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCloudWithHeavyShowers);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCloudWithHeavyShowers,
+        );
 
   /// Icon for _cloud-with-moon_ in `la las` style
   const LaIcon.lasCloudWithMoon({
@@ -3256,7 +6136,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCloudWithMoon);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCloudWithMoon,
+        );
 
   /// Icon for _cloud-with-moon-and-rain_ in `la las` style
   const LaIcon.lasCloudWithMoonAndRain({
@@ -3265,7 +6153,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCloudWithMoonAndRain);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCloudWithMoonAndRain,
+        );
 
   /// Icon for _cloud-with-rain_ in `la las` style
   const LaIcon.lasCloudWithRain({
@@ -3274,7 +6170,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCloudWithRain);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCloudWithRain,
+        );
 
   /// Icon for _cloud-with-sun_ in `la las` style
   const LaIcon.lasCloudWithSun({
@@ -3283,7 +6187,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCloudWithSun);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCloudWithSun,
+        );
 
   /// Icon for _cloud-with-sun-and-rain_ in `la las` style
   const LaIcon.lasCloudWithSunAndRain({
@@ -3292,7 +6204,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCloudWithSunAndRain);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCloudWithSunAndRain,
+        );
 
   /// Icon for _cocktail_ in `la las` style
   const LaIcon.lasCocktail({
@@ -3301,7 +6221,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCocktail);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCocktail,
+        );
 
   /// Icon for _code_ in `la las` style
   const LaIcon.lasCode({
@@ -3310,7 +6238,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCode);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCode,
+        );
 
   /// Icon for _code-branch_ in `la las` style
   const LaIcon.lasCodeBranch({
@@ -3319,7 +6255,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCodeBranch);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCodeBranch,
+        );
 
   /// Icon for _code-file_ in `la lar` style
   const LaIcon.larCodeFile({
@@ -3328,7 +6272,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larCodeFile);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larCodeFile,
+        );
 
   /// Icon for _code-file_ in `la las` style
   const LaIcon.lasCodeFile({
@@ -3337,7 +6289,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCodeFile);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCodeFile,
+        );
 
   /// Icon for _codepen_ in `la lab` style
   const LaIcon.labCodepen({
@@ -3346,7 +6306,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labCodepen);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labCodepen,
+        );
 
   /// Icon for _codie-pie_ in `la lab` style
   const LaIcon.labCodiePie({
@@ -3355,7 +6323,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labCodiePie);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labCodiePie,
+        );
 
   /// Icon for _coffee_ in `la las` style
   const LaIcon.lasCoffee({
@@ -3364,7 +6340,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCoffee);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCoffee,
+        );
 
   /// Icon for _cog_ in `la las` style
   const LaIcon.lasCog({
@@ -3373,7 +6357,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCog);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCog,
+        );
 
   /// Icon for _cogs_ in `la las` style
   const LaIcon.lasCogs({
@@ -3382,7 +6374,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCogs);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCogs,
+        );
 
   /// Icon for _coins_ in `la las` style
   const LaIcon.lasCoins({
@@ -3391,7 +6391,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCoins);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCoins,
+        );
 
   /// Icon for _columns_ in `la las` style
   const LaIcon.lasColumns({
@@ -3400,7 +6408,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasColumns);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasColumns,
+        );
 
   /// Icon for _comment_ in `la lar` style
   const LaIcon.larComment({
@@ -3409,7 +6425,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larComment);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larComment,
+        );
 
   /// Icon for _comment_ in `la las` style
   const LaIcon.lasComment({
@@ -3418,7 +6442,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasComment);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasComment,
+        );
 
   /// Icon for _comment-dollar_ in `la las` style
   const LaIcon.lasCommentDollar({
@@ -3427,7 +6459,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCommentDollar);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCommentDollar,
+        );
 
   /// Icon for _comment-dots_ in `la lar` style
   const LaIcon.larCommentDots({
@@ -3436,7 +6476,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larCommentDots);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larCommentDots,
+        );
 
   /// Icon for _comment-dots_ in `la las` style
   const LaIcon.lasCommentDots({
@@ -3445,7 +6493,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCommentDots);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCommentDots,
+        );
 
   /// Icon for _comments_ in `la lar` style
   const LaIcon.larComments({
@@ -3454,7 +6510,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larComments);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larComments,
+        );
 
   /// Icon for _comments_ in `la las` style
   const LaIcon.lasComments({
@@ -3463,7 +6527,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasComments);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasComments,
+        );
 
   /// Icon for _comments-dollar_ in `la las` style
   const LaIcon.lasCommentsDollar({
@@ -3472,7 +6544,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCommentsDollar);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCommentsDollar,
+        );
 
   /// Icon for _comment-slash_ in `la las` style
   const LaIcon.lasCommentSlash({
@@ -3481,7 +6561,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCommentSlash);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCommentSlash,
+        );
 
   /// Icon for _compact-disc_ in `la las` style
   const LaIcon.lasCompactDisc({
@@ -3490,7 +6578,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCompactDisc);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCompactDisc,
+        );
 
   /// Icon for _compass_ in `la lar` style
   const LaIcon.larCompass({
@@ -3499,7 +6595,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larCompass);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larCompass,
+        );
 
   /// Icon for _compass_ in `la las` style
   const LaIcon.lasCompass({
@@ -3508,7 +6612,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCompass);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCompass,
+        );
 
   /// Icon for _compress_ in `la las` style
   const LaIcon.lasCompress({
@@ -3517,7 +6629,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCompress);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCompress,
+        );
 
   /// Icon for _concierge-bell_ in `la las` style
   const LaIcon.lasConciergeBell({
@@ -3526,7 +6646,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasConciergeBell);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasConciergeBell,
+        );
 
   /// Icon for _confluence_ in `la lab` style
   const LaIcon.labConfluence({
@@ -3535,7 +6663,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labConfluence);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labConfluence,
+        );
 
   /// Icon for _connect-develop_ in `la lab` style
   const LaIcon.labConnectDevelop({
@@ -3544,7 +6680,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labConnectDevelop);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labConnectDevelop,
+        );
 
   /// Icon for _contao_ in `la lab` style
   const LaIcon.labContao({
@@ -3553,7 +6697,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labContao);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labContao,
+        );
 
   /// Icon for _cookie_ in `la las` style
   const LaIcon.lasCookie({
@@ -3562,7 +6714,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCookie);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCookie,
+        );
 
   /// Icon for _cookie-bite_ in `la las` style
   const LaIcon.lasCookieBite({
@@ -3571,7 +6731,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCookieBite);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCookieBite,
+        );
 
   /// Icon for _copy_ in `la lar` style
   const LaIcon.larCopy({
@@ -3580,7 +6748,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larCopy);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larCopy,
+        );
 
   /// Icon for _copy_ in `la las` style
   const LaIcon.lasCopy({
@@ -3589,7 +6765,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCopy);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCopy,
+        );
 
   /// Icon for _copyright_ in `la lar` style
   const LaIcon.larCopyright({
@@ -3598,7 +6782,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larCopyright);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larCopyright,
+        );
 
   /// Icon for _copyright_ in `la las` style
   const LaIcon.lasCopyright({
@@ -3607,7 +6799,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCopyright);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCopyright,
+        );
 
   /// Icon for _cotton-bureau_ in `la lab` style
   const LaIcon.labCottonBureau({
@@ -3616,7 +6816,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labCottonBureau);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labCottonBureau,
+        );
 
   /// Icon for _couch_ in `la las` style
   const LaIcon.lasCouch({
@@ -3625,7 +6833,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCouch);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCouch,
+        );
 
   /// Icon for _cowboy-hat_ in `la las` style
   const LaIcon.lasCowboyHat({
@@ -3634,7 +6850,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCowboyHat);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCowboyHat,
+        );
 
   /// Icon for _cowboy-hat-side_ in `la las` style
   const LaIcon.lasCowboyHatSide({
@@ -3643,7 +6867,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCowboyHatSide);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCowboyHatSide,
+        );
 
   /// Icon for _cpanel_ in `la lab` style
   const LaIcon.labCpanel({
@@ -3652,7 +6884,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labCpanel);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labCpanel,
+        );
 
   /// Icon for _creative-commons_ in `la lab` style
   const LaIcon.labCreativeCommons({
@@ -3661,7 +6901,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labCreativeCommons);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labCreativeCommons,
+        );
 
   /// Icon for _creative-commons-attribution_ in `la lab` style
   const LaIcon.labCreativeCommonsAttribution({
@@ -3670,7 +6918,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labCreativeCommonsAttribution);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labCreativeCommonsAttribution,
+        );
 
   /// Icon for _creative-commons-cc0_ in `la lab` style
   const LaIcon.labCreativeCommonsCc0({
@@ -3679,7 +6935,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labCreativeCommonsCc0);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labCreativeCommonsCc0,
+        );
 
   /// Icon for _creative-commons-no-derivative-works_ in `la lab` style
   const LaIcon.labCreativeCommonsNoDerivativeWorks({
@@ -3688,7 +6952,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labCreativeCommonsNoDerivativeWorks);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labCreativeCommonsNoDerivativeWorks,
+        );
 
   /// Icon for _creative-commons-noncommercial_ in `la lab` style
   const LaIcon.labCreativeCommonsNoncommercial({
@@ -3697,7 +6969,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labCreativeCommonsNoncommercial);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labCreativeCommonsNoncommercial,
+        );
 
   /// Icon for _creative-commons-noncommercial--euro-sign-_ in `la lab` style
   const LaIcon.labCreativeCommonsNoncommercialEuroSign({
@@ -3706,7 +6986,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labCreativeCommonsNoncommercialEuroSign);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labCreativeCommonsNoncommercialEuroSign,
+        );
 
   /// Icon for _creative-commons-noncommercial--yen-sign-_ in `la lab` style
   const LaIcon.labCreativeCommonsNoncommercialYenSign({
@@ -3715,7 +7003,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labCreativeCommonsNoncommercialYenSign);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labCreativeCommonsNoncommercialYenSign,
+        );
 
   /// Icon for _creative-commons-public-domain_ in `la lab` style
   const LaIcon.labCreativeCommonsPublicDomain({
@@ -3724,7 +7020,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labCreativeCommonsPublicDomain);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labCreativeCommonsPublicDomain,
+        );
 
   /// Icon for _creative-commons-remix_ in `la lab` style
   const LaIcon.labCreativeCommonsRemix({
@@ -3733,7 +7037,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labCreativeCommonsRemix);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labCreativeCommonsRemix,
+        );
 
   /// Icon for _creative-commons-sampling_ in `la lab` style
   const LaIcon.labCreativeCommonsSampling({
@@ -3742,7 +7054,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labCreativeCommonsSampling);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labCreativeCommonsSampling,
+        );
 
   /// Icon for _creative-commons-sampling-plus_ in `la lab` style
   const LaIcon.labCreativeCommonsSamplingPlus({
@@ -3751,7 +7071,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labCreativeCommonsSamplingPlus);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labCreativeCommonsSamplingPlus,
+        );
 
   /// Icon for _creative-commons-share_ in `la lab` style
   const LaIcon.labCreativeCommonsShare({
@@ -3760,7 +7088,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labCreativeCommonsShare);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labCreativeCommonsShare,
+        );
 
   /// Icon for _creative-commons-share-alike_ in `la lab` style
   const LaIcon.labCreativeCommonsShareAlike({
@@ -3769,7 +7105,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labCreativeCommonsShareAlike);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labCreativeCommonsShareAlike,
+        );
 
   /// Icon for _credit-card_ in `la lar` style
   const LaIcon.larCreditCard({
@@ -3778,7 +7122,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larCreditCard);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larCreditCard,
+        );
 
   /// Icon for _credit-card_ in `la las` style
   const LaIcon.lasCreditCard({
@@ -3787,7 +7139,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCreditCard);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCreditCard,
+        );
 
   /// Icon for _critical-role_ in `la lab` style
   const LaIcon.labCriticalRole({
@@ -3796,7 +7156,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labCriticalRole);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labCriticalRole,
+        );
 
   /// Icon for _crop_ in `la las` style
   const LaIcon.lasCrop({
@@ -3805,7 +7173,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCrop);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCrop,
+        );
 
   /// Icon for _cross_ in `la las` style
   const LaIcon.lasCross({
@@ -3814,7 +7190,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCross);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCross,
+        );
 
   /// Icon for _crosshairs_ in `la las` style
   const LaIcon.lasCrosshairs({
@@ -3823,7 +7207,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCrosshairs);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCrosshairs,
+        );
 
   /// Icon for _crow_ in `la las` style
   const LaIcon.lasCrow({
@@ -3832,7 +7224,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCrow);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCrow,
+        );
 
   /// Icon for _crown_ in `la las` style
   const LaIcon.lasCrown({
@@ -3841,7 +7241,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCrown);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCrown,
+        );
 
   /// Icon for _crutch_ in `la las` style
   const LaIcon.lasCrutch({
@@ -3850,7 +7258,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCrutch);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCrutch,
+        );
 
   /// Icon for _crying-face_ in `la lar` style
   const LaIcon.larCryingFace({
@@ -3859,7 +7275,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larCryingFace);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larCryingFace,
+        );
 
   /// Icon for _crying-face_ in `la las` style
   const LaIcon.lasCryingFace({
@@ -3868,7 +7292,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCryingFace);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCryingFace,
+        );
 
   /// Icon for _css-3-logo_ in `la lab` style
   const LaIcon.labCss3Logo({
@@ -3877,7 +7309,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labCss3Logo);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labCss3Logo,
+        );
 
   /// Icon for _cube_ in `la las` style
   const LaIcon.lasCube({
@@ -3886,7 +7326,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCube);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCube,
+        );
 
   /// Icon for _cubes_ in `la las` style
   const LaIcon.lasCubes({
@@ -3895,7 +7343,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCubes);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCubes,
+        );
 
   /// Icon for _cut_ in `la las` style
   const LaIcon.lasCut({
@@ -3904,7 +7360,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasCut);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasCut,
+        );
 
   /// Icon for _cuttlefish_ in `la lab` style
   const LaIcon.labCuttlefish({
@@ -3913,7 +7377,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labCuttlefish);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labCuttlefish,
+        );
 
   /// Icon for _damaged-house_ in `la las` style
   const LaIcon.lasDamagedHouse({
@@ -3922,7 +7394,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasDamagedHouse);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasDamagedHouse,
+        );
 
   /// Icon for _dashcube_ in `la lab` style
   const LaIcon.labDashcube({
@@ -3931,7 +7411,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labDashcube);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labDashcube,
+        );
 
   /// Icon for _database_ in `la las` style
   const LaIcon.lasDatabase({
@@ -3940,7 +7428,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasDatabase);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasDatabase,
+        );
 
   /// Icon for _d-d-beyond_ in `la lab` style
   const LaIcon.labDDBeyond({
@@ -3949,7 +7445,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labDDBeyond);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labDDBeyond,
+        );
 
   /// Icon for _deaf_ in `la las` style
   const LaIcon.lasDeaf({
@@ -3958,7 +7462,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasDeaf);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasDeaf,
+        );
 
   /// Icon for _delicious_ in `la lab` style
   const LaIcon.labDelicious({
@@ -3967,7 +7479,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labDelicious);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labDelicious,
+        );
 
   /// Icon for _democrat_ in `la las` style
   const LaIcon.lasDemocrat({
@@ -3976,7 +7496,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasDemocrat);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasDemocrat,
+        );
 
   /// Icon for _deploy-dog_ in `la lab` style
   const LaIcon.labDeployDog({
@@ -3985,7 +7513,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labDeployDog);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labDeployDog,
+        );
 
   /// Icon for _deskpro_ in `la lab` style
   const LaIcon.labDeskpro({
@@ -3994,7 +7530,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labDeskpro);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labDeskpro,
+        );
 
   /// Icon for _desktop_ in `la las` style
   const LaIcon.lasDesktop({
@@ -4003,7 +7547,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasDesktop);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasDesktop,
+        );
 
   /// Icon for _dev_ in `la lab` style
   const LaIcon.labDev({
@@ -4012,7 +7564,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labDev);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labDev,
+        );
 
   /// Icon for _deviantart_ in `la lab` style
   const LaIcon.labDeviantart({
@@ -4021,7 +7581,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labDeviantart);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labDeviantart,
+        );
 
   /// Icon for _dharmachakra_ in `la las` style
   const LaIcon.lasDharmachakra({
@@ -4030,7 +7598,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasDharmachakra);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasDharmachakra,
+        );
 
   /// Icon for _dhl_ in `la lab` style
   const LaIcon.labDhl({
@@ -4039,7 +7615,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labDhl);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labDhl,
+        );
 
   /// Icon for _diagnoses_ in `la las` style
   const LaIcon.lasDiagnoses({
@@ -4048,7 +7632,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasDiagnoses);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasDiagnoses,
+        );
 
   /// Icon for _diaspora_ in `la lab` style
   const LaIcon.labDiaspora({
@@ -4057,7 +7649,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labDiaspora);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labDiaspora,
+        );
 
   /// Icon for _dice_ in `la las` style
   const LaIcon.lasDice({
@@ -4066,7 +7666,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasDice);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasDice,
+        );
 
   /// Icon for _dice-d20_ in `la las` style
   const LaIcon.lasDiceD20({
@@ -4075,7 +7683,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasDiceD20);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasDiceD20,
+        );
 
   /// Icon for _dice-d6_ in `la las` style
   const LaIcon.lasDiceD6({
@@ -4084,7 +7700,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasDiceD6);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasDiceD6,
+        );
 
   /// Icon for _dice-five_ in `la las` style
   const LaIcon.lasDiceFive({
@@ -4093,7 +7717,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasDiceFive);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasDiceFive,
+        );
 
   /// Icon for _dice-four_ in `la las` style
   const LaIcon.lasDiceFour({
@@ -4102,7 +7734,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasDiceFour);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasDiceFour,
+        );
 
   /// Icon for _dice-one_ in `la las` style
   const LaIcon.lasDiceOne({
@@ -4111,7 +7751,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasDiceOne);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasDiceOne,
+        );
 
   /// Icon for _dice-six_ in `la las` style
   const LaIcon.lasDiceSix({
@@ -4120,7 +7768,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasDiceSix);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasDiceSix,
+        );
 
   /// Icon for _dice-three_ in `la las` style
   const LaIcon.lasDiceThree({
@@ -4129,7 +7785,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasDiceThree);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasDiceThree,
+        );
 
   /// Icon for _dice-two_ in `la las` style
   const LaIcon.lasDiceTwo({
@@ -4138,7 +7802,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasDiceTwo);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasDiceTwo,
+        );
 
   /// Icon for _digg-logo_ in `la lab` style
   const LaIcon.labDiggLogo({
@@ -4147,7 +7819,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labDiggLogo);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labDiggLogo,
+        );
 
   /// Icon for _digital-ocean_ in `la lab` style
   const LaIcon.labDigitalOcean({
@@ -4156,7 +7836,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labDigitalOcean);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labDigitalOcean,
+        );
 
   /// Icon for _digital-tachograph_ in `la las` style
   const LaIcon.lasDigitalTachograph({
@@ -4165,7 +7853,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasDigitalTachograph);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasDigitalTachograph,
+        );
 
   /// Icon for _diner-s-club-credit-card_ in `la lab` style
   const LaIcon.labDinerSClubCreditCard({
@@ -4174,7 +7870,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labDinerSClubCreditCard);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labDinerSClubCreditCard,
+        );
 
   /// Icon for _directions_ in `la las` style
   const LaIcon.lasDirections({
@@ -4183,7 +7887,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasDirections);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasDirections,
+        );
 
   /// Icon for _discord_ in `la lab` style
   const LaIcon.labDiscord({
@@ -4192,7 +7904,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labDiscord);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labDiscord,
+        );
 
   /// Icon for _discourse_ in `la lab` style
   const LaIcon.labDiscourse({
@@ -4201,7 +7921,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labDiscourse);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labDiscourse,
+        );
 
   /// Icon for _discover-credit-card_ in `la lab` style
   const LaIcon.labDiscoverCreditCard({
@@ -4210,7 +7938,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labDiscoverCreditCard);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labDiscoverCreditCard,
+        );
 
   /// Icon for _divide_ in `la las` style
   const LaIcon.lasDivide({
@@ -4219,7 +7955,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasDivide);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasDivide,
+        );
 
   /// Icon for _dizzy-face_ in `la lar` style
   const LaIcon.larDizzyFace({
@@ -4228,7 +7972,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larDizzyFace);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larDizzyFace,
+        );
 
   /// Icon for _dizzy-face_ in `la las` style
   const LaIcon.lasDizzyFace({
@@ -4237,7 +7989,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasDizzyFace);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasDizzyFace,
+        );
 
   /// Icon for _dna_ in `la las` style
   const LaIcon.lasDna({
@@ -4246,7 +8006,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasDna);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasDna,
+        );
 
   /// Icon for _dochub_ in `la lab` style
   const LaIcon.labDochub({
@@ -4255,7 +8023,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labDochub);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labDochub,
+        );
 
   /// Icon for _docker_ in `la lab` style
   const LaIcon.labDocker({
@@ -4264,7 +8040,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labDocker);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labDocker,
+        );
 
   /// Icon for _doctor_ in `la las` style
   const LaIcon.lasDoctor({
@@ -4273,7 +8057,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasDoctor);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasDoctor,
+        );
 
   /// Icon for _dog_ in `la las` style
   const LaIcon.lasDog({
@@ -4282,7 +8074,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasDog);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasDog,
+        );
 
   /// Icon for _dollar-sign_ in `la las` style
   const LaIcon.lasDollarSign({
@@ -4291,7 +8091,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasDollarSign);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasDollarSign,
+        );
 
   /// Icon for _dolly_ in `la las` style
   const LaIcon.lasDolly({
@@ -4300,7 +8108,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasDolly);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasDolly,
+        );
 
   /// Icon for _dolly-flatbed_ in `la las` style
   const LaIcon.lasDollyFlatbed({
@@ -4309,7 +8125,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasDollyFlatbed);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasDollyFlatbed,
+        );
 
   /// Icon for _donate_ in `la las` style
   const LaIcon.lasDonate({
@@ -4318,7 +8142,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasDonate);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasDonate,
+        );
 
   /// Icon for _door-closed_ in `la las` style
   const LaIcon.lasDoorClosed({
@@ -4327,7 +8159,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasDoorClosed);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasDoorClosed,
+        );
 
   /// Icon for _door-open_ in `la las` style
   const LaIcon.lasDoorOpen({
@@ -4336,7 +8176,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasDoorOpen);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasDoorOpen,
+        );
 
   /// Icon for _dot-circle_ in `la lar` style
   const LaIcon.larDotCircle({
@@ -4345,7 +8193,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larDotCircle);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larDotCircle,
+        );
 
   /// Icon for _dot-circle_ in `la las` style
   const LaIcon.lasDotCircle({
@@ -4354,7 +8210,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasDotCircle);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasDotCircle,
+        );
 
   /// Icon for _double-check_ in `la las` style
   const LaIcon.lasDoubleCheck({
@@ -4363,7 +8227,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasDoubleCheck);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasDoubleCheck,
+        );
 
   /// Icon for _dove_ in `la las` style
   const LaIcon.lasDove({
@@ -4372,7 +8244,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasDove);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasDove,
+        );
 
   /// Icon for _download_ in `la las` style
   const LaIcon.lasDownload({
@@ -4381,7 +8261,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasDownload);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasDownload,
+        );
 
   /// Icon for _draft2digital_ in `la lab` style
   const LaIcon.labDraft2Digital({
@@ -4390,7 +8278,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labDraft2Digital);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labDraft2Digital,
+        );
 
   /// Icon for _drafting-compass_ in `la las` style
   const LaIcon.lasDraftingCompass({
@@ -4399,7 +8295,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasDraftingCompass);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasDraftingCompass,
+        );
 
   /// Icon for _dragon_ in `la las` style
   const LaIcon.lasDragon({
@@ -4408,7 +8312,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasDragon);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasDragon,
+        );
 
   /// Icon for _draw-polygon_ in `la las` style
   const LaIcon.lasDrawPolygon({
@@ -4417,7 +8329,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasDrawPolygon);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasDrawPolygon,
+        );
 
   /// Icon for _dribbble_ in `la lab` style
   const LaIcon.labDribbble({
@@ -4426,7 +8346,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labDribbble);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labDribbble,
+        );
 
   /// Icon for _dribbble-square_ in `la lab` style
   const LaIcon.labDribbbleSquare({
@@ -4435,7 +8363,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labDribbbleSquare);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labDribbbleSquare,
+        );
 
   /// Icon for _dropbox_ in `la lab` style
   const LaIcon.labDropbox({
@@ -4444,7 +8380,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labDropbox);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labDropbox,
+        );
 
   /// Icon for _drum_ in `la las` style
   const LaIcon.lasDrum({
@@ -4453,7 +8397,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasDrum);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasDrum,
+        );
 
   /// Icon for _drum-steelpan_ in `la las` style
   const LaIcon.lasDrumSteelpan({
@@ -4462,7 +8414,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasDrumSteelpan);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasDrumSteelpan,
+        );
 
   /// Icon for _drumstick-with-bite-taken-out_ in `la las` style
   const LaIcon.lasDrumstickWithBiteTakenOut({
@@ -4471,7 +8431,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasDrumstickWithBiteTakenOut);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasDrumstickWithBiteTakenOut,
+        );
 
   /// Icon for _drupal-logo_ in `la lab` style
   const LaIcon.labDrupalLogo({
@@ -4480,7 +8448,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labDrupalLogo);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labDrupalLogo,
+        );
 
   /// Icon for _dumbbell_ in `la las` style
   const LaIcon.lasDumbbell({
@@ -4489,7 +8465,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasDumbbell);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasDumbbell,
+        );
 
   /// Icon for _dumpster_ in `la las` style
   const LaIcon.lasDumpster({
@@ -4498,7 +8482,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasDumpster);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasDumpster,
+        );
 
   /// Icon for _dumpster-fire_ in `la las` style
   const LaIcon.lasDumpsterFire({
@@ -4507,7 +8499,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasDumpsterFire);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasDumpsterFire,
+        );
 
   /// Icon for _dungeon_ in `la las` style
   const LaIcon.lasDungeon({
@@ -4516,7 +8516,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasDungeon);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasDungeon,
+        );
 
   /// Icon for _dungeons---dragons_ in `la lab` style
   const LaIcon.labDungeonsDragons({
@@ -4525,7 +8533,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labDungeonsDragons);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labDungeonsDragons,
+        );
 
   /// Icon for _dyalog_ in `la lab` style
   const LaIcon.labDyalog({
@@ -4534,7 +8550,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labDyalog);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labDyalog,
+        );
 
   /// Icon for _earlybirds_ in `la lab` style
   const LaIcon.labEarlybirds({
@@ -4543,7 +8567,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labEarlybirds);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labEarlybirds,
+        );
 
   /// Icon for _ebay_ in `la lab` style
   const LaIcon.labEbay({
@@ -4552,7 +8584,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labEbay);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labEbay,
+        );
 
   /// Icon for _edge-browser_ in `la lab` style
   const LaIcon.labEdgeBrowser({
@@ -4561,7 +8601,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labEdgeBrowser);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labEdgeBrowser,
+        );
 
   /// Icon for _edit_ in `la lar` style
   const LaIcon.larEdit({
@@ -4570,7 +8618,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larEdit);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larEdit,
+        );
 
   /// Icon for _edit_ in `la las` style
   const LaIcon.lasEdit({
@@ -4579,7 +8635,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasEdit);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasEdit,
+        );
 
   /// Icon for _egg_ in `la las` style
   const LaIcon.lasEgg({
@@ -4588,7 +8652,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasEgg);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasEgg,
+        );
 
   /// Icon for _eject_ in `la las` style
   const LaIcon.lasEject({
@@ -4597,7 +8669,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasEject);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasEject,
+        );
 
   /// Icon for _elementor_ in `la lab` style
   const LaIcon.labElementor({
@@ -4606,7 +8686,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labElementor);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labElementor,
+        );
 
   /// Icon for _ello_ in `la lab` style
   const LaIcon.labEllo({
@@ -4615,7 +8703,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labEllo);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labEllo,
+        );
 
   /// Icon for _ember_ in `la lab` style
   const LaIcon.labEmber({
@@ -4624,7 +8720,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labEmber);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labEmber,
+        );
 
   /// Icon for _envelope_ in `la lar` style
   const LaIcon.larEnvelope({
@@ -4633,7 +8737,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larEnvelope);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larEnvelope,
+        );
 
   /// Icon for _envelope_ in `la las` style
   const LaIcon.lasEnvelope({
@@ -4642,7 +8754,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasEnvelope);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasEnvelope,
+        );
 
   /// Icon for _envelope-open_ in `la lar` style
   const LaIcon.larEnvelopeOpen({
@@ -4651,7 +8771,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larEnvelopeOpen);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larEnvelopeOpen,
+        );
 
   /// Icon for _envelope-open_ in `la las` style
   const LaIcon.lasEnvelopeOpen({
@@ -4660,7 +8788,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasEnvelopeOpen);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasEnvelopeOpen,
+        );
 
   /// Icon for _envelope-open-text_ in `la las` style
   const LaIcon.lasEnvelopeOpenText({
@@ -4669,7 +8805,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasEnvelopeOpenText);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasEnvelopeOpenText,
+        );
 
   /// Icon for _envelope-square_ in `la las` style
   const LaIcon.lasEnvelopeSquare({
@@ -4678,7 +8822,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasEnvelopeSquare);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasEnvelopeSquare,
+        );
 
   /// Icon for _envira-gallery_ in `la lab` style
   const LaIcon.labEnviraGallery({
@@ -4687,7 +8839,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labEnviraGallery);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labEnviraGallery,
+        );
 
   /// Icon for _equals_ in `la las` style
   const LaIcon.lasEquals({
@@ -4696,7 +8856,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasEquals);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasEquals,
+        );
 
   /// Icon for _eraser_ in `la las` style
   const LaIcon.lasEraser({
@@ -4705,7 +8873,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasEraser);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasEraser,
+        );
 
   /// Icon for _erlang_ in `la lab` style
   const LaIcon.labErlang({
@@ -4714,7 +8890,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labErlang);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labErlang,
+        );
 
   /// Icon for _ethereum_ in `la lab` style
   const LaIcon.labEthereum({
@@ -4723,7 +8907,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labEthereum);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labEthereum,
+        );
 
   /// Icon for _ethernet_ in `la las` style
   const LaIcon.lasEthernet({
@@ -4732,7 +8924,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasEthernet);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasEthernet,
+        );
 
   /// Icon for _etsy_ in `la lab` style
   const LaIcon.labEtsy({
@@ -4741,7 +8941,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labEtsy);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labEtsy,
+        );
 
   /// Icon for _euro-sign_ in `la las` style
   const LaIcon.lasEuroSign({
@@ -4750,7 +8958,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasEuroSign);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasEuroSign,
+        );
 
   /// Icon for _evernote_ in `la lab` style
   const LaIcon.labEvernote({
@@ -4759,7 +8975,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labEvernote);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labEvernote,
+        );
 
   /// Icon for _excel-file_ in `la lar` style
   const LaIcon.larExcelFile({
@@ -4768,7 +8992,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larExcelFile);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larExcelFile,
+        );
 
   /// Icon for _excel-file_ in `la las` style
   const LaIcon.lasExcelFile({
@@ -4777,7 +9009,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasExcelFile);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasExcelFile,
+        );
 
   /// Icon for _exclamation_ in `la las` style
   const LaIcon.lasExclamation({
@@ -4786,7 +9026,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasExclamation);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasExclamation,
+        );
 
   /// Icon for _exclamation-circle_ in `la las` style
   const LaIcon.lasExclamationCircle({
@@ -4795,7 +9043,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasExclamationCircle);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasExclamationCircle,
+        );
 
   /// Icon for _exclamation-triangle_ in `la las` style
   const LaIcon.lasExclamationTriangle({
@@ -4804,7 +9060,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasExclamationTriangle);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasExclamationTriangle,
+        );
 
   /// Icon for _expand_ in `la las` style
   const LaIcon.lasExpand({
@@ -4813,7 +9077,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasExpand);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasExpand,
+        );
 
   /// Icon for _expeditedssl_ in `la lab` style
   const LaIcon.labExpeditedssl({
@@ -4822,7 +9094,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labExpeditedssl);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labExpeditedssl,
+        );
 
   /// Icon for _eye_ in `la lar` style
   const LaIcon.larEye({
@@ -4831,7 +9111,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larEye);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larEye,
+        );
 
   /// Icon for _eye_ in `la las` style
   const LaIcon.lasEye({
@@ -4840,7 +9128,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasEye);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasEye,
+        );
 
   /// Icon for _eye-dropper_ in `la las` style
   const LaIcon.lasEyeDropper({
@@ -4849,7 +9145,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasEyeDropper);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasEyeDropper,
+        );
 
   /// Icon for _eye-slash_ in `la lar` style
   const LaIcon.larEyeSlash({
@@ -4858,7 +9162,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larEyeSlash);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larEyeSlash,
+        );
 
   /// Icon for _eye-slash_ in `la las` style
   const LaIcon.lasEyeSlash({
@@ -4867,7 +9179,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasEyeSlash);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasEyeSlash,
+        );
 
   /// Icon for _face-blowing-a-kiss_ in `la lar` style
   const LaIcon.larFaceBlowingAKiss({
@@ -4876,7 +9196,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larFaceBlowingAKiss);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larFaceBlowingAKiss,
+        );
 
   /// Icon for _face-blowing-a-kiss_ in `la las` style
   const LaIcon.lasFaceBlowingAKiss({
@@ -4885,7 +9213,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasFaceBlowingAKiss);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasFaceBlowingAKiss,
+        );
 
   /// Icon for _facebook_ in `la lab` style
   const LaIcon.labFacebook({
@@ -4894,7 +9230,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labFacebook);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labFacebook,
+        );
 
   /// Icon for _facebook-f_ in `la lab` style
   const LaIcon.labFacebookF({
@@ -4903,7 +9247,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labFacebookF);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labFacebookF,
+        );
 
   /// Icon for _facebook-messenger_ in `la lab` style
   const LaIcon.labFacebookMessenger({
@@ -4912,7 +9264,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labFacebookMessenger);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labFacebookMessenger,
+        );
 
   /// Icon for _facebook-square_ in `la lab` style
   const LaIcon.labFacebookSquare({
@@ -4921,7 +9281,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labFacebookSquare);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labFacebookSquare,
+        );
 
   /// Icon for _face-without-mouth_ in `la lar` style
   const LaIcon.larFaceWithoutMouth({
@@ -4930,7 +9298,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larFaceWithoutMouth);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larFaceWithoutMouth,
+        );
 
   /// Icon for _face-without-mouth_ in `la las` style
   const LaIcon.lasFaceWithoutMouth({
@@ -4939,7 +9315,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasFaceWithoutMouth);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasFaceWithoutMouth,
+        );
 
   /// Icon for _face-with-rolling-eyes_ in `la lar` style
   const LaIcon.larFaceWithRollingEyes({
@@ -4948,7 +9332,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larFaceWithRollingEyes);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larFaceWithRollingEyes,
+        );
 
   /// Icon for _face-with-rolling-eyes_ in `la las` style
   const LaIcon.lasFaceWithRollingEyes({
@@ -4957,7 +9349,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasFaceWithRollingEyes);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasFaceWithRollingEyes,
+        );
 
   /// Icon for _face-with-tears-of-joy_ in `la lar` style
   const LaIcon.larFaceWithTearsOfJoy({
@@ -4966,7 +9366,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larFaceWithTearsOfJoy);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larFaceWithTearsOfJoy,
+        );
 
   /// Icon for _face-with-tears-of-joy_ in `la las` style
   const LaIcon.lasFaceWithTearsOfJoy({
@@ -4975,7 +9383,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasFaceWithTearsOfJoy);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasFaceWithTearsOfJoy,
+        );
 
   /// Icon for _face-with-tongue_ in `la lar` style
   const LaIcon.larFaceWithTongue({
@@ -4984,7 +9400,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larFaceWithTongue);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larFaceWithTongue,
+        );
 
   /// Icon for _face-with-tongue_ in `la las` style
   const LaIcon.lasFaceWithTongue({
@@ -4993,7 +9417,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasFaceWithTongue);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasFaceWithTongue,
+        );
 
   /// Icon for _fan_ in `la las` style
   const LaIcon.lasFan({
@@ -5002,7 +9434,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasFan);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasFan,
+        );
 
   /// Icon for _fantasy-flight-games_ in `la lab` style
   const LaIcon.labFantasyFlightGames({
@@ -5011,7 +9451,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labFantasyFlightGames);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labFantasyFlightGames,
+        );
 
   /// Icon for _fast-backward_ in `la las` style
   const LaIcon.lasFastBackward({
@@ -5020,7 +9468,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasFastBackward);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasFastBackward,
+        );
 
   /// Icon for _fast-forward_ in `la las` style
   const LaIcon.lasFastForward({
@@ -5029,7 +9485,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasFastForward);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasFastForward,
+        );
 
   /// Icon for _fax_ in `la las` style
   const LaIcon.lasFax({
@@ -5038,7 +9502,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasFax);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasFax,
+        );
 
   /// Icon for _feather_ in `la las` style
   const LaIcon.lasFeather({
@@ -5047,7 +9519,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasFeather);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasFeather,
+        );
 
   /// Icon for _fedex_ in `la lab` style
   const LaIcon.labFedex({
@@ -5056,7 +9536,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labFedex);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labFedex,
+        );
 
   /// Icon for _fedora_ in `la lab` style
   const LaIcon.labFedora({
@@ -5065,7 +9553,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labFedora);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labFedora,
+        );
 
   /// Icon for _female_ in `la las` style
   const LaIcon.lasFemale({
@@ -5074,7 +9570,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasFemale);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasFemale,
+        );
 
   /// Icon for _fighter-jet_ in `la las` style
   const LaIcon.lasFighterJet({
@@ -5083,7 +9587,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasFighterJet);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasFighterJet,
+        );
 
   /// Icon for _figma_ in `la lab` style
   const LaIcon.labFigma({
@@ -5092,7 +9604,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labFigma);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labFigma,
+        );
 
   /// Icon for _file_ in `la lar` style
   const LaIcon.larFile({
@@ -5101,7 +9621,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larFile);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larFile,
+        );
 
   /// Icon for _file_ in `la las` style
   const LaIcon.lasFile({
@@ -5110,7 +9638,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasFile);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasFile,
+        );
 
   /// Icon for _file-contract_ in `la las` style
   const LaIcon.lasFileContract({
@@ -5119,7 +9655,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasFileContract);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasFileContract,
+        );
 
   /// Icon for _file-csv_ in `la las` style
   const LaIcon.lasFileCsv({
@@ -5128,7 +9672,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasFileCsv);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasFileCsv,
+        );
 
   /// Icon for _file-download_ in `la las` style
   const LaIcon.lasFileDownload({
@@ -5137,7 +9689,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasFileDownload);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasFileDownload,
+        );
 
   /// Icon for _file-export_ in `la las` style
   const LaIcon.lasFileExport({
@@ -5146,7 +9706,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasFileExport);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasFileExport,
+        );
 
   /// Icon for _file-import_ in `la las` style
   const LaIcon.lasFileImport({
@@ -5155,7 +9723,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasFileImport);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasFileImport,
+        );
 
   /// Icon for _file-invoice_ in `la las` style
   const LaIcon.lasFileInvoice({
@@ -5164,7 +9740,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasFileInvoice);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasFileInvoice,
+        );
 
   /// Icon for _file-invoice-with-us-dollar_ in `la las` style
   const LaIcon.lasFileInvoiceWithUsDollar({
@@ -5173,7 +9757,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasFileInvoiceWithUsDollar);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasFileInvoiceWithUsDollar,
+        );
 
   /// Icon for _file-prescription_ in `la las` style
   const LaIcon.lasFilePrescription({
@@ -5182,7 +9774,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasFilePrescription);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasFilePrescription,
+        );
 
   /// Icon for _file-signature_ in `la las` style
   const LaIcon.lasFileSignature({
@@ -5191,7 +9791,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasFileSignature);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasFileSignature,
+        );
 
   /// Icon for _file-upload_ in `la las` style
   const LaIcon.lasFileUpload({
@@ -5200,7 +9808,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasFileUpload);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasFileUpload,
+        );
 
   /// Icon for _fill_ in `la las` style
   const LaIcon.lasFill({
@@ -5209,7 +9825,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasFill);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasFill,
+        );
 
   /// Icon for _fill-drip_ in `la las` style
   const LaIcon.lasFillDrip({
@@ -5218,7 +9842,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasFillDrip);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasFillDrip,
+        );
 
   /// Icon for _film_ in `la las` style
   const LaIcon.lasFilm({
@@ -5227,7 +9859,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasFilm);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasFilm,
+        );
 
   /// Icon for _filter_ in `la las` style
   const LaIcon.lasFilter({
@@ -5236,7 +9876,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasFilter);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasFilter,
+        );
 
   /// Icon for _fingerprint_ in `la las` style
   const LaIcon.lasFingerprint({
@@ -5245,7 +9893,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasFingerprint);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasFingerprint,
+        );
 
   /// Icon for _fire_ in `la las` style
   const LaIcon.lasFire({
@@ -5254,7 +9910,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasFire);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasFire,
+        );
 
   /// Icon for _fire-extinguisher_ in `la las` style
   const LaIcon.lasFireExtinguisher({
@@ -5263,7 +9927,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasFireExtinguisher);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasFireExtinguisher,
+        );
 
   /// Icon for _firefox_ in `la lab` style
   const LaIcon.labFirefox({
@@ -5272,7 +9944,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labFirefox);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labFirefox,
+        );
 
   /// Icon for _first-aid_ in `la las` style
   const LaIcon.lasFirstAid({
@@ -5281,7 +9961,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasFirstAid);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasFirstAid,
+        );
 
   /// Icon for _firstdraft_ in `la lab` style
   const LaIcon.labFirstdraft({
@@ -5290,7 +9978,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labFirstdraft);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labFirstdraft,
+        );
 
   /// Icon for _first-order_ in `la lab` style
   const LaIcon.labFirstOrder({
@@ -5299,7 +9995,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labFirstOrder);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labFirstOrder,
+        );
 
   /// Icon for _fish_ in `la las` style
   const LaIcon.lasFish({
@@ -5308,7 +10012,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasFish);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasFish,
+        );
 
   /// Icon for _flag_ in `la lar` style
   const LaIcon.larFlag({
@@ -5317,7 +10029,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larFlag);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larFlag,
+        );
 
   /// Icon for _flag_ in `la las` style
   const LaIcon.lasFlag({
@@ -5326,7 +10046,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasFlag);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasFlag,
+        );
 
   /// Icon for _flag-checkered_ in `la las` style
   const LaIcon.lasFlagCheckered({
@@ -5335,7 +10063,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasFlagCheckered);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasFlagCheckered,
+        );
 
   /// Icon for _flask_ in `la las` style
   const LaIcon.lasFlask({
@@ -5344,7 +10080,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasFlask);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasFlask,
+        );
 
   /// Icon for _flickr_ in `la lab` style
   const LaIcon.labFlickr({
@@ -5353,7 +10097,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labFlickr);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labFlickr,
+        );
 
   /// Icon for _flipboard_ in `la lab` style
   const LaIcon.labFlipboard({
@@ -5362,7 +10114,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labFlipboard);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labFlipboard,
+        );
 
   /// Icon for _flushed-face_ in `la lar` style
   const LaIcon.larFlushedFace({
@@ -5371,7 +10131,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larFlushedFace);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larFlushedFace,
+        );
 
   /// Icon for _flushed-face_ in `la las` style
   const LaIcon.lasFlushedFace({
@@ -5380,7 +10148,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasFlushedFace);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasFlushedFace,
+        );
 
   /// Icon for _fly_ in `la lab` style
   const LaIcon.labFly({
@@ -5389,7 +10165,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labFly);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labFly,
+        );
 
   /// Icon for _folder_ in `la lar` style
   const LaIcon.larFolder({
@@ -5398,7 +10182,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larFolder);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larFolder,
+        );
 
   /// Icon for _folder_ in `la las` style
   const LaIcon.lasFolder({
@@ -5407,7 +10199,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasFolder);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasFolder,
+        );
 
   /// Icon for _folder-minus_ in `la las` style
   const LaIcon.lasFolderMinus({
@@ -5416,7 +10216,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasFolderMinus);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasFolderMinus,
+        );
 
   /// Icon for _folder-open_ in `la lar` style
   const LaIcon.larFolderOpen({
@@ -5425,7 +10233,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larFolderOpen);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larFolderOpen,
+        );
 
   /// Icon for _folder-open_ in `la las` style
   const LaIcon.lasFolderOpen({
@@ -5434,7 +10250,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasFolderOpen);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasFolderOpen,
+        );
 
   /// Icon for _folder-plus_ in `la las` style
   const LaIcon.lasFolderPlus({
@@ -5443,7 +10267,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasFolderPlus);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasFolderPlus,
+        );
 
   /// Icon for _font_ in `la las` style
   const LaIcon.lasFont({
@@ -5452,7 +10284,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasFont);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasFont,
+        );
 
   /// Icon for _font-awesome_ in `la lab` style
   const LaIcon.labFontAwesome({
@@ -5461,7 +10301,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labFontAwesome);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labFontAwesome,
+        );
 
   /// Icon for _font-awesome-black-tie_ in `la lab` style
   const LaIcon.labFontAwesomeBlackTie({
@@ -5470,7 +10318,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labFontAwesomeBlackTie);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labFontAwesomeBlackTie,
+        );
 
   /// Icon for _font-awesome-flag_ in `la lab` style
   const LaIcon.labFontAwesomeFlag({
@@ -5479,7 +10335,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labFontAwesomeFlag);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labFontAwesomeFlag,
+        );
 
   /// Icon for _fonticons_ in `la lab` style
   const LaIcon.labFonticons({
@@ -5488,7 +10352,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labFonticons);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labFonticons,
+        );
 
   /// Icon for _fonticons-fi_ in `la lab` style
   const LaIcon.labFonticonsFi({
@@ -5497,7 +10369,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labFonticonsFi);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labFonticonsFi,
+        );
 
   /// Icon for _football-ball_ in `la las` style
   const LaIcon.lasFootballBall({
@@ -5506,7 +10386,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasFootballBall);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasFootballBall,
+        );
 
   /// Icon for _fort-awesome_ in `la lab` style
   const LaIcon.labFortAwesome({
@@ -5515,7 +10403,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labFortAwesome);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labFortAwesome,
+        );
 
   /// Icon for _forumbee_ in `la lab` style
   const LaIcon.labForumbee({
@@ -5524,7 +10420,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labForumbee);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labForumbee,
+        );
 
   /// Icon for _forward_ in `la las` style
   const LaIcon.lasForward({
@@ -5533,7 +10437,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasForward);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasForward,
+        );
 
   /// Icon for _foursquare_ in `la lab` style
   const LaIcon.labFoursquare({
@@ -5542,7 +10454,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labFoursquare);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labFoursquare,
+        );
 
   /// Icon for _freebsd_ in `la lab` style
   const LaIcon.labFreebsd({
@@ -5551,7 +10471,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labFreebsd);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labFreebsd,
+        );
 
   /// Icon for _free-code-camp_ in `la lab` style
   const LaIcon.labFreeCodeCamp({
@@ -5560,7 +10488,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labFreeCodeCamp);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labFreeCodeCamp,
+        );
 
   /// Icon for _frog_ in `la las` style
   const LaIcon.lasFrog({
@@ -5569,7 +10505,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasFrog);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasFrog,
+        );
 
   /// Icon for _frowning-face_ in `la lar` style
   const LaIcon.larFrowningFace({
@@ -5578,7 +10522,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larFrowningFace);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larFrowningFace,
+        );
 
   /// Icon for _frowning-face_ in `la las` style
   const LaIcon.lasFrowningFace({
@@ -5587,7 +10539,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasFrowningFace);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasFrowningFace,
+        );
 
   /// Icon for _frowning-face-with-open-mouth_ in `la lar` style
   const LaIcon.larFrowningFaceWithOpenMouth({
@@ -5596,7 +10556,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larFrowningFaceWithOpenMouth);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larFrowningFaceWithOpenMouth,
+        );
 
   /// Icon for _frowning-face-with-open-mouth_ in `la las` style
   const LaIcon.lasFrowningFaceWithOpenMouth({
@@ -5605,7 +10573,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasFrowningFaceWithOpenMouth);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasFrowningFaceWithOpenMouth,
+        );
 
   /// Icon for _fruit-apple_ in `la las` style
   const LaIcon.lasFruitApple({
@@ -5614,7 +10590,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasFruitApple);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasFruitApple,
+        );
 
   /// Icon for _fulcrum_ in `la lab` style
   const LaIcon.labFulcrum({
@@ -5623,7 +10607,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labFulcrum);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labFulcrum,
+        );
 
   /// Icon for _funnel-dollar_ in `la las` style
   const LaIcon.lasFunnelDollar({
@@ -5632,7 +10624,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasFunnelDollar);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasFunnelDollar,
+        );
 
   /// Icon for _futbol_ in `la lar` style
   const LaIcon.larFutbol({
@@ -5641,7 +10641,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larFutbol);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larFutbol,
+        );
 
   /// Icon for _futbol_ in `la las` style
   const LaIcon.lasFutbol({
@@ -5650,7 +10658,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasFutbol);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasFutbol,
+        );
 
   /// Icon for _galactic-empire_ in `la lab` style
   const LaIcon.labGalacticEmpire({
@@ -5659,7 +10675,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labGalacticEmpire);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labGalacticEmpire,
+        );
 
   /// Icon for _galactic-republic_ in `la lab` style
   const LaIcon.labGalacticRepublic({
@@ -5668,7 +10692,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labGalacticRepublic);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labGalacticRepublic,
+        );
 
   /// Icon for _galactic-senate_ in `la lab` style
   const LaIcon.labGalacticSenate({
@@ -5677,7 +10709,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labGalacticSenate);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labGalacticSenate,
+        );
 
   /// Icon for _gamepad_ in `la las` style
   const LaIcon.lasGamepad({
@@ -5686,7 +10726,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasGamepad);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasGamepad,
+        );
 
   /// Icon for _gas-pump_ in `la las` style
   const LaIcon.lasGasPump({
@@ -5695,7 +10743,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasGasPump);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasGasPump,
+        );
 
   /// Icon for _gavel_ in `la las` style
   const LaIcon.lasGavel({
@@ -5704,7 +10760,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasGavel);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasGavel,
+        );
 
   /// Icon for _gem_ in `la lar` style
   const LaIcon.larGem({
@@ -5713,7 +10777,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larGem);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larGem,
+        );
 
   /// Icon for _gem_ in `la las` style
   const LaIcon.lasGem({
@@ -5722,7 +10794,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasGem);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasGem,
+        );
 
   /// Icon for _genderless_ in `la las` style
   const LaIcon.lasGenderless({
@@ -5731,7 +10811,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasGenderless);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasGenderless,
+        );
 
   /// Icon for _get-pocket_ in `la lab` style
   const LaIcon.labGetPocket({
@@ -5740,7 +10828,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labGetPocket);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labGetPocket,
+        );
 
   /// Icon for _gg-currency_ in `la lab` style
   const LaIcon.labGgCurrency({
@@ -5749,7 +10845,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labGgCurrency);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labGgCurrency,
+        );
 
   /// Icon for _gg-currency-circle_ in `la lab` style
   const LaIcon.labGgCurrencyCircle({
@@ -5758,7 +10862,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labGgCurrencyCircle);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labGgCurrencyCircle,
+        );
 
   /// Icon for _ghost_ in `la las` style
   const LaIcon.lasGhost({
@@ -5767,7 +10879,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasGhost);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasGhost,
+        );
 
   /// Icon for _gift_ in `la las` style
   const LaIcon.lasGift({
@@ -5776,7 +10896,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasGift);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasGift,
+        );
 
   /// Icon for _gifts_ in `la las` style
   const LaIcon.lasGifts({
@@ -5785,7 +10913,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasGifts);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasGifts,
+        );
 
   /// Icon for _git_ in `la lab` style
   const LaIcon.labGit({
@@ -5794,7 +10930,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labGit);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labGit,
+        );
 
   /// Icon for _git-alt_ in `la lab` style
   const LaIcon.labGitAlt({
@@ -5803,7 +10947,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labGitAlt);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labGitAlt,
+        );
 
   /// Icon for _github_ in `la lab` style
   const LaIcon.labGithub({
@@ -5812,7 +10964,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labGithub);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labGithub,
+        );
 
   /// Icon for _github-square_ in `la lab` style
   const LaIcon.labGithubSquare({
@@ -5821,7 +10981,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labGithubSquare);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labGithubSquare,
+        );
 
   /// Icon for _gitkraken_ in `la lab` style
   const LaIcon.labGitkraken({
@@ -5830,7 +10998,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labGitkraken);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labGitkraken,
+        );
 
   /// Icon for _gitlab_ in `la lab` style
   const LaIcon.labGitlab({
@@ -5839,7 +11015,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labGitlab);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labGitlab,
+        );
 
   /// Icon for _git-square_ in `la lab` style
   const LaIcon.labGitSquare({
@@ -5848,7 +11032,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labGitSquare);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labGitSquare,
+        );
 
   /// Icon for _gitter_ in `la lab` style
   const LaIcon.labGitter({
@@ -5857,7 +11049,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labGitter);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labGitter,
+        );
 
   /// Icon for _glass-cheers_ in `la las` style
   const LaIcon.lasGlassCheers({
@@ -5866,7 +11066,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasGlassCheers);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasGlassCheers,
+        );
 
   /// Icon for _glasses_ in `la las` style
   const LaIcon.lasGlasses({
@@ -5875,7 +11083,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasGlasses);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasGlasses,
+        );
 
   /// Icon for _glass-whiskey_ in `la las` style
   const LaIcon.lasGlassWhiskey({
@@ -5884,7 +11100,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasGlassWhiskey);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasGlassWhiskey,
+        );
 
   /// Icon for _glide_ in `la lab` style
   const LaIcon.labGlide({
@@ -5893,7 +11117,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labGlide);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labGlide,
+        );
 
   /// Icon for _glide-g_ in `la lab` style
   const LaIcon.labGlideG({
@@ -5902,7 +11134,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labGlideG);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labGlideG,
+        );
 
   /// Icon for _globe_ in `la las` style
   const LaIcon.lasGlobe({
@@ -5911,7 +11151,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasGlobe);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasGlobe,
+        );
 
   /// Icon for _globe-with-africa-shown_ in `la las` style
   const LaIcon.lasGlobeWithAfricaShown({
@@ -5920,7 +11168,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasGlobeWithAfricaShown);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasGlobeWithAfricaShown,
+        );
 
   /// Icon for _globe-with-americas-shown_ in `la las` style
   const LaIcon.lasGlobeWithAmericasShown({
@@ -5929,7 +11185,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasGlobeWithAmericasShown);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasGlobeWithAmericasShown,
+        );
 
   /// Icon for _globe-with-asia-shown_ in `la las` style
   const LaIcon.lasGlobeWithAsiaShown({
@@ -5938,7 +11202,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasGlobeWithAsiaShown);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasGlobeWithAsiaShown,
+        );
 
   /// Icon for _globe-with-europe-shown_ in `la las` style
   const LaIcon.lasGlobeWithEuropeShown({
@@ -5947,7 +11219,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasGlobeWithEuropeShown);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasGlobeWithEuropeShown,
+        );
 
   /// Icon for _gofore_ in `la lab` style
   const LaIcon.labGofore({
@@ -5956,7 +11236,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labGofore);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labGofore,
+        );
 
   /// Icon for _golf-ball_ in `la las` style
   const LaIcon.lasGolfBall({
@@ -5965,7 +11253,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasGolfBall);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasGolfBall,
+        );
 
   /// Icon for _goodreads_ in `la lab` style
   const LaIcon.labGoodreads({
@@ -5974,7 +11270,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labGoodreads);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labGoodreads,
+        );
 
   /// Icon for _goodreads-g_ in `la lab` style
   const LaIcon.labGoodreadsG({
@@ -5983,7 +11287,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labGoodreadsG);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labGoodreadsG,
+        );
 
   /// Icon for _google-drive_ in `la lab` style
   const LaIcon.labGoogleDrive({
@@ -5992,7 +11304,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labGoogleDrive);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labGoogleDrive,
+        );
 
   /// Icon for _google-logo_ in `la lab` style
   const LaIcon.labGoogleLogo({
@@ -6001,7 +11321,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labGoogleLogo);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labGoogleLogo,
+        );
 
   /// Icon for _google-play_ in `la lab` style
   const LaIcon.labGooglePlay({
@@ -6010,7 +11338,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labGooglePlay);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labGooglePlay,
+        );
 
   /// Icon for _google-plus_ in `la lab` style
   const LaIcon.labGooglePlus({
@@ -6019,7 +11355,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labGooglePlus);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labGooglePlus,
+        );
 
   /// Icon for _google-plus-g_ in `la lab` style
   const LaIcon.labGooglePlusG({
@@ -6028,7 +11372,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labGooglePlusG);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labGooglePlusG,
+        );
 
   /// Icon for _google-plus-square_ in `la lab` style
   const LaIcon.labGooglePlusSquare({
@@ -6037,7 +11389,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labGooglePlusSquare);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labGooglePlusSquare,
+        );
 
   /// Icon for _google-wallet_ in `la lab` style
   const LaIcon.labGoogleWallet({
@@ -6046,7 +11406,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labGoogleWallet);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labGoogleWallet,
+        );
 
   /// Icon for _gopuram_ in `la las` style
   const LaIcon.lasGopuram({
@@ -6055,7 +11423,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasGopuram);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasGopuram,
+        );
 
   /// Icon for _graduation-cap_ in `la las` style
   const LaIcon.lasGraduationCap({
@@ -6064,7 +11440,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasGraduationCap);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasGraduationCap,
+        );
 
   /// Icon for _gratipay--gittip-_ in `la lab` style
   const LaIcon.labGratipayGittip({
@@ -6073,7 +11457,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labGratipayGittip);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labGratipayGittip,
+        );
 
   /// Icon for _grav_ in `la lab` style
   const LaIcon.labGrav({
@@ -6082,7 +11474,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labGrav);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labGrav,
+        );
 
   /// Icon for _greater-than_ in `la las` style
   const LaIcon.lasGreaterThan({
@@ -6091,7 +11491,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasGreaterThan);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasGreaterThan,
+        );
 
   /// Icon for _greater-than-equal-to_ in `la las` style
   const LaIcon.lasGreaterThanEqualTo({
@@ -6100,7 +11508,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasGreaterThanEqualTo);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasGreaterThanEqualTo,
+        );
 
   /// Icon for _grimacing-face_ in `la lar` style
   const LaIcon.larGrimacingFace({
@@ -6109,7 +11525,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larGrimacingFace);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larGrimacingFace,
+        );
 
   /// Icon for _grimacing-face_ in `la las` style
   const LaIcon.lasGrimacingFace({
@@ -6118,7 +11542,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasGrimacingFace);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasGrimacingFace,
+        );
 
   /// Icon for _grinning-face_ in `la lar` style
   const LaIcon.larGrinningFace({
@@ -6127,7 +11559,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larGrinningFace);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larGrinningFace,
+        );
 
   /// Icon for _grinning-face_ in `la las` style
   const LaIcon.lasGrinningFace({
@@ -6136,7 +11576,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasGrinningFace);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasGrinningFace,
+        );
 
   /// Icon for _grinning-face-with-big-eyes_ in `la lar` style
   const LaIcon.larGrinningFaceWithBigEyes({
@@ -6145,7 +11593,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larGrinningFaceWithBigEyes);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larGrinningFaceWithBigEyes,
+        );
 
   /// Icon for _grinning-face-with-big-eyes_ in `la las` style
   const LaIcon.lasGrinningFaceWithBigEyes({
@@ -6154,7 +11610,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasGrinningFaceWithBigEyes);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasGrinningFaceWithBigEyes,
+        );
 
   /// Icon for _grinning-face-with-smiling-eyes_ in `la lar` style
   const LaIcon.larGrinningFaceWithSmilingEyes({
@@ -6163,7 +11627,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larGrinningFaceWithSmilingEyes);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larGrinningFaceWithSmilingEyes,
+        );
 
   /// Icon for _grinning-face-with-smiling-eyes_ in `la las` style
   const LaIcon.lasGrinningFaceWithSmilingEyes({
@@ -6172,7 +11644,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasGrinningFaceWithSmilingEyes);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasGrinningFaceWithSmilingEyes,
+        );
 
   /// Icon for _grinning-face-with-sweat_ in `la lar` style
   const LaIcon.larGrinningFaceWithSweat({
@@ -6181,7 +11661,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larGrinningFaceWithSweat);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larGrinningFaceWithSweat,
+        );
 
   /// Icon for _grinning-face-with-sweat_ in `la las` style
   const LaIcon.lasGrinningFaceWithSweat({
@@ -6190,7 +11678,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasGrinningFaceWithSweat);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasGrinningFaceWithSweat,
+        );
 
   /// Icon for _grinning-squinting-face_ in `la lar` style
   const LaIcon.larGrinningSquintingFace({
@@ -6199,7 +11695,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larGrinningSquintingFace);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larGrinningSquintingFace,
+        );
 
   /// Icon for _grinning-squinting-face_ in `la las` style
   const LaIcon.lasGrinningSquintingFace({
@@ -6208,7 +11712,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasGrinningSquintingFace);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasGrinningSquintingFace,
+        );
 
   /// Icon for _grinning-winking-face_ in `la lar` style
   const LaIcon.larGrinningWinkingFace({
@@ -6217,7 +11729,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larGrinningWinkingFace);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larGrinningWinkingFace,
+        );
 
   /// Icon for _grinning-winking-face_ in `la las` style
   const LaIcon.lasGrinningWinkingFace({
@@ -6226,7 +11746,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasGrinningWinkingFace);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasGrinningWinkingFace,
+        );
 
   /// Icon for _gripfire--inc-_ in `la lab` style
   const LaIcon.labGripfireInc({
@@ -6235,7 +11763,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labGripfireInc);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labGripfireInc,
+        );
 
   /// Icon for _grip-horizontal_ in `la las` style
   const LaIcon.lasGripHorizontal({
@@ -6244,7 +11780,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasGripHorizontal);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasGripHorizontal,
+        );
 
   /// Icon for _grip-lines_ in `la las` style
   const LaIcon.lasGripLines({
@@ -6253,7 +11797,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasGripLines);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasGripLines,
+        );
 
   /// Icon for _grip-lines-vertical_ in `la las` style
   const LaIcon.lasGripLinesVertical({
@@ -6262,7 +11814,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasGripLinesVertical);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasGripLinesVertical,
+        );
 
   /// Icon for _grip-vertical_ in `la las` style
   const LaIcon.lasGripVertical({
@@ -6271,7 +11831,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasGripVertical);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasGripVertical,
+        );
 
   /// Icon for _grunt_ in `la lab` style
   const LaIcon.labGrunt({
@@ -6280,7 +11848,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labGrunt);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labGrunt,
+        );
 
   /// Icon for _guitar_ in `la las` style
   const LaIcon.lasGuitar({
@@ -6289,7 +11865,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasGuitar);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasGuitar,
+        );
 
   /// Icon for _gulp_ in `la lab` style
   const LaIcon.labGulp({
@@ -6298,7 +11882,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labGulp);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labGulp,
+        );
 
   /// Icon for _hacker-news_ in `la lab` style
   const LaIcon.labHackerNews({
@@ -6307,7 +11899,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labHackerNews);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labHackerNews,
+        );
 
   /// Icon for _hacker-news-square_ in `la lab` style
   const LaIcon.labHackerNewsSquare({
@@ -6316,7 +11916,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labHackerNewsSquare);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labHackerNewsSquare,
+        );
 
   /// Icon for _hackerrank_ in `la lab` style
   const LaIcon.labHackerrank({
@@ -6325,7 +11933,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labHackerrank);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labHackerrank,
+        );
 
   /// Icon for _hamburger_ in `la las` style
   const LaIcon.lasHamburger({
@@ -6334,7 +11950,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHamburger);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHamburger,
+        );
 
   /// Icon for _hammer_ in `la las` style
   const LaIcon.lasHammer({
@@ -6343,7 +11967,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHammer);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHammer,
+        );
 
   /// Icon for _hamsa_ in `la las` style
   const LaIcon.lasHamsa({
@@ -6352,7 +11984,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHamsa);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHamsa,
+        );
 
   /// Icon for _hand-holding_ in `la las` style
   const LaIcon.lasHandHolding({
@@ -6361,7 +12001,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHandHolding);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHandHolding,
+        );
 
   /// Icon for _hand-holding-heart_ in `la las` style
   const LaIcon.lasHandHoldingHeart({
@@ -6370,7 +12018,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHandHoldingHeart);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHandHoldingHeart,
+        );
 
   /// Icon for _hand-holding-us-dollar_ in `la las` style
   const LaIcon.lasHandHoldingUsDollar({
@@ -6379,7 +12035,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHandHoldingUsDollar);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHandHoldingUsDollar,
+        );
 
   /// Icon for _hand-pointing-down_ in `la lar` style
   const LaIcon.larHandPointingDown({
@@ -6388,7 +12052,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larHandPointingDown);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larHandPointingDown,
+        );
 
   /// Icon for _hand-pointing-down_ in `la las` style
   const LaIcon.lasHandPointingDown({
@@ -6397,7 +12069,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHandPointingDown);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHandPointingDown,
+        );
 
   /// Icon for _hand-pointing-left_ in `la lar` style
   const LaIcon.larHandPointingLeft({
@@ -6406,7 +12086,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larHandPointingLeft);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larHandPointingLeft,
+        );
 
   /// Icon for _hand-pointing-left_ in `la las` style
   const LaIcon.lasHandPointingLeft({
@@ -6415,7 +12103,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHandPointingLeft);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHandPointingLeft,
+        );
 
   /// Icon for _hand-pointing-right_ in `la lar` style
   const LaIcon.larHandPointingRight({
@@ -6424,7 +12120,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larHandPointingRight);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larHandPointingRight,
+        );
 
   /// Icon for _hand-pointing-right_ in `la las` style
   const LaIcon.lasHandPointingRight({
@@ -6433,7 +12137,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHandPointingRight);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHandPointingRight,
+        );
 
   /// Icon for _hand-pointing-up_ in `la lar` style
   const LaIcon.larHandPointingUp({
@@ -6442,7 +12154,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larHandPointingUp);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larHandPointingUp,
+        );
 
   /// Icon for _hand-pointing-up_ in `la las` style
   const LaIcon.lasHandPointingUp({
@@ -6451,7 +12171,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHandPointingUp);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHandPointingUp,
+        );
 
   /// Icon for _hands_ in `la las` style
   const LaIcon.lasHands({
@@ -6460,7 +12188,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHands);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHands,
+        );
 
   /// Icon for _handshake_ in `la lar` style
   const LaIcon.larHandshake({
@@ -6469,7 +12205,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larHandshake);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larHandshake,
+        );
 
   /// Icon for _handshake_ in `la las` style
   const LaIcon.lasHandshake({
@@ -6478,7 +12222,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHandshake);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHandshake,
+        );
 
   /// Icon for _hand-with-middle-finger-raised_ in `la las` style
   const LaIcon.lasHandWithMiddleFingerRaised({
@@ -6487,7 +12239,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHandWithMiddleFingerRaised);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHandWithMiddleFingerRaised,
+        );
 
   /// Icon for _hanging-weight_ in `la las` style
   const LaIcon.lasHangingWeight({
@@ -6496,7 +12256,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHangingWeight);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHangingWeight,
+        );
 
   /// Icon for _hanukiah_ in `la las` style
   const LaIcon.lasHanukiah({
@@ -6505,7 +12273,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHanukiah);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHanukiah,
+        );
 
   /// Icon for _hard-hat_ in `la las` style
   const LaIcon.lasHardHat({
@@ -6514,7 +12290,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHardHat);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHardHat,
+        );
 
   /// Icon for _hashtag_ in `la las` style
   const LaIcon.lasHashtag({
@@ -6523,7 +12307,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHashtag);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHashtag,
+        );
 
   /// Icon for _haykal_ in `la las` style
   const LaIcon.lasHaykal({
@@ -6532,7 +12324,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHaykal);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHaykal,
+        );
 
   /// Icon for _hdd_ in `la lar` style
   const LaIcon.larHdd({
@@ -6541,7 +12341,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larHdd);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larHdd,
+        );
 
   /// Icon for _hdd_ in `la las` style
   const LaIcon.lasHdd({
@@ -6550,7 +12358,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHdd);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHdd,
+        );
 
   /// Icon for _heading_ in `la las` style
   const LaIcon.lasHeading({
@@ -6559,7 +12375,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHeading);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHeading,
+        );
 
   /// Icon for _headphones_ in `la las` style
   const LaIcon.lasHeadphones({
@@ -6568,7 +12392,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHeadphones);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHeadphones,
+        );
 
   /// Icon for _headset_ in `la las` style
   const LaIcon.lasHeadset({
@@ -6577,7 +12409,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHeadset);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHeadset,
+        );
 
   /// Icon for _heart_ in `la lar` style
   const LaIcon.larHeart({
@@ -6586,7 +12426,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larHeart);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larHeart,
+        );
 
   /// Icon for _heart_ in `la las` style
   const LaIcon.lasHeart({
@@ -6595,7 +12443,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHeart);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHeart,
+        );
 
   /// Icon for _heartbeat_ in `la las` style
   const LaIcon.lasHeartbeat({
@@ -6604,7 +12460,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHeartbeat);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHeartbeat,
+        );
 
   /// Icon for _heart-broken_ in `la las` style
   const LaIcon.lasHeartBroken({
@@ -6613,7 +12477,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHeartBroken);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHeartBroken,
+        );
 
   /// Icon for _helicopter_ in `la las` style
   const LaIcon.lasHelicopter({
@@ -6622,7 +12494,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHelicopter);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHelicopter,
+        );
 
   /// Icon for _helping-hands_ in `la las` style
   const LaIcon.lasHelpingHands({
@@ -6631,7 +12511,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHelpingHands);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHelpingHands,
+        );
 
   /// Icon for _highlighter_ in `la las` style
   const LaIcon.lasHighlighter({
@@ -6640,7 +12528,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHighlighter);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHighlighter,
+        );
 
   /// Icon for _high-temperature_ in `la las` style
   const LaIcon.lasHighTemperature({
@@ -6649,7 +12545,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHighTemperature);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHighTemperature,
+        );
 
   /// Icon for _hiking_ in `la las` style
   const LaIcon.lasHiking({
@@ -6658,7 +12562,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHiking);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHiking,
+        );
 
   /// Icon for _hippo_ in `la las` style
   const LaIcon.lasHippo({
@@ -6667,7 +12579,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHippo);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHippo,
+        );
 
   /// Icon for _hips_ in `la lab` style
   const LaIcon.labHips({
@@ -6676,7 +12596,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labHips);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labHips,
+        );
 
   /// Icon for _hireahelper_ in `la lab` style
   const LaIcon.labHireahelper({
@@ -6685,7 +12613,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labHireahelper);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labHireahelper,
+        );
 
   /// Icon for _history_ in `la las` style
   const LaIcon.lasHistory({
@@ -6694,7 +12630,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHistory);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHistory,
+        );
 
   /// Icon for _hockey-puck_ in `la las` style
   const LaIcon.lasHockeyPuck({
@@ -6703,7 +12647,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHockeyPuck);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHockeyPuck,
+        );
 
   /// Icon for _holly-berry_ in `la las` style
   const LaIcon.lasHollyBerry({
@@ -6712,7 +12664,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHollyBerry);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHollyBerry,
+        );
 
   /// Icon for _home_ in `la las` style
   const LaIcon.lasHome({
@@ -6721,7 +12681,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHome);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHome,
+        );
 
   /// Icon for _hooli_ in `la lab` style
   const LaIcon.labHooli({
@@ -6730,7 +12698,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labHooli);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labHooli,
+        );
 
   /// Icon for _horizontal-ellipsis_ in `la las` style
   const LaIcon.lasHorizontalEllipsis({
@@ -6739,7 +12715,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHorizontalEllipsis);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHorizontalEllipsis,
+        );
 
   /// Icon for _horizontal-sliders_ in `la las` style
   const LaIcon.lasHorizontalSliders({
@@ -6748,7 +12732,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHorizontalSliders);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHorizontalSliders,
+        );
 
   /// Icon for _hornbill_ in `la lab` style
   const LaIcon.labHornbill({
@@ -6757,7 +12749,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labHornbill);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labHornbill,
+        );
 
   /// Icon for _horse_ in `la las` style
   const LaIcon.lasHorse({
@@ -6766,7 +12766,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHorse);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHorse,
+        );
 
   /// Icon for _horse-head_ in `la las` style
   const LaIcon.lasHorseHead({
@@ -6775,7 +12783,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHorseHead);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHorseHead,
+        );
 
   /// Icon for _hospital_ in `la lar` style
   const LaIcon.larHospital({
@@ -6784,7 +12800,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larHospital);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larHospital,
+        );
 
   /// Icon for _hospital_ in `la las` style
   const LaIcon.lasHospital({
@@ -6793,7 +12817,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHospital);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHospital,
+        );
 
   /// Icon for _hospital-symbol_ in `la las` style
   const LaIcon.lasHospitalSymbol({
@@ -6802,7 +12834,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHospitalSymbol);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHospitalSymbol,
+        );
 
   /// Icon for _hot-dog_ in `la las` style
   const LaIcon.lasHotDog({
@@ -6811,7 +12851,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHotDog);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHotDog,
+        );
 
   /// Icon for _hotel_ in `la las` style
   const LaIcon.lasHotel({
@@ -6820,7 +12868,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHotel);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHotel,
+        );
 
   /// Icon for _hotjar_ in `la lab` style
   const LaIcon.labHotjar({
@@ -6829,7 +12885,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labHotjar);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labHotjar,
+        );
 
   /// Icon for _hot-pepper_ in `la las` style
   const LaIcon.lasHotPepper({
@@ -6838,7 +12902,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHotPepper);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHotPepper,
+        );
 
   /// Icon for _hot-tub_ in `la las` style
   const LaIcon.lasHotTub({
@@ -6847,7 +12919,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHotTub);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHotTub,
+        );
 
   /// Icon for _hourglass_ in `la lar` style
   const LaIcon.larHourglass({
@@ -6856,7 +12936,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larHourglass);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larHourglass,
+        );
 
   /// Icon for _hourglass_ in `la las` style
   const LaIcon.lasHourglass({
@@ -6865,7 +12953,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHourglass);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHourglass,
+        );
 
   /// Icon for _hourglass-end_ in `la las` style
   const LaIcon.lasHourglassEnd({
@@ -6874,7 +12970,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHourglassEnd);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHourglassEnd,
+        );
 
   /// Icon for _hourglass-half_ in `la las` style
   const LaIcon.lasHourglassHalf({
@@ -6883,7 +12987,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHourglassHalf);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHourglassHalf,
+        );
 
   /// Icon for _hourglass-start_ in `la las` style
   const LaIcon.lasHourglassStart({
@@ -6892,7 +13004,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHourglassStart);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHourglassStart,
+        );
 
   /// Icon for _houzz_ in `la lab` style
   const LaIcon.labHouzz({
@@ -6901,7 +13021,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labHouzz);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labHouzz,
+        );
 
   /// Icon for _hryvnia_ in `la las` style
   const LaIcon.lasHryvnia({
@@ -6910,7 +13038,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHryvnia);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHryvnia,
+        );
 
   /// Icon for _h-square_ in `la las` style
   const LaIcon.lasHSquare({
@@ -6919,7 +13055,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHSquare);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHSquare,
+        );
 
   /// Icon for _html-5-logo_ in `la lab` style
   const LaIcon.labHtml5Logo({
@@ -6928,7 +13072,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labHtml5Logo);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labHtml5Logo,
+        );
 
   /// Icon for _hubspot_ in `la lab` style
   const LaIcon.labHubspot({
@@ -6937,7 +13089,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labHubspot);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labHubspot,
+        );
 
   /// Icon for _hushed-face_ in `la lar` style
   const LaIcon.larHushedFace({
@@ -6946,7 +13106,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larHushedFace);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larHushedFace,
+        );
 
   /// Icon for _hushed-face_ in `la las` style
   const LaIcon.lasHushedFace({
@@ -6955,7 +13123,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasHushedFace);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasHushedFace,
+        );
 
   /// Icon for _i-beam-cursor_ in `la las` style
   const LaIcon.lasIBeamCursor({
@@ -6964,7 +13140,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasIBeamCursor);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasIBeamCursor,
+        );
 
   /// Icon for _ice-cream_ in `la las` style
   const LaIcon.lasIceCream({
@@ -6973,7 +13157,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasIceCream);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasIceCream,
+        );
 
   /// Icon for _icicles_ in `la las` style
   const LaIcon.lasIcicles({
@@ -6982,7 +13174,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasIcicles);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasIcicles,
+        );
 
   /// Icon for _icons_ in `la las` style
   const LaIcon.lasIcons({
@@ -6991,7 +13191,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasIcons);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasIcons,
+        );
 
   /// Icon for _identification-badge_ in `la lar` style
   const LaIcon.larIdentificationBadge({
@@ -7000,7 +13208,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larIdentificationBadge);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larIdentificationBadge,
+        );
 
   /// Icon for _identification-badge_ in `la las` style
   const LaIcon.lasIdentificationBadge({
@@ -7009,7 +13225,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasIdentificationBadge);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasIdentificationBadge,
+        );
 
   /// Icon for _identification-card_ in `la lar` style
   const LaIcon.larIdentificationCard({
@@ -7018,7 +13242,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larIdentificationCard);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larIdentificationCard,
+        );
 
   /// Icon for _identification-card_ in `la las` style
   const LaIcon.lasIdentificationCard({
@@ -7027,7 +13259,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasIdentificationCard);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasIdentificationCard,
+        );
 
   /// Icon for _igloo_ in `la las` style
   const LaIcon.lasIgloo({
@@ -7036,7 +13276,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasIgloo);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasIgloo,
+        );
 
   /// Icon for _image_ in `la lar` style
   const LaIcon.larImage({
@@ -7045,7 +13293,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larImage);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larImage,
+        );
 
   /// Icon for _image_ in `la las` style
   const LaIcon.lasImage({
@@ -7054,7 +13310,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasImage);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasImage,
+        );
 
   /// Icon for _image-file_ in `la lar` style
   const LaIcon.larImageFile({
@@ -7063,7 +13327,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larImageFile);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larImageFile,
+        );
 
   /// Icon for _image-file_ in `la las` style
   const LaIcon.lasImageFile({
@@ -7072,7 +13344,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasImageFile);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasImageFile,
+        );
 
   /// Icon for _images_ in `la lar` style
   const LaIcon.larImages({
@@ -7081,7 +13361,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larImages);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larImages,
+        );
 
   /// Icon for _images_ in `la las` style
   const LaIcon.lasImages({
@@ -7090,7 +13378,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasImages);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasImages,
+        );
 
   /// Icon for _imdb_ in `la lab` style
   const LaIcon.labImdb({
@@ -7099,7 +13395,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labImdb);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labImdb,
+        );
 
   /// Icon for _inbox_ in `la las` style
   const LaIcon.lasInbox({
@@ -7108,7 +13412,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasInbox);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasInbox,
+        );
 
   /// Icon for _indent_ in `la las` style
   const LaIcon.lasIndent({
@@ -7117,7 +13429,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasIndent);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasIndent,
+        );
 
   /// Icon for _indian-rupee-sign_ in `la las` style
   const LaIcon.lasIndianRupeeSign({
@@ -7126,7 +13446,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasIndianRupeeSign);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasIndianRupeeSign,
+        );
 
   /// Icon for _industry_ in `la las` style
   const LaIcon.lasIndustry({
@@ -7135,7 +13463,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasIndustry);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasIndustry,
+        );
 
   /// Icon for _infinity_ in `la las` style
   const LaIcon.lasInfinity({
@@ -7144,7 +13480,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasInfinity);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasInfinity,
+        );
 
   /// Icon for _info_ in `la las` style
   const LaIcon.lasInfo({
@@ -7153,7 +13497,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasInfo);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasInfo,
+        );
 
   /// Icon for _info-circle_ in `la las` style
   const LaIcon.lasInfoCircle({
@@ -7162,7 +13514,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasInfoCircle);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasInfoCircle,
+        );
 
   /// Icon for _instagram_ in `la lab` style
   const LaIcon.labInstagram({
@@ -7171,7 +13531,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labInstagram);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labInstagram,
+        );
 
   /// Icon for _intercom_ in `la lab` style
   const LaIcon.labIntercom({
@@ -7180,7 +13548,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labIntercom);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labIntercom,
+        );
 
   /// Icon for _internet-explorer_ in `la lab` style
   const LaIcon.labInternetExplorer({
@@ -7189,7 +13565,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labInternetExplorer);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labInternetExplorer,
+        );
 
   /// Icon for _invision_ in `la lab` style
   const LaIcon.labInvision({
@@ -7198,7 +13582,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labInvision);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labInvision,
+        );
 
   /// Icon for _ios-app-store_ in `la lab` style
   const LaIcon.labIosAppStore({
@@ -7207,7 +13599,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labIosAppStore);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labIosAppStore,
+        );
 
   /// Icon for _ioxhost_ in `la lab` style
   const LaIcon.labIoxhost({
@@ -7216,7 +13616,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labIoxhost);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labIoxhost,
+        );
 
   /// Icon for _italic_ in `la las` style
   const LaIcon.lasItalic({
@@ -7225,7 +13633,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasItalic);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasItalic,
+        );
 
   /// Icon for _itch-io_ in `la lab` style
   const LaIcon.labItchIo({
@@ -7234,7 +13650,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labItchIo);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labItchIo,
+        );
 
   /// Icon for _itunes_ in `la lab` style
   const LaIcon.labItunes({
@@ -7243,7 +13667,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labItunes);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labItunes,
+        );
 
   /// Icon for _itunes-note_ in `la lab` style
   const LaIcon.labItunesNote({
@@ -7252,7 +13684,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labItunesNote);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labItunesNote,
+        );
 
   /// Icon for _java_ in `la lab` style
   const LaIcon.labJava({
@@ -7261,7 +13701,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labJava);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labJava,
+        );
 
   /// Icon for _javascript--js-_ in `la lab` style
   const LaIcon.labJavascriptJs({
@@ -7270,7 +13718,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labJavascriptJs);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labJavascriptJs,
+        );
 
   /// Icon for _javascript--js--square_ in `la lab` style
   const LaIcon.labJavascriptJsSquare({
@@ -7279,7 +13735,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labJavascriptJsSquare);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labJavascriptJsSquare,
+        );
 
   /// Icon for _jcb-credit-card_ in `la lab` style
   const LaIcon.labJcbCreditCard({
@@ -7288,7 +13752,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labJcbCreditCard);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labJcbCreditCard,
+        );
 
   /// Icon for _jedi_ in `la las` style
   const LaIcon.lasJedi({
@@ -7297,7 +13769,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasJedi);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasJedi,
+        );
 
   /// Icon for _jedi-order_ in `la lab` style
   const LaIcon.labJediOrder({
@@ -7306,7 +13786,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labJediOrder);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labJediOrder,
+        );
 
   /// Icon for _jenkis_ in `la lab` style
   const LaIcon.labJenkis({
@@ -7315,7 +13803,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labJenkis);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labJenkis,
+        );
 
   /// Icon for _jira_ in `la lab` style
   const LaIcon.labJira({
@@ -7324,7 +13820,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labJira);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labJira,
+        );
 
   /// Icon for _joget_ in `la lab` style
   const LaIcon.labJoget({
@@ -7333,7 +13837,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labJoget);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labJoget,
+        );
 
   /// Icon for _joint_ in `la las` style
   const LaIcon.lasJoint({
@@ -7342,7 +13854,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasJoint);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasJoint,
+        );
 
   /// Icon for _joomla-logo_ in `la lab` style
   const LaIcon.labJoomlaLogo({
@@ -7351,7 +13871,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labJoomlaLogo);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labJoomlaLogo,
+        );
 
   /// Icon for _journal-of-the-whills_ in `la las` style
   const LaIcon.lasJournalOfTheWhills({
@@ -7360,7 +13888,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasJournalOfTheWhills);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasJournalOfTheWhills,
+        );
 
   /// Icon for _jsfiddle_ in `la lab` style
   const LaIcon.labJsfiddle({
@@ -7369,7 +13905,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labJsfiddle);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labJsfiddle,
+        );
 
   /// Icon for _kaaba_ in `la las` style
   const LaIcon.lasKaaba({
@@ -7378,7 +13922,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasKaaba);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasKaaba,
+        );
 
   /// Icon for _kaggle_ in `la lab` style
   const LaIcon.labKaggle({
@@ -7387,7 +13939,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labKaggle);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labKaggle,
+        );
 
   /// Icon for _key_ in `la las` style
   const LaIcon.lasKey({
@@ -7396,7 +13956,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasKey);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasKey,
+        );
 
   /// Icon for _keybase_ in `la lab` style
   const LaIcon.labKeybase({
@@ -7405,7 +13973,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labKeybase);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labKeybase,
+        );
 
   /// Icon for _keyboard_ in `la lar` style
   const LaIcon.larKeyboard({
@@ -7414,7 +13990,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larKeyboard);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larKeyboard,
+        );
 
   /// Icon for _keyboard_ in `la las` style
   const LaIcon.lasKeyboard({
@@ -7423,7 +14007,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasKeyboard);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasKeyboard,
+        );
 
   /// Icon for _keycdn_ in `la lab` style
   const LaIcon.labKeycdn({
@@ -7432,7 +14024,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labKeycdn);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labKeycdn,
+        );
 
   /// Icon for _khanda_ in `la las` style
   const LaIcon.lasKhanda({
@@ -7441,7 +14041,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasKhanda);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasKhanda,
+        );
 
   /// Icon for _kickstarter_ in `la lab` style
   const LaIcon.labKickstarter({
@@ -7450,7 +14058,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labKickstarter);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labKickstarter,
+        );
 
   /// Icon for _kickstarter-k_ in `la lab` style
   const LaIcon.labKickstarterK({
@@ -7459,7 +14075,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labKickstarterK);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labKickstarterK,
+        );
 
   /// Icon for _kissing-face_ in `la lar` style
   const LaIcon.larKissingFace({
@@ -7468,7 +14092,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larKissingFace);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larKissingFace,
+        );
 
   /// Icon for _kissing-face_ in `la las` style
   const LaIcon.lasKissingFace({
@@ -7477,7 +14109,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasKissingFace);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasKissingFace,
+        );
 
   /// Icon for _kissing-face-with-smiling-eyes_ in `la lar` style
   const LaIcon.larKissingFaceWithSmilingEyes({
@@ -7486,7 +14126,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larKissingFaceWithSmilingEyes);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larKissingFaceWithSmilingEyes,
+        );
 
   /// Icon for _kissing-face-with-smiling-eyes_ in `la las` style
   const LaIcon.lasKissingFaceWithSmilingEyes({
@@ -7495,7 +14143,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasKissingFaceWithSmilingEyes);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasKissingFaceWithSmilingEyes,
+        );
 
   /// Icon for _kiwi-bird_ in `la las` style
   const LaIcon.lasKiwiBird({
@@ -7504,7 +14160,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasKiwiBird);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasKiwiBird,
+        );
 
   /// Icon for _korvue_ in `la lab` style
   const LaIcon.labKorvue({
@@ -7513,7 +14177,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labKorvue);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labKorvue,
+        );
 
   /// Icon for _landmark_ in `la las` style
   const LaIcon.lasLandmark({
@@ -7522,7 +14194,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasLandmark);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasLandmark,
+        );
 
   /// Icon for _language_ in `la las` style
   const LaIcon.lasLanguage({
@@ -7531,7 +14211,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasLanguage);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasLanguage,
+        );
 
   /// Icon for _laptop_ in `la las` style
   const LaIcon.lasLaptop({
@@ -7540,7 +14228,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasLaptop);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasLaptop,
+        );
 
   /// Icon for _laptop-code_ in `la las` style
   const LaIcon.lasLaptopCode({
@@ -7549,7 +14245,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasLaptopCode);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasLaptopCode,
+        );
 
   /// Icon for _laptop-medical_ in `la las` style
   const LaIcon.lasLaptopMedical({
@@ -7558,7 +14262,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasLaptopMedical);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasLaptopMedical,
+        );
 
   /// Icon for _laravel_ in `la lab` style
   const LaIcon.labLaravel({
@@ -7567,7 +14279,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labLaravel);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labLaravel,
+        );
 
   /// Icon for _last-fm_ in `la lab` style
   const LaIcon.labLastFm({
@@ -7576,7 +14296,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labLastFm);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labLastFm,
+        );
 
   /// Icon for _last-fm-square_ in `la lab` style
   const LaIcon.labLastFmSquare({
@@ -7585,7 +14313,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labLastFmSquare);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labLastFmSquare,
+        );
 
   /// Icon for _laugh-face-with-beaming-eyes_ in `la lar` style
   const LaIcon.larLaughFaceWithBeamingEyes({
@@ -7594,7 +14330,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larLaughFaceWithBeamingEyes);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larLaughFaceWithBeamingEyes,
+        );
 
   /// Icon for _laugh-face-with-beaming-eyes_ in `la las` style
   const LaIcon.lasLaughFaceWithBeamingEyes({
@@ -7603,7 +14347,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasLaughFaceWithBeamingEyes);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasLaughFaceWithBeamingEyes,
+        );
 
   /// Icon for _laughing-squinting-face_ in `la lar` style
   const LaIcon.larLaughingSquintingFace({
@@ -7612,7 +14364,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larLaughingSquintingFace);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larLaughingSquintingFace,
+        );
 
   /// Icon for _laughing-squinting-face_ in `la las` style
   const LaIcon.lasLaughingSquintingFace({
@@ -7621,7 +14381,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasLaughingSquintingFace);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasLaughingSquintingFace,
+        );
 
   /// Icon for _laughing-winking-face_ in `la lar` style
   const LaIcon.larLaughingWinkingFace({
@@ -7630,7 +14398,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larLaughingWinkingFace);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larLaughingWinkingFace,
+        );
 
   /// Icon for _laughing-winking-face_ in `la las` style
   const LaIcon.lasLaughingWinkingFace({
@@ -7639,7 +14415,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasLaughingWinkingFace);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasLaughingWinkingFace,
+        );
 
   /// Icon for _layer-group_ in `la las` style
   const LaIcon.lasLayerGroup({
@@ -7648,7 +14432,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasLayerGroup);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasLayerGroup,
+        );
 
   /// Icon for _leaf_ in `la las` style
   const LaIcon.lasLeaf({
@@ -7657,7 +14449,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasLeaf);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasLeaf,
+        );
 
   /// Icon for _leanpub_ in `la lab` style
   const LaIcon.labLeanpub({
@@ -7666,7 +14466,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labLeanpub);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labLeanpub,
+        );
 
   /// Icon for _lemon_ in `la lar` style
   const LaIcon.larLemon({
@@ -7675,7 +14483,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larLemon);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larLemon,
+        );
 
   /// Icon for _lemon_ in `la las` style
   const LaIcon.lasLemon({
@@ -7684,7 +14500,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasLemon);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasLemon,
+        );
 
   /// Icon for _less_ in `la lab` style
   const LaIcon.labLess({
@@ -7693,7 +14517,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labLess);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labLess,
+        );
 
   /// Icon for _less-than_ in `la las` style
   const LaIcon.lasLessThan({
@@ -7702,7 +14534,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasLessThan);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasLessThan,
+        );
 
   /// Icon for _less-than-equal-to_ in `la las` style
   const LaIcon.lasLessThanEqualTo({
@@ -7711,7 +14551,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasLessThanEqualTo);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasLessThanEqualTo,
+        );
 
   /// Icon for _life-ring_ in `la lar` style
   const LaIcon.larLifeRing({
@@ -7720,7 +14568,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larLifeRing);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larLifeRing,
+        );
 
   /// Icon for _life-ring_ in `la las` style
   const LaIcon.lasLifeRing({
@@ -7729,7 +14585,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasLifeRing);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasLifeRing,
+        );
 
   /// Icon for _lightbulb_ in `la lar` style
   const LaIcon.larLightbulb({
@@ -7738,7 +14602,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larLightbulb);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larLightbulb,
+        );
 
   /// Icon for _lightbulb_ in `la las` style
   const LaIcon.lasLightbulb({
@@ -7747,7 +14619,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasLightbulb);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasLightbulb,
+        );
 
   /// Icon for _lightning-bolt_ in `la las` style
   const LaIcon.lasLightningBolt({
@@ -7756,7 +14636,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasLightningBolt);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasLightningBolt,
+        );
 
   /// Icon for _line_ in `la lab` style
   const LaIcon.labLine({
@@ -7765,7 +14653,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labLine);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labLine,
+        );
 
   /// Icon for _line-chart_ in `la las` style
   const LaIcon.lasLineChart({
@@ -7774,7 +14670,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasLineChart);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasLineChart,
+        );
 
   /// Icon for _link_ in `la las` style
   const LaIcon.lasLink({
@@ -7783,7 +14687,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasLink);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasLink,
+        );
 
   /// Icon for _linkedin_ in `la lab` style
   const LaIcon.labLinkedin({
@@ -7792,7 +14704,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labLinkedin);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labLinkedin,
+        );
 
   /// Icon for _linkedin-in_ in `la lab` style
   const LaIcon.labLinkedinIn({
@@ -7801,7 +14721,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labLinkedinIn);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labLinkedinIn,
+        );
 
   /// Icon for _linode_ in `la lab` style
   const LaIcon.labLinode({
@@ -7810,7 +14738,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labLinode);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labLinode,
+        );
 
   /// Icon for _linux_ in `la lab` style
   const LaIcon.labLinux({
@@ -7819,7 +14755,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labLinux);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labLinux,
+        );
 
   /// Icon for _list_ in `la las` style
   const LaIcon.lasList({
@@ -7828,7 +14772,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasList);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasList,
+        );
 
   /// Icon for _list-ol_ in `la las` style
   const LaIcon.lasListOl({
@@ -7837,7 +14789,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasListOl);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasListOl,
+        );
 
   /// Icon for _list-ul_ in `la las` style
   const LaIcon.lasListUl({
@@ -7846,7 +14806,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasListUl);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasListUl,
+        );
 
   /// Icon for _lizard--hand-_ in `la lar` style
   const LaIcon.larLizardHand({
@@ -7855,7 +14823,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larLizardHand);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larLizardHand,
+        );
 
   /// Icon for _lizard--hand-_ in `la las` style
   const LaIcon.lasLizardHand({
@@ -7864,7 +14840,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasLizardHand);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasLizardHand,
+        );
 
   /// Icon for _location-arrow_ in `la las` style
   const LaIcon.lasLocationArrow({
@@ -7873,7 +14857,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasLocationArrow);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasLocationArrow,
+        );
 
   /// Icon for _lock_ in `la las` style
   const LaIcon.lasLock({
@@ -7882,7 +14874,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasLock);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasLock,
+        );
 
   /// Icon for _lock-open_ in `la las` style
   const LaIcon.lasLockOpen({
@@ -7891,7 +14891,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasLockOpen);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasLockOpen,
+        );
 
   /// Icon for _loudly-crying-face_ in `la lar` style
   const LaIcon.larLoudlyCryingFace({
@@ -7900,7 +14908,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larLoudlyCryingFace);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larLoudlyCryingFace,
+        );
 
   /// Icon for _loudly-crying-face_ in `la las` style
   const LaIcon.lasLoudlyCryingFace({
@@ -7909,7 +14925,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasLoudlyCryingFace);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasLoudlyCryingFace,
+        );
 
   /// Icon for _low-temperature_ in `la las` style
   const LaIcon.lasLowTemperature({
@@ -7918,7 +14942,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasLowTemperature);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasLowTemperature,
+        );
 
   /// Icon for _low-vision_ in `la las` style
   const LaIcon.lasLowVision({
@@ -7927,7 +14959,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasLowVision);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasLowVision,
+        );
 
   /// Icon for _luggage-cart_ in `la las` style
   const LaIcon.lasLuggageCart({
@@ -7936,7 +14976,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasLuggageCart);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasLuggageCart,
+        );
 
   /// Icon for _lyft_ in `la lab` style
   const LaIcon.labLyft({
@@ -7945,7 +14993,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labLyft);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labLyft,
+        );
 
   /// Icon for _magento_ in `la lab` style
   const LaIcon.labMagento({
@@ -7954,7 +15010,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labMagento);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labMagento,
+        );
 
   /// Icon for _magic_ in `la las` style
   const LaIcon.lasMagic({
@@ -7963,7 +15027,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMagic);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMagic,
+        );
 
   /// Icon for _magnet_ in `la las` style
   const LaIcon.lasMagnet({
@@ -7972,7 +15044,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMagnet);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMagnet,
+        );
 
   /// Icon for _mail-bulk_ in `la las` style
   const LaIcon.lasMailBulk({
@@ -7981,7 +15061,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMailBulk);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMailBulk,
+        );
 
   /// Icon for _mailchimp_ in `la lab` style
   const LaIcon.labMailchimp({
@@ -7990,7 +15078,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labMailchimp);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labMailchimp,
+        );
 
   /// Icon for _male_ in `la las` style
   const LaIcon.lasMale({
@@ -7999,7 +15095,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMale);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMale,
+        );
 
   /// Icon for _mandalorian_ in `la lab` style
   const LaIcon.labMandalorian({
@@ -8008,7 +15112,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labMandalorian);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labMandalorian,
+        );
 
   /// Icon for _map_ in `la lar` style
   const LaIcon.larMap({
@@ -8017,7 +15129,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larMap);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larMap,
+        );
 
   /// Icon for _map_ in `la las` style
   const LaIcon.lasMap({
@@ -8026,7 +15146,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMap);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMap,
+        );
 
   /// Icon for _map-marked_ in `la las` style
   const LaIcon.lasMapMarked({
@@ -8035,7 +15163,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMapMarked);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMapMarked,
+        );
 
   /// Icon for _map-marker_ in `la las` style
   const LaIcon.lasMapMarker({
@@ -8044,7 +15180,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMapMarker);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMapMarker,
+        );
 
   /// Icon for _map-pin_ in `la las` style
   const LaIcon.lasMapPin({
@@ -8053,7 +15197,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMapPin);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMapPin,
+        );
 
   /// Icon for _map-signs_ in `la las` style
   const LaIcon.lasMapSigns({
@@ -8062,7 +15214,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMapSigns);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMapSigns,
+        );
 
   /// Icon for _markdown_ in `la lab` style
   const LaIcon.labMarkdown({
@@ -8071,7 +15231,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labMarkdown);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labMarkdown,
+        );
 
   /// Icon for _marker_ in `la las` style
   const LaIcon.lasMarker({
@@ -8080,7 +15248,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMarker);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMarker,
+        );
 
   /// Icon for _mars_ in `la las` style
   const LaIcon.lasMars({
@@ -8089,7 +15265,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMars);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMars,
+        );
 
   /// Icon for _mars-double_ in `la las` style
   const LaIcon.lasMarsDouble({
@@ -8098,7 +15282,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMarsDouble);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMarsDouble,
+        );
 
   /// Icon for _mars-stroke_ in `la las` style
   const LaIcon.lasMarsStroke({
@@ -8107,7 +15299,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMarsStroke);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMarsStroke,
+        );
 
   /// Icon for _mars-stroke-horizontal_ in `la las` style
   const LaIcon.lasMarsStrokeHorizontal({
@@ -8116,7 +15316,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMarsStrokeHorizontal);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMarsStrokeHorizontal,
+        );
 
   /// Icon for _mars-stroke-vertical_ in `la las` style
   const LaIcon.lasMarsStrokeVertical({
@@ -8125,7 +15333,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMarsStrokeVertical);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMarsStrokeVertical,
+        );
 
   /// Icon for _martini-glass_ in `la las` style
   const LaIcon.lasMartiniGlass({
@@ -8134,7 +15350,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMartiniGlass);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMartiniGlass,
+        );
 
   /// Icon for _mask_ in `la las` style
   const LaIcon.lasMask({
@@ -8143,7 +15367,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMask);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMask,
+        );
 
   /// Icon for _mastercard-credit-card_ in `la lab` style
   const LaIcon.labMastercardCreditCard({
@@ -8152,7 +15384,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labMastercardCreditCard);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labMastercardCreditCard,
+        );
 
   /// Icon for _mastodon_ in `la lab` style
   const LaIcon.labMastodon({
@@ -8161,7 +15401,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labMastodon);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labMastodon,
+        );
 
   /// Icon for _material-design-for-bootstrap_ in `la lab` style
   const LaIcon.labMaterialDesignForBootstrap({
@@ -8170,7 +15418,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labMaterialDesignForBootstrap);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labMaterialDesignForBootstrap,
+        );
 
   /// Icon for _maxcdn_ in `la lab` style
   const LaIcon.labMaxcdn({
@@ -8179,7 +15435,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labMaxcdn);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labMaxcdn,
+        );
 
   /// Icon for _medal_ in `la las` style
   const LaIcon.lasMedal({
@@ -8188,7 +15452,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMedal);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMedal,
+        );
 
   /// Icon for _medapps_ in `la lab` style
   const LaIcon.labMedapps({
@@ -8197,7 +15469,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labMedapps);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labMedapps,
+        );
 
   /// Icon for _medical-book_ in `la las` style
   const LaIcon.lasMedicalBook({
@@ -8206,7 +15486,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMedicalBook);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMedicalBook,
+        );
 
   /// Icon for _medical-briefcase_ in `la las` style
   const LaIcon.lasMedicalBriefcase({
@@ -8215,7 +15503,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMedicalBriefcase);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMedicalBriefcase,
+        );
 
   /// Icon for _medical-clinic_ in `la las` style
   const LaIcon.lasMedicalClinic({
@@ -8224,7 +15520,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMedicalClinic);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMedicalClinic,
+        );
 
   /// Icon for _medical-file_ in `la las` style
   const LaIcon.lasMedicalFile({
@@ -8233,7 +15537,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMedicalFile);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMedicalFile,
+        );
 
   /// Icon for _medical-notes_ in `la las` style
   const LaIcon.lasMedicalNotes({
@@ -8242,7 +15554,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMedicalNotes);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMedicalNotes,
+        );
 
   /// Icon for _medium_ in `la lab` style
   const LaIcon.labMedium({
@@ -8251,7 +15571,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labMedium);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labMedium,
+        );
 
   /// Icon for _medium-m_ in `la lab` style
   const LaIcon.labMediumM({
@@ -8260,7 +15588,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labMediumM);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labMediumM,
+        );
 
   /// Icon for _medkit_ in `la las` style
   const LaIcon.lasMedkit({
@@ -8269,7 +15605,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMedkit);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMedkit,
+        );
 
   /// Icon for _meetup_ in `la lab` style
   const LaIcon.labMeetup({
@@ -8278,7 +15622,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labMeetup);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labMeetup,
+        );
 
   /// Icon for _megaport_ in `la lab` style
   const LaIcon.labMegaport({
@@ -8287,7 +15639,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labMegaport);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labMegaport,
+        );
 
   /// Icon for _memory_ in `la las` style
   const LaIcon.lasMemory({
@@ -8296,7 +15656,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMemory);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMemory,
+        );
 
   /// Icon for _mendeley_ in `la lab` style
   const LaIcon.labMendeley({
@@ -8305,7 +15673,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labMendeley);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labMendeley,
+        );
 
   /// Icon for _menorah_ in `la las` style
   const LaIcon.lasMenorah({
@@ -8314,7 +15690,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMenorah);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMenorah,
+        );
 
   /// Icon for _mercury_ in `la las` style
   const LaIcon.lasMercury({
@@ -8323,7 +15707,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMercury);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMercury,
+        );
 
   /// Icon for _meteor_ in `la las` style
   const LaIcon.lasMeteor({
@@ -8332,7 +15724,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMeteor);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMeteor,
+        );
 
   /// Icon for _microchip_ in `la las` style
   const LaIcon.lasMicrochip({
@@ -8341,7 +15741,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMicrochip);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMicrochip,
+        );
 
   /// Icon for _microphone_ in `la las` style
   const LaIcon.lasMicrophone({
@@ -8350,7 +15758,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMicrophone);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMicrophone,
+        );
 
   /// Icon for _microphone-slash_ in `la las` style
   const LaIcon.lasMicrophoneSlash({
@@ -8359,7 +15775,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMicrophoneSlash);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMicrophoneSlash,
+        );
 
   /// Icon for _microscope_ in `la las` style
   const LaIcon.lasMicroscope({
@@ -8368,7 +15792,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMicroscope);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMicroscope,
+        );
 
   /// Icon for _microsoft_ in `la lab` style
   const LaIcon.labMicrosoft({
@@ -8377,7 +15809,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labMicrosoft);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labMicrosoft,
+        );
 
   /// Icon for _minus_ in `la las` style
   const LaIcon.lasMinus({
@@ -8386,7 +15826,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMinus);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMinus,
+        );
 
   /// Icon for _minus-circle_ in `la las` style
   const LaIcon.lasMinusCircle({
@@ -8395,7 +15843,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMinusCircle);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMinusCircle,
+        );
 
   /// Icon for _minus-square_ in `la lar` style
   const LaIcon.larMinusSquare({
@@ -8404,7 +15860,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larMinusSquare);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larMinusSquare,
+        );
 
   /// Icon for _minus-square_ in `la las` style
   const LaIcon.lasMinusSquare({
@@ -8413,7 +15877,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMinusSquare);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMinusSquare,
+        );
 
   /// Icon for _mitten_ in `la las` style
   const LaIcon.lasMitten({
@@ -8422,7 +15894,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMitten);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMitten,
+        );
 
   /// Icon for _mix_ in `la lab` style
   const LaIcon.labMix({
@@ -8431,7 +15911,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labMix);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labMix,
+        );
 
   /// Icon for _mixcloud_ in `la lab` style
   const LaIcon.labMixcloud({
@@ -8440,7 +15928,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labMixcloud);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labMixcloud,
+        );
 
   /// Icon for _mizuni_ in `la lab` style
   const LaIcon.labMizuni({
@@ -8449,7 +15945,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labMizuni);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labMizuni,
+        );
 
   /// Icon for _mobile-phone_ in `la las` style
   const LaIcon.lasMobilePhone({
@@ -8458,7 +15962,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMobilePhone);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMobilePhone,
+        );
 
   /// Icon for _modx_ in `la lab` style
   const LaIcon.labModx({
@@ -8467,7 +15979,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labModx);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labModx,
+        );
 
   /// Icon for _monero_ in `la lab` style
   const LaIcon.labMonero({
@@ -8476,7 +15996,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labMonero);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labMonero,
+        );
 
   /// Icon for _money-bill_ in `la las` style
   const LaIcon.lasMoneyBill({
@@ -8485,7 +16013,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMoneyBill);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMoneyBill,
+        );
 
   /// Icon for _money-check_ in `la las` style
   const LaIcon.lasMoneyCheck({
@@ -8494,7 +16030,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMoneyCheck);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMoneyCheck,
+        );
 
   /// Icon for _monument_ in `la las` style
   const LaIcon.lasMonument({
@@ -8503,7 +16047,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMonument);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMonument,
+        );
 
   /// Icon for _moon_ in `la lar` style
   const LaIcon.larMoon({
@@ -8512,7 +16064,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larMoon);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larMoon,
+        );
 
   /// Icon for _moon_ in `la las` style
   const LaIcon.lasMoon({
@@ -8521,7 +16081,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMoon);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMoon,
+        );
 
   /// Icon for _mortar-pestle_ in `la las` style
   const LaIcon.lasMortarPestle({
@@ -8530,7 +16098,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMortarPestle);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMortarPestle,
+        );
 
   /// Icon for _mosque_ in `la las` style
   const LaIcon.lasMosque({
@@ -8539,7 +16115,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMosque);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMosque,
+        );
 
   /// Icon for _motorcycle_ in `la las` style
   const LaIcon.lasMotorcycle({
@@ -8548,7 +16132,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMotorcycle);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMotorcycle,
+        );
 
   /// Icon for _mountain_ in `la las` style
   const LaIcon.lasMountain({
@@ -8557,7 +16149,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMountain);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMountain,
+        );
 
   /// Icon for _mouse_ in `la las` style
   const LaIcon.lasMouse({
@@ -8566,7 +16166,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMouse);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMouse,
+        );
 
   /// Icon for _mouse-pointer_ in `la las` style
   const LaIcon.lasMousePointer({
@@ -8575,7 +16183,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMousePointer);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMousePointer,
+        );
 
   /// Icon for _mrt_ in `la lab` style
   const LaIcon.labMrt({
@@ -8584,7 +16200,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labMrt);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labMrt,
+        );
 
   /// Icon for _mug-hot_ in `la las` style
   const LaIcon.lasMugHot({
@@ -8593,7 +16217,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMugHot);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMugHot,
+        );
 
   /// Icon for _music_ in `la las` style
   const LaIcon.lasMusic({
@@ -8602,7 +16234,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasMusic);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasMusic,
+        );
 
   /// Icon for _napster_ in `la lab` style
   const LaIcon.labNapster({
@@ -8611,7 +16251,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labNapster);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labNapster,
+        );
 
   /// Icon for _neos_ in `la lab` style
   const LaIcon.labNeos({
@@ -8620,7 +16268,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labNeos);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labNeos,
+        );
 
   /// Icon for _neuter_ in `la las` style
   const LaIcon.lasNeuter({
@@ -8629,7 +16285,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasNeuter);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasNeuter,
+        );
 
   /// Icon for _neutral-face_ in `la lar` style
   const LaIcon.larNeutralFace({
@@ -8638,7 +16302,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larNeutralFace);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larNeutralFace,
+        );
 
   /// Icon for _neutral-face_ in `la las` style
   const LaIcon.lasNeutralFace({
@@ -8647,7 +16319,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasNeutralFace);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasNeutralFace,
+        );
 
   /// Icon for _newspaper_ in `la lar` style
   const LaIcon.larNewspaper({
@@ -8656,7 +16336,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larNewspaper);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larNewspaper,
+        );
 
   /// Icon for _newspaper_ in `la las` style
   const LaIcon.lasNewspaper({
@@ -8665,7 +16353,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasNewspaper);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasNewspaper,
+        );
 
   /// Icon for _nimblr_ in `la lab` style
   const LaIcon.labNimblr({
@@ -8674,7 +16370,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labNimblr);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labNimblr,
+        );
 
   /// Icon for _node-js_ in `la lab` style
   const LaIcon.labNodeJs({
@@ -8683,7 +16387,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labNodeJs);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labNodeJs,
+        );
 
   /// Icon for _node-js-js_ in `la lab` style
   const LaIcon.labNodeJsJs({
@@ -8692,7 +16404,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labNodeJsJs);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labNodeJsJs,
+        );
 
   /// Icon for _not-equal_ in `la las` style
   const LaIcon.lasNotEqual({
@@ -8701,7 +16421,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasNotEqual);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasNotEqual,
+        );
 
   /// Icon for _npm_ in `la lab` style
   const LaIcon.labNpm({
@@ -8710,7 +16438,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labNpm);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labNpm,
+        );
 
   /// Icon for _ns8_ in `la lab` style
   const LaIcon.labNs8({
@@ -8719,7 +16455,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labNs8);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labNs8,
+        );
 
   /// Icon for _nurse_ in `la las` style
   const LaIcon.lasNurse({
@@ -8728,7 +16472,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasNurse);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasNurse,
+        );
 
   /// Icon for _nutritionix_ in `la lab` style
   const LaIcon.labNutritionix({
@@ -8737,7 +16489,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labNutritionix);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labNutritionix,
+        );
 
   /// Icon for _object-group_ in `la lar` style
   const LaIcon.larObjectGroup({
@@ -8746,7 +16506,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larObjectGroup);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larObjectGroup,
+        );
 
   /// Icon for _object-group_ in `la las` style
   const LaIcon.lasObjectGroup({
@@ -8755,7 +16523,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasObjectGroup);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasObjectGroup,
+        );
 
   /// Icon for _object-ungroup_ in `la lar` style
   const LaIcon.larObjectUngroup({
@@ -8764,7 +16540,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larObjectUngroup);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larObjectUngroup,
+        );
 
   /// Icon for _object-ungroup_ in `la las` style
   const LaIcon.lasObjectUngroup({
@@ -8773,7 +16557,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasObjectUngroup);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasObjectUngroup,
+        );
 
   /// Icon for _odnoklassniki_ in `la lab` style
   const LaIcon.labOdnoklassniki({
@@ -8782,7 +16574,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labOdnoklassniki);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labOdnoklassniki,
+        );
 
   /// Icon for _odnoklassniki-square_ in `la lab` style
   const LaIcon.labOdnoklassnikiSquare({
@@ -8791,7 +16591,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labOdnoklassnikiSquare);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labOdnoklassnikiSquare,
+        );
 
   /// Icon for _oil-can_ in `la las` style
   const LaIcon.lasOilCan({
@@ -8800,7 +16608,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasOilCan);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasOilCan,
+        );
 
   /// Icon for _old-republic_ in `la lab` style
   const LaIcon.labOldRepublic({
@@ -8809,7 +16625,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labOldRepublic);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labOldRepublic,
+        );
 
   /// Icon for _om_ in `la las` style
   const LaIcon.lasOm({
@@ -8818,7 +16642,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasOm);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasOm,
+        );
 
   /// Icon for _opencart_ in `la lab` style
   const LaIcon.labOpencart({
@@ -8827,7 +16659,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labOpencart);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labOpencart,
+        );
 
   /// Icon for _openid_ in `la lab` style
   const LaIcon.labOpenid({
@@ -8836,7 +16676,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labOpenid);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labOpenid,
+        );
 
   /// Icon for _open-source-initiative_ in `la lab` style
   const LaIcon.labOpenSourceInitiative({
@@ -8845,7 +16693,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labOpenSourceInitiative);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labOpenSourceInitiative,
+        );
 
   /// Icon for _opera_ in `la lab` style
   const LaIcon.labOpera({
@@ -8854,7 +16710,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labOpera);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labOpera,
+        );
 
   /// Icon for _optin-monster_ in `la lab` style
   const LaIcon.labOptinMonster({
@@ -8863,7 +16727,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labOptinMonster);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labOptinMonster,
+        );
 
   /// Icon for _orcid_ in `la lab` style
   const LaIcon.labOrcid({
@@ -8872,7 +16744,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labOrcid);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labOrcid,
+        );
 
   /// Icon for _otter_ in `la las` style
   const LaIcon.lasOtter({
@@ -8881,7 +16761,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasOtter);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasOtter,
+        );
 
   /// Icon for _outdent_ in `la las` style
   const LaIcon.lasOutdent({
@@ -8890,7 +16778,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasOutdent);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasOutdent,
+        );
 
   /// Icon for _page4-corporation_ in `la lab` style
   const LaIcon.labPage4Corporation({
@@ -8899,7 +16795,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labPage4Corporation);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labPage4Corporation,
+        );
 
   /// Icon for _pagelines_ in `la lab` style
   const LaIcon.labPagelines({
@@ -8908,7 +16812,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labPagelines);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labPagelines,
+        );
 
   /// Icon for _pager_ in `la las` style
   const LaIcon.lasPager({
@@ -8917,7 +16829,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPager);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPager,
+        );
 
   /// Icon for _paint-brush_ in `la las` style
   const LaIcon.lasPaintBrush({
@@ -8926,7 +16846,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPaintBrush);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPaintBrush,
+        );
 
   /// Icon for _paint-roller_ in `la las` style
   const LaIcon.lasPaintRoller({
@@ -8935,7 +16863,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPaintRoller);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPaintRoller,
+        );
 
   /// Icon for _palette_ in `la las` style
   const LaIcon.lasPalette({
@@ -8944,7 +16880,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPalette);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPalette,
+        );
 
   /// Icon for _palfed_ in `la lab` style
   const LaIcon.labPalfed({
@@ -8953,7 +16897,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labPalfed);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labPalfed,
+        );
 
   /// Icon for _pallet_ in `la las` style
   const LaIcon.lasPallet({
@@ -8962,7 +16914,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPallet);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPallet,
+        );
 
   /// Icon for _paperclip_ in `la las` style
   const LaIcon.lasPaperclip({
@@ -8971,7 +16931,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPaperclip);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPaperclip,
+        );
 
   /// Icon for _paper--hand-_ in `la lar` style
   const LaIcon.larPaperHand({
@@ -8980,7 +16948,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larPaperHand);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larPaperHand,
+        );
 
   /// Icon for _paper--hand-_ in `la las` style
   const LaIcon.lasPaperHand({
@@ -8989,7 +16965,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPaperHand);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPaperHand,
+        );
 
   /// Icon for _paper-plane_ in `la lar` style
   const LaIcon.larPaperPlane({
@@ -8998,7 +16982,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larPaperPlane);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larPaperPlane,
+        );
 
   /// Icon for _paper-plane_ in `la las` style
   const LaIcon.lasPaperPlane({
@@ -9007,7 +16999,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPaperPlane);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPaperPlane,
+        );
 
   /// Icon for _parachute-box_ in `la las` style
   const LaIcon.lasParachuteBox({
@@ -9016,7 +17016,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasParachuteBox);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasParachuteBox,
+        );
 
   /// Icon for _paragraph_ in `la las` style
   const LaIcon.lasParagraph({
@@ -9025,7 +17033,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasParagraph);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasParagraph,
+        );
 
   /// Icon for _parking_ in `la las` style
   const LaIcon.lasParking({
@@ -9034,7 +17050,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasParking);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasParking,
+        );
 
   /// Icon for _passport_ in `la las` style
   const LaIcon.lasPassport({
@@ -9043,7 +17067,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPassport);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPassport,
+        );
 
   /// Icon for _pastafarianism_ in `la las` style
   const LaIcon.lasPastafarianism({
@@ -9052,7 +17084,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPastafarianism);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPastafarianism,
+        );
 
   /// Icon for _paste_ in `la las` style
   const LaIcon.lasPaste({
@@ -9061,7 +17101,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPaste);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPaste,
+        );
 
   /// Icon for _patreon_ in `la lab` style
   const LaIcon.labPatreon({
@@ -9070,7 +17118,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labPatreon);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labPatreon,
+        );
 
   /// Icon for _pause_ in `la las` style
   const LaIcon.lasPause({
@@ -9079,7 +17135,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPause);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPause,
+        );
 
   /// Icon for _pause-circle_ in `la lar` style
   const LaIcon.larPauseCircle({
@@ -9088,7 +17152,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larPauseCircle);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larPauseCircle,
+        );
 
   /// Icon for _pause-circle_ in `la las` style
   const LaIcon.lasPauseCircle({
@@ -9097,7 +17169,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPauseCircle);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPauseCircle,
+        );
 
   /// Icon for _paw_ in `la las` style
   const LaIcon.lasPaw({
@@ -9106,7 +17186,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPaw);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPaw,
+        );
 
   /// Icon for _paypal_ in `la lab` style
   const LaIcon.labPaypal({
@@ -9115,7 +17203,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labPaypal);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labPaypal,
+        );
 
   /// Icon for _paypal-credit-card_ in `la lab` style
   const LaIcon.labPaypalCreditCard({
@@ -9124,7 +17220,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labPaypalCreditCard);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labPaypalCreditCard,
+        );
 
   /// Icon for _pdf-file_ in `la lar` style
   const LaIcon.larPdfFile({
@@ -9133,7 +17237,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larPdfFile);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larPdfFile,
+        );
 
   /// Icon for _pdf-file_ in `la las` style
   const LaIcon.lasPdfFile({
@@ -9142,7 +17254,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPdfFile);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPdfFile,
+        );
 
   /// Icon for _peace_ in `la las` style
   const LaIcon.lasPeace({
@@ -9151,7 +17271,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPeace);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPeace,
+        );
 
   /// Icon for _peace--hand-_ in `la lar` style
   const LaIcon.larPeaceHand({
@@ -9160,7 +17288,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larPeaceHand);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larPeaceHand,
+        );
 
   /// Icon for _peace--hand-_ in `la las` style
   const LaIcon.lasPeaceHand({
@@ -9169,7 +17305,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPeaceHand);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPeaceHand,
+        );
 
   /// Icon for _pen_ in `la las` style
   const LaIcon.lasPen({
@@ -9178,7 +17322,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPen);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPen,
+        );
 
   /// Icon for _pencil-ruler_ in `la las` style
   const LaIcon.lasPencilRuler({
@@ -9187,7 +17339,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPencilRuler);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPencilRuler,
+        );
 
   /// Icon for _pen-fancy_ in `la las` style
   const LaIcon.lasPenFancy({
@@ -9196,7 +17356,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPenFancy);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPenFancy,
+        );
 
   /// Icon for _pen-nib_ in `la las` style
   const LaIcon.lasPenNib({
@@ -9205,7 +17373,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPenNib);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPenNib,
+        );
 
   /// Icon for _penny-arcade_ in `la lab` style
   const LaIcon.labPennyArcade({
@@ -9214,7 +17390,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labPennyArcade);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labPennyArcade,
+        );
 
   /// Icon for _pen-square_ in `la las` style
   const LaIcon.lasPenSquare({
@@ -9223,7 +17407,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPenSquare);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPenSquare,
+        );
 
   /// Icon for _people-carry_ in `la las` style
   const LaIcon.lasPeopleCarry({
@@ -9232,7 +17424,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPeopleCarry);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPeopleCarry,
+        );
 
   /// Icon for _percent_ in `la las` style
   const LaIcon.lasPercent({
@@ -9241,7 +17441,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPercent);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPercent,
+        );
 
   /// Icon for _percentage_ in `la las` style
   const LaIcon.lasPercentage({
@@ -9250,7 +17458,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPercentage);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPercentage,
+        );
 
   /// Icon for _periscope_ in `la lab` style
   const LaIcon.labPeriscope({
@@ -9259,7 +17475,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labPeriscope);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labPeriscope,
+        );
 
   /// Icon for _person-entering-booth_ in `la las` style
   const LaIcon.lasPersonEnteringBooth({
@@ -9268,7 +17492,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPersonEnteringBooth);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPersonEnteringBooth,
+        );
 
   /// Icon for _phabricator_ in `la lab` style
   const LaIcon.labPhabricator({
@@ -9277,7 +17509,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labPhabricator);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labPhabricator,
+        );
 
   /// Icon for _phoenix-framework_ in `la lab` style
   const LaIcon.labPhoenixFramework({
@@ -9286,7 +17526,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labPhoenixFramework);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labPhoenixFramework,
+        );
 
   /// Icon for _phoenix-squadron_ in `la lab` style
   const LaIcon.labPhoenixSquadron({
@@ -9295,7 +17543,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labPhoenixSquadron);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labPhoenixSquadron,
+        );
 
   /// Icon for _phone_ in `la las` style
   const LaIcon.lasPhone({
@@ -9304,7 +17560,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPhone);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPhone,
+        );
 
   /// Icon for _phone-slash_ in `la las` style
   const LaIcon.lasPhoneSlash({
@@ -9313,7 +17577,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPhoneSlash);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPhoneSlash,
+        );
 
   /// Icon for _phone-square_ in `la las` style
   const LaIcon.lasPhoneSquare({
@@ -9322,7 +17594,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPhoneSquare);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPhoneSquare,
+        );
 
   /// Icon for _phone-volume_ in `la las` style
   const LaIcon.lasPhoneVolume({
@@ -9331,7 +17611,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPhoneVolume);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPhoneVolume,
+        );
 
   /// Icon for _photo-video_ in `la las` style
   const LaIcon.lasPhotoVideo({
@@ -9340,7 +17628,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPhotoVideo);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPhotoVideo,
+        );
 
   /// Icon for _php_ in `la lab` style
   const LaIcon.labPhp({
@@ -9349,7 +17645,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labPhp);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labPhp,
+        );
 
   /// Icon for _pie-chart_ in `la las` style
   const LaIcon.lasPieChart({
@@ -9358,7 +17662,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPieChart);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPieChart,
+        );
 
   /// Icon for _pied-piper-hat_ in `la lab` style
   const LaIcon.labPiedPiperHat({
@@ -9367,7 +17679,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labPiedPiperHat);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labPiedPiperHat,
+        );
 
   /// Icon for _pied-piper-logo_ in `la lab` style
   const LaIcon.labPiedPiperLogo({
@@ -9376,7 +17696,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labPiedPiperLogo);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labPiedPiperLogo,
+        );
 
   /// Icon for _pied-piper-pp-logo--old-_ in `la lab` style
   const LaIcon.labPiedPiperPpLogoOld({
@@ -9385,7 +17713,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labPiedPiperPpLogoOld);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labPiedPiperPpLogoOld,
+        );
 
   /// Icon for _piggy-bank_ in `la las` style
   const LaIcon.lasPiggyBank({
@@ -9394,7 +17730,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPiggyBank);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPiggyBank,
+        );
 
   /// Icon for _pills_ in `la las` style
   const LaIcon.lasPills({
@@ -9403,7 +17747,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPills);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPills,
+        );
 
   /// Icon for _pinterest_ in `la lab` style
   const LaIcon.labPinterest({
@@ -9412,7 +17764,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labPinterest);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labPinterest,
+        );
 
   /// Icon for _pinterest-p_ in `la lab` style
   const LaIcon.labPinterestP({
@@ -9421,7 +17781,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labPinterestP);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labPinterestP,
+        );
 
   /// Icon for _pinterest-square_ in `la lab` style
   const LaIcon.labPinterestSquare({
@@ -9430,7 +17798,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labPinterestSquare);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labPinterestSquare,
+        );
 
   /// Icon for _pizza-slice_ in `la las` style
   const LaIcon.lasPizzaSlice({
@@ -9439,7 +17815,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPizzaSlice);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPizzaSlice,
+        );
 
   /// Icon for _place-of-worship_ in `la las` style
   const LaIcon.lasPlaceOfWorship({
@@ -9448,7 +17832,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPlaceOfWorship);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPlaceOfWorship,
+        );
 
   /// Icon for _plane_ in `la las` style
   const LaIcon.lasPlane({
@@ -9457,7 +17849,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPlane);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPlane,
+        );
 
   /// Icon for _plane-arrival_ in `la las` style
   const LaIcon.lasPlaneArrival({
@@ -9466,7 +17866,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPlaneArrival);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPlaneArrival,
+        );
 
   /// Icon for _plane-departure_ in `la las` style
   const LaIcon.lasPlaneDeparture({
@@ -9475,7 +17883,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPlaneDeparture);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPlaneDeparture,
+        );
 
   /// Icon for _play_ in `la las` style
   const LaIcon.lasPlay({
@@ -9484,7 +17900,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPlay);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPlay,
+        );
 
   /// Icon for _play-circle_ in `la lar` style
   const LaIcon.larPlayCircle({
@@ -9493,7 +17917,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larPlayCircle);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larPlayCircle,
+        );
 
   /// Icon for _play-circle_ in `la las` style
   const LaIcon.lasPlayCircle({
@@ -9502,7 +17934,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPlayCircle);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPlayCircle,
+        );
 
   /// Icon for _playstation_ in `la lab` style
   const LaIcon.labPlaystation({
@@ -9511,7 +17951,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labPlaystation);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labPlaystation,
+        );
 
   /// Icon for _plug_ in `la las` style
   const LaIcon.lasPlug({
@@ -9520,7 +17968,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPlug);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPlug,
+        );
 
   /// Icon for _plus_ in `la las` style
   const LaIcon.lasPlus({
@@ -9529,7 +17985,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPlus);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPlus,
+        );
 
   /// Icon for _plus-circle_ in `la las` style
   const LaIcon.lasPlusCircle({
@@ -9538,7 +18002,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPlusCircle);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPlusCircle,
+        );
 
   /// Icon for _plus-square_ in `la lar` style
   const LaIcon.larPlusSquare({
@@ -9547,7 +18019,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larPlusSquare);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larPlusSquare,
+        );
 
   /// Icon for _plus-square_ in `la las` style
   const LaIcon.lasPlusSquare({
@@ -9556,7 +18036,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPlusSquare);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPlusSquare,
+        );
 
   /// Icon for _podcast_ in `la las` style
   const LaIcon.lasPodcast({
@@ -9565,7 +18053,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPodcast);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPodcast,
+        );
 
   /// Icon for _pointer--hand-_ in `la lar` style
   const LaIcon.larPointerHand({
@@ -9574,7 +18070,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larPointerHand);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larPointerHand,
+        );
 
   /// Icon for _pointer--hand-_ in `la las` style
   const LaIcon.lasPointerHand({
@@ -9583,7 +18087,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPointerHand);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPointerHand,
+        );
 
   /// Icon for _poll_ in `la las` style
   const LaIcon.lasPoll({
@@ -9592,7 +18104,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPoll);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPoll,
+        );
 
   /// Icon for _poll-h_ in `la las` style
   const LaIcon.lasPollH({
@@ -9601,7 +18121,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPollH);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPollH,
+        );
 
   /// Icon for _poo_ in `la las` style
   const LaIcon.lasPoo({
@@ -9610,7 +18138,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPoo);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPoo,
+        );
 
   /// Icon for _poop_ in `la las` style
   const LaIcon.lasPoop({
@@ -9619,7 +18155,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPoop);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPoop,
+        );
 
   /// Icon for _poo-storm_ in `la las` style
   const LaIcon.lasPooStorm({
@@ -9628,7 +18172,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPooStorm);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPooStorm,
+        );
 
   /// Icon for _portrait_ in `la las` style
   const LaIcon.lasPortrait({
@@ -9637,7 +18189,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPortrait);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPortrait,
+        );
 
   /// Icon for _pound-sign_ in `la las` style
   const LaIcon.lasPoundSign({
@@ -9646,7 +18206,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPoundSign);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPoundSign,
+        );
 
   /// Icon for _power-off_ in `la las` style
   const LaIcon.lasPowerOff({
@@ -9655,7 +18223,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPowerOff);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPowerOff,
+        );
 
   /// Icon for _powerpoint-file_ in `la lar` style
   const LaIcon.larPowerpointFile({
@@ -9664,7 +18240,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larPowerpointFile);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larPowerpointFile,
+        );
 
   /// Icon for _powerpoint-file_ in `la las` style
   const LaIcon.lasPowerpointFile({
@@ -9673,7 +18257,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPowerpointFile);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPowerpointFile,
+        );
 
   /// Icon for _pray_ in `la las` style
   const LaIcon.lasPray({
@@ -9682,7 +18274,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPray);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPray,
+        );
 
   /// Icon for _praying-hands_ in `la las` style
   const LaIcon.lasPrayingHands({
@@ -9691,7 +18291,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPrayingHands);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPrayingHands,
+        );
 
   /// Icon for _prescription_ in `la las` style
   const LaIcon.lasPrescription({
@@ -9700,7 +18308,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPrescription);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPrescription,
+        );
 
   /// Icon for _prescription-bottle_ in `la las` style
   const LaIcon.lasPrescriptionBottle({
@@ -9709,7 +18325,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPrescriptionBottle);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPrescriptionBottle,
+        );
 
   /// Icon for _print_ in `la las` style
   const LaIcon.lasPrint({
@@ -9718,7 +18342,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPrint);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPrint,
+        );
 
   /// Icon for _procedures_ in `la las` style
   const LaIcon.lasProcedures({
@@ -9727,7 +18359,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasProcedures);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasProcedures,
+        );
 
   /// Icon for _product-hunt_ in `la lab` style
   const LaIcon.labProductHunt({
@@ -9736,7 +18376,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labProductHunt);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labProductHunt,
+        );
 
   /// Icon for _project-diagram_ in `la las` style
   const LaIcon.lasProjectDiagram({
@@ -9745,7 +18393,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasProjectDiagram);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasProjectDiagram,
+        );
 
   /// Icon for _pushed_ in `la lab` style
   const LaIcon.labPushed({
@@ -9754,7 +18410,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labPushed);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labPushed,
+        );
 
   /// Icon for _puzzle-piece_ in `la las` style
   const LaIcon.lasPuzzlePiece({
@@ -9763,7 +18427,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasPuzzlePiece);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasPuzzlePiece,
+        );
 
   /// Icon for _px500_ in `la lab` style
   const LaIcon.labPx500({
@@ -9772,7 +18444,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labPx500);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labPx500,
+        );
 
   /// Icon for _python_ in `la lab` style
   const LaIcon.labPython({
@@ -9781,7 +18461,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labPython);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labPython,
+        );
 
   /// Icon for _qq_ in `la lab` style
   const LaIcon.labQq({
@@ -9790,7 +18478,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labQq);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labQq,
+        );
 
   /// Icon for _qrcode_ in `la las` style
   const LaIcon.lasQrcode({
@@ -9799,7 +18495,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasQrcode);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasQrcode,
+        );
 
   /// Icon for _question_ in `la las` style
   const LaIcon.lasQuestion({
@@ -9808,7 +18512,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasQuestion);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasQuestion,
+        );
 
   /// Icon for _question-circle_ in `la lar` style
   const LaIcon.larQuestionCircle({
@@ -9817,7 +18529,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larQuestionCircle);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larQuestionCircle,
+        );
 
   /// Icon for _question-circle_ in `la las` style
   const LaIcon.lasQuestionCircle({
@@ -9826,7 +18546,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasQuestionCircle);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasQuestionCircle,
+        );
 
   /// Icon for _quidditch_ in `la las` style
   const LaIcon.lasQuidditch({
@@ -9835,7 +18563,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasQuidditch);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasQuidditch,
+        );
 
   /// Icon for _quinscape_ in `la lab` style
   const LaIcon.labQuinscape({
@@ -9844,7 +18580,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labQuinscape);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labQuinscape,
+        );
 
   /// Icon for _quora_ in `la lab` style
   const LaIcon.labQuora({
@@ -9853,7 +18597,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labQuora);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labQuora,
+        );
 
   /// Icon for _quote-left_ in `la las` style
   const LaIcon.lasQuoteLeft({
@@ -9862,7 +18614,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasQuoteLeft);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasQuoteLeft,
+        );
 
   /// Icon for _quote-right_ in `la las` style
   const LaIcon.lasQuoteRight({
@@ -9871,7 +18631,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasQuoteRight);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasQuoteRight,
+        );
 
   /// Icon for _quran_ in `la las` style
   const LaIcon.lasQuran({
@@ -9880,7 +18648,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasQuran);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasQuran,
+        );
 
   /// Icon for _radiation_ in `la las` style
   const LaIcon.lasRadiation({
@@ -9889,7 +18665,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasRadiation);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasRadiation,
+        );
 
   /// Icon for _rainbow_ in `la las` style
   const LaIcon.lasRainbow({
@@ -9898,7 +18682,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasRainbow);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasRainbow,
+        );
 
   /// Icon for _raised-fist_ in `la las` style
   const LaIcon.lasRaisedFist({
@@ -9907,7 +18699,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasRaisedFist);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasRaisedFist,
+        );
 
   /// Icon for _random_ in `la las` style
   const LaIcon.lasRandom({
@@ -9916,7 +18716,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasRandom);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasRandom,
+        );
 
   /// Icon for _raspberry-pi_ in `la lab` style
   const LaIcon.labRaspberryPi({
@@ -9925,7 +18733,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labRaspberryPi);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labRaspberryPi,
+        );
 
   /// Icon for _ravelry_ in `la lab` style
   const LaIcon.labRavelry({
@@ -9934,7 +18750,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labRavelry);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labRavelry,
+        );
 
   /// Icon for _react_ in `la lab` style
   const LaIcon.labReact({
@@ -9943,7 +18767,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labReact);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labReact,
+        );
 
   /// Icon for _reacteurope_ in `la lab` style
   const LaIcon.labReacteurope({
@@ -9952,7 +18784,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labReacteurope);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labReacteurope,
+        );
 
   /// Icon for _readme_ in `la lab` style
   const LaIcon.labReadme({
@@ -9961,7 +18801,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labReadme);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labReadme,
+        );
 
   /// Icon for _rebel-alliance_ in `la lab` style
   const LaIcon.labRebelAlliance({
@@ -9970,7 +18818,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labRebelAlliance);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labRebelAlliance,
+        );
 
   /// Icon for _receipt_ in `la las` style
   const LaIcon.lasReceipt({
@@ -9979,7 +18835,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasReceipt);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasReceipt,
+        );
 
   /// Icon for _record-vinyl_ in `la las` style
   const LaIcon.lasRecordVinyl({
@@ -9988,7 +18852,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasRecordVinyl);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasRecordVinyl,
+        );
 
   /// Icon for _recycle_ in `la las` style
   const LaIcon.lasRecycle({
@@ -9997,7 +18869,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasRecycle);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasRecycle,
+        );
 
   /// Icon for _reddit-alien_ in `la lab` style
   const LaIcon.labRedditAlien({
@@ -10006,7 +18886,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labRedditAlien);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labRedditAlien,
+        );
 
   /// Icon for _reddit-logo_ in `la lab` style
   const LaIcon.labRedditLogo({
@@ -10015,7 +18903,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labRedditLogo);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labRedditLogo,
+        );
 
   /// Icon for _reddit-square_ in `la lab` style
   const LaIcon.labRedditSquare({
@@ -10024,7 +18920,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labRedditSquare);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labRedditSquare,
+        );
 
   /// Icon for _redhat_ in `la lab` style
   const LaIcon.labRedhat({
@@ -10033,7 +18937,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labRedhat);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labRedhat,
+        );
 
   /// Icon for _redo_ in `la las` style
   const LaIcon.lasRedo({
@@ -10042,7 +18954,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasRedo);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasRedo,
+        );
 
   /// Icon for _red-river_ in `la lab` style
   const LaIcon.labRedRiver({
@@ -10051,7 +18971,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labRedRiver);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labRedRiver,
+        );
 
   /// Icon for _registered-trademark_ in `la lar` style
   const LaIcon.larRegisteredTrademark({
@@ -10060,7 +18988,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larRegisteredTrademark);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larRegisteredTrademark,
+        );
 
   /// Icon for _registered-trademark_ in `la las` style
   const LaIcon.lasRegisteredTrademark({
@@ -10069,7 +19005,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasRegisteredTrademark);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasRegisteredTrademark,
+        );
 
   /// Icon for _remove-format_ in `la las` style
   const LaIcon.lasRemoveFormat({
@@ -10078,7 +19022,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasRemoveFormat);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasRemoveFormat,
+        );
 
   /// Icon for _remove-user_ in `la las` style
   const LaIcon.lasRemoveUser({
@@ -10087,7 +19039,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasRemoveUser);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasRemoveUser,
+        );
 
   /// Icon for _renren_ in `la lab` style
   const LaIcon.labRenren({
@@ -10096,7 +19056,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labRenren);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labRenren,
+        );
 
   /// Icon for _reply_ in `la las` style
   const LaIcon.lasReply({
@@ -10105,7 +19073,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasReply);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasReply,
+        );
 
   /// Icon for _reply-all_ in `la las` style
   const LaIcon.lasReplyAll({
@@ -10114,7 +19090,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasReplyAll);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasReplyAll,
+        );
 
   /// Icon for _replyd_ in `la lab` style
   const LaIcon.labReplyd({
@@ -10123,7 +19107,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labReplyd);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labReplyd,
+        );
 
   /// Icon for _republican_ in `la las` style
   const LaIcon.lasRepublican({
@@ -10132,7 +19124,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasRepublican);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasRepublican,
+        );
 
   /// Icon for _researchgate_ in `la lab` style
   const LaIcon.labResearchgate({
@@ -10141,7 +19141,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labResearchgate);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labResearchgate,
+        );
 
   /// Icon for _resolving_ in `la lab` style
   const LaIcon.labResolving({
@@ -10150,7 +19158,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labResolving);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labResolving,
+        );
 
   /// Icon for _restroom_ in `la las` style
   const LaIcon.lasRestroom({
@@ -10159,7 +19175,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasRestroom);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasRestroom,
+        );
 
   /// Icon for _retro-camera_ in `la las` style
   const LaIcon.lasRetroCamera({
@@ -10168,7 +19192,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasRetroCamera);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasRetroCamera,
+        );
 
   /// Icon for _retweet_ in `la las` style
   const LaIcon.lasRetweet({
@@ -10177,7 +19209,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasRetweet);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasRetweet,
+        );
 
   /// Icon for _rev-io_ in `la lab` style
   const LaIcon.labRevIo({
@@ -10186,7 +19226,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labRevIo);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labRevIo,
+        );
 
   /// Icon for _ribbon_ in `la las` style
   const LaIcon.lasRibbon({
@@ -10195,7 +19243,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasRibbon);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasRibbon,
+        );
 
   /// Icon for _ring_ in `la las` style
   const LaIcon.lasRing({
@@ -10204,7 +19260,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasRing);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasRing,
+        );
 
   /// Icon for _road_ in `la las` style
   const LaIcon.lasRoad({
@@ -10213,7 +19277,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasRoad);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasRoad,
+        );
 
   /// Icon for _robot_ in `la las` style
   const LaIcon.lasRobot({
@@ -10222,7 +19294,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasRobot);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasRobot,
+        );
 
   /// Icon for _rocket_ in `la las` style
   const LaIcon.lasRocket({
@@ -10231,7 +19311,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasRocket);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasRocket,
+        );
 
   /// Icon for _rocket-chat_ in `la lab` style
   const LaIcon.labRocketChat({
@@ -10240,7 +19328,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labRocketChat);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labRocketChat,
+        );
 
   /// Icon for _rock--hand-_ in `la lar` style
   const LaIcon.larRockHand({
@@ -10249,7 +19345,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larRockHand);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larRockHand,
+        );
 
   /// Icon for _rock--hand-_ in `la las` style
   const LaIcon.lasRockHand({
@@ -10258,7 +19362,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasRockHand);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasRockHand,
+        );
 
   /// Icon for _rockrms_ in `la lab` style
   const LaIcon.labRockrms({
@@ -10267,7 +19379,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labRockrms);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labRockrms,
+        );
 
   /// Icon for _rolling-on-the-floor-laughing_ in `la lar` style
   const LaIcon.larRollingOnTheFloorLaughing({
@@ -10276,7 +19396,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larRollingOnTheFloorLaughing);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larRollingOnTheFloorLaughing,
+        );
 
   /// Icon for _rolling-on-the-floor-laughing_ in `la las` style
   const LaIcon.lasRollingOnTheFloorLaughing({
@@ -10285,7 +19413,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasRollingOnTheFloorLaughing);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasRollingOnTheFloorLaughing,
+        );
 
   /// Icon for _route_ in `la las` style
   const LaIcon.lasRoute({
@@ -10294,7 +19430,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasRoute);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasRoute,
+        );
 
   /// Icon for _r-project_ in `la lab` style
   const LaIcon.labRProject({
@@ -10303,7 +19447,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labRProject);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labRProject,
+        );
 
   /// Icon for _rss_ in `la las` style
   const LaIcon.lasRss({
@@ -10312,7 +19464,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasRss);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasRss,
+        );
 
   /// Icon for _rss-square_ in `la las` style
   const LaIcon.lasRssSquare({
@@ -10321,7 +19481,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasRssSquare);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasRssSquare,
+        );
 
   /// Icon for _ruble-sign_ in `la las` style
   const LaIcon.lasRubleSign({
@@ -10330,7 +19498,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasRubleSign);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasRubleSign,
+        );
 
   /// Icon for _ruler_ in `la las` style
   const LaIcon.lasRuler({
@@ -10339,7 +19515,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasRuler);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasRuler,
+        );
 
   /// Icon for _ruler-combined_ in `la las` style
   const LaIcon.lasRulerCombined({
@@ -10348,7 +19532,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasRulerCombined);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasRulerCombined,
+        );
 
   /// Icon for _ruler-horizontal_ in `la las` style
   const LaIcon.lasRulerHorizontal({
@@ -10357,7 +19549,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasRulerHorizontal);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasRulerHorizontal,
+        );
 
   /// Icon for _ruler-vertical_ in `la las` style
   const LaIcon.lasRulerVertical({
@@ -10366,7 +19566,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasRulerVertical);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasRulerVertical,
+        );
 
   /// Icon for _running_ in `la las` style
   const LaIcon.lasRunning({
@@ -10375,7 +19583,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasRunning);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasRunning,
+        );
 
   /// Icon for _safari_ in `la lab` style
   const LaIcon.labSafari({
@@ -10384,7 +19600,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labSafari);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labSafari,
+        );
 
   /// Icon for _salesforce_ in `la lab` style
   const LaIcon.labSalesforce({
@@ -10393,7 +19617,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labSalesforce);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labSalesforce,
+        );
 
   /// Icon for _sass_ in `la lab` style
   const LaIcon.labSass({
@@ -10402,7 +19634,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labSass);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labSass,
+        );
 
   /// Icon for _satellite_ in `la las` style
   const LaIcon.lasSatellite({
@@ -10411,7 +19651,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSatellite);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSatellite,
+        );
 
   /// Icon for _satellite-dish_ in `la las` style
   const LaIcon.lasSatelliteDish({
@@ -10420,7 +19668,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSatelliteDish);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSatelliteDish,
+        );
 
   /// Icon for _save_ in `la lar` style
   const LaIcon.larSave({
@@ -10429,7 +19685,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larSave);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larSave,
+        );
 
   /// Icon for _save_ in `la las` style
   const LaIcon.lasSave({
@@ -10438,7 +19702,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSave);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSave,
+        );
 
   /// Icon for _schlix_ in `la lab` style
   const LaIcon.labSchlix({
@@ -10447,7 +19719,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labSchlix);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labSchlix,
+        );
 
   /// Icon for _school_ in `la las` style
   const LaIcon.lasSchool({
@@ -10456,7 +19736,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSchool);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSchool,
+        );
 
   /// Icon for _scissors--hand-_ in `la lar` style
   const LaIcon.larScissorsHand({
@@ -10465,7 +19753,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larScissorsHand);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larScissorsHand,
+        );
 
   /// Icon for _scissors--hand-_ in `la las` style
   const LaIcon.lasScissorsHand({
@@ -10474,7 +19770,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasScissorsHand);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasScissorsHand,
+        );
 
   /// Icon for _screwdriver_ in `la las` style
   const LaIcon.lasScrewdriver({
@@ -10483,7 +19787,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasScrewdriver);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasScrewdriver,
+        );
 
   /// Icon for _scribd_ in `la lab` style
   const LaIcon.labScribd({
@@ -10492,7 +19804,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labScribd);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labScribd,
+        );
 
   /// Icon for _scroll_ in `la las` style
   const LaIcon.lasScroll({
@@ -10501,7 +19821,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasScroll);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasScroll,
+        );
 
   /// Icon for _sd-card_ in `la las` style
   const LaIcon.lasSdCard({
@@ -10510,7 +19838,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSdCard);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSdCard,
+        );
 
   /// Icon for _search_ in `la las` style
   const LaIcon.lasSearch({
@@ -10519,7 +19855,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSearch);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSearch,
+        );
 
   /// Icon for _search-dollar_ in `la las` style
   const LaIcon.lasSearchDollar({
@@ -10528,7 +19872,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSearchDollar);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSearchDollar,
+        );
 
   /// Icon for _searchengin_ in `la lab` style
   const LaIcon.labSearchengin({
@@ -10537,7 +19889,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labSearchengin);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labSearchengin,
+        );
 
   /// Icon for _search-location_ in `la las` style
   const LaIcon.lasSearchLocation({
@@ -10546,7 +19906,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSearchLocation);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSearchLocation,
+        );
 
   /// Icon for _search-minus_ in `la las` style
   const LaIcon.lasSearchMinus({
@@ -10555,7 +19923,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSearchMinus);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSearchMinus,
+        );
 
   /// Icon for _search-plus_ in `la las` style
   const LaIcon.lasSearchPlus({
@@ -10564,7 +19940,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSearchPlus);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSearchPlus,
+        );
 
   /// Icon for _seedling_ in `la las` style
   const LaIcon.lasSeedling({
@@ -10573,7 +19957,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSeedling);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSeedling,
+        );
 
   /// Icon for _sellcast_ in `la lab` style
   const LaIcon.labSellcast({
@@ -10582,7 +19974,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labSellcast);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labSellcast,
+        );
 
   /// Icon for _sellsy_ in `la lab` style
   const LaIcon.labSellsy({
@@ -10591,7 +19991,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labSellsy);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labSellsy,
+        );
 
   /// Icon for _server_ in `la las` style
   const LaIcon.lasServer({
@@ -10600,7 +20008,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasServer);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasServer,
+        );
 
   /// Icon for _servicestack_ in `la lab` style
   const LaIcon.labServicestack({
@@ -10609,7 +20025,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labServicestack);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labServicestack,
+        );
 
   /// Icon for _shapes_ in `la las` style
   const LaIcon.lasShapes({
@@ -10618,7 +20042,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasShapes);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasShapes,
+        );
 
   /// Icon for _share_ in `la las` style
   const LaIcon.lasShare({
@@ -10627,7 +20059,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasShare);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasShare,
+        );
 
   /// Icon for _share-square_ in `la lar` style
   const LaIcon.larShareSquare({
@@ -10636,7 +20076,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larShareSquare);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larShareSquare,
+        );
 
   /// Icon for _share-square_ in `la las` style
   const LaIcon.lasShareSquare({
@@ -10645,7 +20093,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasShareSquare);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasShareSquare,
+        );
 
   /// Icon for _shekel-sign_ in `la las` style
   const LaIcon.lasShekelSign({
@@ -10654,7 +20110,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasShekelSign);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasShekelSign,
+        );
 
   /// Icon for _ship_ in `la las` style
   const LaIcon.lasShip({
@@ -10663,7 +20127,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasShip);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasShip,
+        );
 
   /// Icon for _shipping-fast_ in `la las` style
   const LaIcon.lasShippingFast({
@@ -10672,7 +20144,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasShippingFast);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasShippingFast,
+        );
 
   /// Icon for _shirts-in-bulk_ in `la lab` style
   const LaIcon.labShirtsInBulk({
@@ -10681,7 +20161,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labShirtsInBulk);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labShirtsInBulk,
+        );
 
   /// Icon for _shoe-prints_ in `la las` style
   const LaIcon.lasShoePrints({
@@ -10690,7 +20178,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasShoePrints);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasShoePrints,
+        );
 
   /// Icon for _shopping-bag_ in `la las` style
   const LaIcon.lasShoppingBag({
@@ -10699,7 +20195,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasShoppingBag);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasShoppingBag,
+        );
 
   /// Icon for _shopping-basket_ in `la las` style
   const LaIcon.lasShoppingBasket({
@@ -10708,7 +20212,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasShoppingBasket);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasShoppingBasket,
+        );
 
   /// Icon for _shopping-cart_ in `la las` style
   const LaIcon.lasShoppingCart({
@@ -10717,7 +20229,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasShoppingCart);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasShoppingCart,
+        );
 
   /// Icon for _shopping-cart-arrow-down_ in `la las` style
   const LaIcon.lasShoppingCartArrowDown({
@@ -10726,7 +20246,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasShoppingCartArrowDown);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasShoppingCartArrowDown,
+        );
 
   /// Icon for _shopware_ in `la lab` style
   const LaIcon.labShopware({
@@ -10735,7 +20263,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labShopware);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labShopware,
+        );
 
   /// Icon for _shower_ in `la las` style
   const LaIcon.lasShower({
@@ -10744,7 +20280,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasShower);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasShower,
+        );
 
   /// Icon for _shuttle-van_ in `la las` style
   const LaIcon.lasShuttleVan({
@@ -10753,7 +20297,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasShuttleVan);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasShuttleVan,
+        );
 
   /// Icon for _sign_ in `la las` style
   const LaIcon.lasSign({
@@ -10762,7 +20314,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSign);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSign,
+        );
 
   /// Icon for _signal_ in `la las` style
   const LaIcon.lasSignal({
@@ -10771,7 +20331,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSignal);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSignal,
+        );
 
   /// Icon for _signature_ in `la las` style
   const LaIcon.lasSignature({
@@ -10780,7 +20348,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSignature);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSignature,
+        );
 
   /// Icon for _sign-language_ in `la las` style
   const LaIcon.lasSignLanguage({
@@ -10789,7 +20365,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSignLanguage);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSignLanguage,
+        );
 
   /// Icon for _sim-card_ in `la las` style
   const LaIcon.lasSimCard({
@@ -10798,7 +20382,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSimCard);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSimCard,
+        );
 
   /// Icon for _simplybuilt_ in `la lab` style
   const LaIcon.labSimplybuilt({
@@ -10807,7 +20399,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labSimplybuilt);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labSimplybuilt,
+        );
 
   /// Icon for _sistrix_ in `la lab` style
   const LaIcon.labSistrix({
@@ -10816,7 +20416,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labSistrix);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labSistrix,
+        );
 
   /// Icon for _sitemap_ in `la las` style
   const LaIcon.lasSitemap({
@@ -10825,7 +20433,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSitemap);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSitemap,
+        );
 
   /// Icon for _sith_ in `la lab` style
   const LaIcon.labSith({
@@ -10834,7 +20450,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labSith);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labSith,
+        );
 
   /// Icon for _skating_ in `la las` style
   const LaIcon.lasSkating({
@@ -10843,7 +20467,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSkating);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSkating,
+        );
 
   /// Icon for _sketch_ in `la lab` style
   const LaIcon.labSketch({
@@ -10852,7 +20484,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labSketch);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labSketch,
+        );
 
   /// Icon for _skiing_ in `la las` style
   const LaIcon.lasSkiing({
@@ -10861,7 +20501,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSkiing);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSkiing,
+        );
 
   /// Icon for _skiing-nordic_ in `la las` style
   const LaIcon.lasSkiingNordic({
@@ -10870,7 +20518,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSkiingNordic);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSkiingNordic,
+        );
 
   /// Icon for _skull_ in `la las` style
   const LaIcon.lasSkull({
@@ -10879,7 +20535,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSkull);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSkull,
+        );
 
   /// Icon for _skull---crossbones_ in `la las` style
   const LaIcon.lasSkullCrossbones({
@@ -10888,7 +20552,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSkullCrossbones);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSkullCrossbones,
+        );
 
   /// Icon for _skyatlas_ in `la lab` style
   const LaIcon.labSkyatlas({
@@ -10897,7 +20569,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labSkyatlas);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labSkyatlas,
+        );
 
   /// Icon for _skype_ in `la lab` style
   const LaIcon.labSkype({
@@ -10906,7 +20586,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labSkype);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labSkype,
+        );
 
   /// Icon for _slack-hashtag_ in `la lab` style
   const LaIcon.labSlackHashtag({
@@ -10915,7 +20603,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labSlackHashtag);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labSlackHashtag,
+        );
 
   /// Icon for _slack-logo_ in `la lab` style
   const LaIcon.labSlackLogo({
@@ -10924,7 +20620,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labSlackLogo);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labSlackLogo,
+        );
 
   /// Icon for _slash_ in `la las` style
   const LaIcon.lasSlash({
@@ -10933,7 +20637,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSlash);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSlash,
+        );
 
   /// Icon for _sleigh_ in `la las` style
   const LaIcon.lasSleigh({
@@ -10942,7 +20654,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSleigh);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSleigh,
+        );
 
   /// Icon for _slideshare_ in `la lab` style
   const LaIcon.labSlideshare({
@@ -10951,7 +20671,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labSlideshare);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labSlideshare,
+        );
 
   /// Icon for _smiling-face_ in `la lar` style
   const LaIcon.larSmilingFace({
@@ -10960,7 +20688,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larSmilingFace);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larSmilingFace,
+        );
 
   /// Icon for _smiling-face_ in `la las` style
   const LaIcon.lasSmilingFace({
@@ -10969,7 +20705,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSmilingFace);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSmilingFace,
+        );
 
   /// Icon for _smiling-face-with-heart-eyes_ in `la lar` style
   const LaIcon.larSmilingFaceWithHeartEyes({
@@ -10978,7 +20722,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larSmilingFaceWithHeartEyes);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larSmilingFaceWithHeartEyes,
+        );
 
   /// Icon for _smiling-face-with-heart-eyes_ in `la las` style
   const LaIcon.lasSmilingFaceWithHeartEyes({
@@ -10987,7 +20739,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSmilingFaceWithHeartEyes);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSmilingFaceWithHeartEyes,
+        );
 
   /// Icon for _smog_ in `la las` style
   const LaIcon.lasSmog({
@@ -10996,7 +20756,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSmog);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSmog,
+        );
 
   /// Icon for _smoking_ in `la las` style
   const LaIcon.lasSmoking({
@@ -11005,7 +20773,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSmoking);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSmoking,
+        );
 
   /// Icon for _smoking-ban_ in `la las` style
   const LaIcon.lasSmokingBan({
@@ -11014,7 +20790,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSmokingBan);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSmokingBan,
+        );
 
   /// Icon for _sms_ in `la las` style
   const LaIcon.lasSms({
@@ -11023,7 +20807,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSms);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSms,
+        );
 
   /// Icon for _snapchat_ in `la lab` style
   const LaIcon.labSnapchat({
@@ -11032,7 +20824,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labSnapchat);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labSnapchat,
+        );
 
   /// Icon for _snapchat-ghost_ in `la lab` style
   const LaIcon.labSnapchatGhost({
@@ -11041,7 +20841,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labSnapchatGhost);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labSnapchatGhost,
+        );
 
   /// Icon for _snapchat-square_ in `la lab` style
   const LaIcon.labSnapchatSquare({
@@ -11050,7 +20858,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labSnapchatSquare);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labSnapchatSquare,
+        );
 
   /// Icon for _snowboarding_ in `la las` style
   const LaIcon.lasSnowboarding({
@@ -11059,7 +20875,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSnowboarding);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSnowboarding,
+        );
 
   /// Icon for _snowflake_ in `la lar` style
   const LaIcon.larSnowflake({
@@ -11068,7 +20892,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larSnowflake);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larSnowflake,
+        );
 
   /// Icon for _snowflake_ in `la las` style
   const LaIcon.lasSnowflake({
@@ -11077,7 +20909,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSnowflake);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSnowflake,
+        );
 
   /// Icon for _snowman_ in `la las` style
   const LaIcon.lasSnowman({
@@ -11086,7 +20926,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSnowman);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSnowman,
+        );
 
   /// Icon for _snowplow_ in `la las` style
   const LaIcon.lasSnowplow({
@@ -11095,7 +20943,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSnowplow);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSnowplow,
+        );
 
   /// Icon for _socks_ in `la las` style
   const LaIcon.lasSocks({
@@ -11104,7 +20960,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSocks);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSocks,
+        );
 
   /// Icon for _solar-panel_ in `la las` style
   const LaIcon.lasSolarPanel({
@@ -11113,7 +20977,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSolarPanel);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSolarPanel,
+        );
 
   /// Icon for _sort_ in `la las` style
   const LaIcon.lasSort({
@@ -11122,7 +20994,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSort);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSort,
+        );
 
   /// Icon for _sort-alphabetical-down_ in `la las` style
   const LaIcon.lasSortAlphabeticalDown({
@@ -11131,7 +21011,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSortAlphabeticalDown);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSortAlphabeticalDown,
+        );
 
   /// Icon for _sort-alphabetical-up_ in `la las` style
   const LaIcon.lasSortAlphabeticalUp({
@@ -11140,7 +21028,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSortAlphabeticalUp);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSortAlphabeticalUp,
+        );
 
   /// Icon for _sort-amount-down_ in `la las` style
   const LaIcon.lasSortAmountDown({
@@ -11149,7 +21045,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSortAmountDown);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSortAmountDown,
+        );
 
   /// Icon for _sort-amount-up_ in `la las` style
   const LaIcon.lasSortAmountUp({
@@ -11158,7 +21062,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSortAmountUp);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSortAmountUp,
+        );
 
   /// Icon for _sort-down--descending-_ in `la las` style
   const LaIcon.lasSortDownDescending({
@@ -11167,7 +21079,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSortDownDescending);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSortDownDescending,
+        );
 
   /// Icon for _sort-numeric-down_ in `la las` style
   const LaIcon.lasSortNumericDown({
@@ -11176,7 +21096,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSortNumericDown);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSortNumericDown,
+        );
 
   /// Icon for _sort-numeric-up_ in `la las` style
   const LaIcon.lasSortNumericUp({
@@ -11185,7 +21113,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSortNumericUp);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSortNumericUp,
+        );
 
   /// Icon for _sort-up--ascending-_ in `la las` style
   const LaIcon.lasSortUpAscending({
@@ -11194,7 +21130,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSortUpAscending);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSortUpAscending,
+        );
 
   /// Icon for _soundcloud_ in `la lab` style
   const LaIcon.labSoundcloud({
@@ -11203,7 +21147,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labSoundcloud);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labSoundcloud,
+        );
 
   /// Icon for _sourcetree_ in `la lab` style
   const LaIcon.labSourcetree({
@@ -11212,7 +21164,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labSourcetree);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labSourcetree,
+        );
 
   /// Icon for _spa_ in `la las` style
   const LaIcon.lasSpa({
@@ -11221,7 +21181,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSpa);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSpa,
+        );
 
   /// Icon for _space-shuttle_ in `la las` style
   const LaIcon.lasSpaceShuttle({
@@ -11230,7 +21198,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSpaceShuttle);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSpaceShuttle,
+        );
 
   /// Icon for _speakap_ in `la lab` style
   const LaIcon.labSpeakap({
@@ -11239,7 +21215,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labSpeakap);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labSpeakap,
+        );
 
   /// Icon for _speaker-deck_ in `la lab` style
   const LaIcon.labSpeakerDeck({
@@ -11248,7 +21232,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labSpeakerDeck);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labSpeakerDeck,
+        );
 
   /// Icon for _spell-check_ in `la las` style
   const LaIcon.lasSpellCheck({
@@ -11257,7 +21249,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSpellCheck);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSpellCheck,
+        );
 
   /// Icon for _spider_ in `la las` style
   const LaIcon.lasSpider({
@@ -11266,7 +21266,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSpider);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSpider,
+        );
 
   /// Icon for _spinner_ in `la las` style
   const LaIcon.lasSpinner({
@@ -11275,7 +21283,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSpinner);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSpinner,
+        );
 
   /// Icon for _splotch_ in `la las` style
   const LaIcon.lasSplotch({
@@ -11284,7 +21300,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSplotch);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSplotch,
+        );
 
   /// Icon for _spock--hand-_ in `la lar` style
   const LaIcon.larSpockHand({
@@ -11293,7 +21317,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larSpockHand);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larSpockHand,
+        );
 
   /// Icon for _spock--hand-_ in `la las` style
   const LaIcon.lasSpockHand({
@@ -11302,7 +21334,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSpockHand);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSpockHand,
+        );
 
   /// Icon for _spotify_ in `la lab` style
   const LaIcon.labSpotify({
@@ -11311,7 +21351,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labSpotify);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labSpotify,
+        );
 
   /// Icon for _spray-can_ in `la las` style
   const LaIcon.lasSprayCan({
@@ -11320,7 +21368,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSprayCan);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSprayCan,
+        );
 
   /// Icon for _square_ in `la lar` style
   const LaIcon.larSquare({
@@ -11329,7 +21385,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larSquare);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larSquare,
+        );
 
   /// Icon for _square_ in `la las` style
   const LaIcon.lasSquare({
@@ -11338,7 +21402,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSquare);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSquare,
+        );
 
   /// Icon for _square-full_ in `la las` style
   const LaIcon.lasSquareFull({
@@ -11347,7 +21419,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSquareFull);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSquareFull,
+        );
 
   /// Icon for _squarespace_ in `la lab` style
   const LaIcon.labSquarespace({
@@ -11356,7 +21436,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labSquarespace);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labSquarespace,
+        );
 
   /// Icon for _square-wave_ in `la las` style
   const LaIcon.lasSquareWave({
@@ -11365,7 +21453,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSquareWave);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSquareWave,
+        );
 
   /// Icon for _squinting-face-with-tongue_ in `la lar` style
   const LaIcon.larSquintingFaceWithTongue({
@@ -11374,7 +21470,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larSquintingFaceWithTongue);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larSquintingFaceWithTongue,
+        );
 
   /// Icon for _squinting-face-with-tongue_ in `la las` style
   const LaIcon.lasSquintingFaceWithTongue({
@@ -11383,7 +21487,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSquintingFaceWithTongue);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSquintingFaceWithTongue,
+        );
 
   /// Icon for _stack-exchange_ in `la lab` style
   const LaIcon.labStackExchange({
@@ -11392,7 +21504,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labStackExchange);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labStackExchange,
+        );
 
   /// Icon for _stack-overflow_ in `la lab` style
   const LaIcon.labStackOverflow({
@@ -11401,7 +21521,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labStackOverflow);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labStackOverflow,
+        );
 
   /// Icon for _stackpath_ in `la lab` style
   const LaIcon.labStackpath({
@@ -11410,7 +21538,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labStackpath);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labStackpath,
+        );
 
   /// Icon for _stamp_ in `la las` style
   const LaIcon.lasStamp({
@@ -11419,7 +21555,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasStamp);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasStamp,
+        );
 
   /// Icon for _star_ in `la lar` style
   const LaIcon.larStar({
@@ -11428,7 +21572,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larStar);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larStar,
+        );
 
   /// Icon for _star_ in `la las` style
   const LaIcon.lasStar({
@@ -11437,7 +21589,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasStar);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasStar,
+        );
 
   /// Icon for _star-and-crescent_ in `la las` style
   const LaIcon.lasStarAndCrescent({
@@ -11446,7 +21606,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasStarAndCrescent);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasStarAndCrescent,
+        );
 
   /// Icon for _star-half_ in `la lar` style
   const LaIcon.larStarHalf({
@@ -11455,7 +21623,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larStarHalf);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larStarHalf,
+        );
 
   /// Icon for _star-half_ in `la las` style
   const LaIcon.lasStarHalf({
@@ -11464,7 +21640,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasStarHalf);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasStarHalf,
+        );
 
   /// Icon for _star-of-david_ in `la las` style
   const LaIcon.lasStarOfDavid({
@@ -11473,7 +21657,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasStarOfDavid);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasStarOfDavid,
+        );
 
   /// Icon for _star-of-life_ in `la las` style
   const LaIcon.lasStarOfLife({
@@ -11482,7 +21674,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasStarOfLife);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasStarOfLife,
+        );
 
   /// Icon for _star-struck_ in `la lar` style
   const LaIcon.larStarStruck({
@@ -11491,7 +21691,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larStarStruck);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larStarStruck,
+        );
 
   /// Icon for _star-struck_ in `la las` style
   const LaIcon.lasStarStruck({
@@ -11500,7 +21708,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasStarStruck);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasStarStruck,
+        );
 
   /// Icon for _staylinked_ in `la lab` style
   const LaIcon.labStaylinked({
@@ -11509,7 +21725,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labStaylinked);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labStaylinked,
+        );
 
   /// Icon for _steam_ in `la lab` style
   const LaIcon.labSteam({
@@ -11518,7 +21742,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labSteam);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labSteam,
+        );
 
   /// Icon for _steam-square_ in `la lab` style
   const LaIcon.labSteamSquare({
@@ -11527,7 +21759,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labSteamSquare);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labSteamSquare,
+        );
 
   /// Icon for _steam-symbol_ in `la lab` style
   const LaIcon.labSteamSymbol({
@@ -11536,7 +21776,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labSteamSymbol);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labSteamSymbol,
+        );
 
   /// Icon for _step-backward_ in `la las` style
   const LaIcon.lasStepBackward({
@@ -11545,7 +21793,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasStepBackward);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasStepBackward,
+        );
 
   /// Icon for _step-forward_ in `la las` style
   const LaIcon.lasStepForward({
@@ -11554,7 +21810,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasStepForward);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasStepForward,
+        );
 
   /// Icon for _stethoscope_ in `la las` style
   const LaIcon.lasStethoscope({
@@ -11563,7 +21827,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasStethoscope);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasStethoscope,
+        );
 
   /// Icon for _sticker-mule_ in `la lab` style
   const LaIcon.labStickerMule({
@@ -11572,7 +21844,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labStickerMule);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labStickerMule,
+        );
 
   /// Icon for _sticky-note_ in `la lar` style
   const LaIcon.larStickyNote({
@@ -11581,7 +21861,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larStickyNote);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larStickyNote,
+        );
 
   /// Icon for _sticky-note_ in `la las` style
   const LaIcon.lasStickyNote({
@@ -11590,7 +21878,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasStickyNote);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasStickyNote,
+        );
 
   /// Icon for _stop_ in `la las` style
   const LaIcon.lasStop({
@@ -11599,7 +21895,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasStop);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasStop,
+        );
 
   /// Icon for _stop-circle_ in `la lar` style
   const LaIcon.larStopCircle({
@@ -11608,7 +21912,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larStopCircle);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larStopCircle,
+        );
 
   /// Icon for _stop-circle_ in `la las` style
   const LaIcon.lasStopCircle({
@@ -11617,7 +21929,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasStopCircle);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasStopCircle,
+        );
 
   /// Icon for _stopwatch_ in `la las` style
   const LaIcon.lasStopwatch({
@@ -11626,7 +21946,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasStopwatch);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasStopwatch,
+        );
 
   /// Icon for _store_ in `la las` style
   const LaIcon.lasStore({
@@ -11635,7 +21963,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasStore);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasStore,
+        );
 
   /// Icon for _strava_ in `la lab` style
   const LaIcon.labStrava({
@@ -11644,7 +21980,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labStrava);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labStrava,
+        );
 
   /// Icon for _stream_ in `la las` style
   const LaIcon.lasStream({
@@ -11653,7 +21997,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasStream);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasStream,
+        );
 
   /// Icon for _street-view_ in `la las` style
   const LaIcon.lasStreetView({
@@ -11662,7 +22014,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasStreetView);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasStreetView,
+        );
 
   /// Icon for _strikethrough_ in `la las` style
   const LaIcon.lasStrikethrough({
@@ -11671,7 +22031,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasStrikethrough);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasStrikethrough,
+        );
 
   /// Icon for _stripe_ in `la lab` style
   const LaIcon.labStripe({
@@ -11680,7 +22048,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labStripe);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labStripe,
+        );
 
   /// Icon for _stripe-credit-card_ in `la lab` style
   const LaIcon.labStripeCreditCard({
@@ -11689,7 +22065,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labStripeCreditCard);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labStripeCreditCard,
+        );
 
   /// Icon for _stripe-s_ in `la lab` style
   const LaIcon.labStripeS({
@@ -11698,7 +22082,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labStripeS);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labStripeS,
+        );
 
   /// Icon for _stroopwafel_ in `la las` style
   const LaIcon.lasStroopwafel({
@@ -11707,7 +22099,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasStroopwafel);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasStroopwafel,
+        );
 
   /// Icon for _studio-vinari_ in `la lab` style
   const LaIcon.labStudioVinari({
@@ -11716,7 +22116,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labStudioVinari);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labStudioVinari,
+        );
 
   /// Icon for _stumbleupon-circle_ in `la lab` style
   const LaIcon.labStumbleuponCircle({
@@ -11725,7 +22133,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labStumbleuponCircle);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labStumbleuponCircle,
+        );
 
   /// Icon for _stumbleupon-logo_ in `la lab` style
   const LaIcon.labStumbleuponLogo({
@@ -11734,7 +22150,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labStumbleuponLogo);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labStumbleuponLogo,
+        );
 
   /// Icon for _subscript_ in `la las` style
   const LaIcon.lasSubscript({
@@ -11743,7 +22167,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSubscript);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSubscript,
+        );
 
   /// Icon for _subway_ in `la las` style
   const LaIcon.lasSubway({
@@ -11752,7 +22184,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSubway);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSubway,
+        );
 
   /// Icon for _suitcase_ in `la las` style
   const LaIcon.lasSuitcase({
@@ -11761,7 +22201,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSuitcase);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSuitcase,
+        );
 
   /// Icon for _suitcase-rolling_ in `la las` style
   const LaIcon.lasSuitcaseRolling({
@@ -11770,7 +22218,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSuitcaseRolling);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSuitcaseRolling,
+        );
 
   /// Icon for _sun_ in `la lar` style
   const LaIcon.larSun({
@@ -11779,7 +22235,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larSun);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larSun,
+        );
 
   /// Icon for _sun_ in `la las` style
   const LaIcon.lasSun({
@@ -11788,7 +22252,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSun);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSun,
+        );
 
   /// Icon for _superpowers_ in `la lab` style
   const LaIcon.labSuperpowers({
@@ -11797,7 +22269,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labSuperpowers);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labSuperpowers,
+        );
 
   /// Icon for _superscript_ in `la las` style
   const LaIcon.lasSuperscript({
@@ -11806,7 +22286,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSuperscript);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSuperscript,
+        );
 
   /// Icon for _supple_ in `la lab` style
   const LaIcon.labSupple({
@@ -11815,7 +22303,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labSupple);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labSupple,
+        );
 
   /// Icon for _suse_ in `la lab` style
   const LaIcon.labSuse({
@@ -11824,7 +22320,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labSuse);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labSuse,
+        );
 
   /// Icon for _swatchbook_ in `la las` style
   const LaIcon.lasSwatchbook({
@@ -11833,7 +22337,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSwatchbook);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSwatchbook,
+        );
 
   /// Icon for _swift_ in `la lab` style
   const LaIcon.labSwift({
@@ -11842,7 +22354,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labSwift);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labSwift,
+        );
 
   /// Icon for _swimmer_ in `la las` style
   const LaIcon.lasSwimmer({
@@ -11851,7 +22371,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSwimmer);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSwimmer,
+        );
 
   /// Icon for _swimming-pool_ in `la las` style
   const LaIcon.lasSwimmingPool({
@@ -11860,7 +22388,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSwimmingPool);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSwimmingPool,
+        );
 
   /// Icon for _symfony_ in `la lab` style
   const LaIcon.labSymfony({
@@ -11869,7 +22405,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labSymfony);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labSymfony,
+        );
 
   /// Icon for _synagogue_ in `la las` style
   const LaIcon.lasSynagogue({
@@ -11878,7 +22422,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSynagogue);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSynagogue,
+        );
 
   /// Icon for _sync_ in `la las` style
   const LaIcon.lasSync({
@@ -11887,7 +22439,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSync);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSync,
+        );
 
   /// Icon for _syringe_ in `la las` style
   const LaIcon.lasSyringe({
@@ -11896,7 +22456,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasSyringe);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasSyringe,
+        );
 
   /// Icon for _table_ in `la las` style
   const LaIcon.lasTable({
@@ -11905,7 +22473,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasTable);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasTable,
+        );
 
   /// Icon for _tablet_ in `la las` style
   const LaIcon.lasTablet({
@@ -11914,7 +22490,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasTablet);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasTablet,
+        );
 
   /// Icon for _table-tennis_ in `la las` style
   const LaIcon.lasTableTennis({
@@ -11923,7 +22507,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasTableTennis);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasTableTennis,
+        );
 
   /// Icon for _tablets_ in `la las` style
   const LaIcon.lasTablets({
@@ -11932,7 +22524,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasTablets);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasTablets,
+        );
 
   /// Icon for _tag_ in `la las` style
   const LaIcon.lasTag({
@@ -11941,7 +22541,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasTag);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasTag,
+        );
 
   /// Icon for _tags_ in `la las` style
   const LaIcon.lasTags({
@@ -11950,7 +22558,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasTags);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasTags,
+        );
 
   /// Icon for _tape_ in `la las` style
   const LaIcon.lasTape({
@@ -11959,7 +22575,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasTape);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasTape,
+        );
 
   /// Icon for _tasks_ in `la las` style
   const LaIcon.lasTasks({
@@ -11968,7 +22592,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasTasks);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasTasks,
+        );
 
   /// Icon for _taxi_ in `la las` style
   const LaIcon.lasTaxi({
@@ -11977,7 +22609,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasTaxi);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasTaxi,
+        );
 
   /// Icon for _teamspeak_ in `la lab` style
   const LaIcon.labTeamspeak({
@@ -11986,7 +22626,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labTeamspeak);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labTeamspeak,
+        );
 
   /// Icon for _teeth_ in `la las` style
   const LaIcon.lasTeeth({
@@ -11995,7 +22643,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasTeeth);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasTeeth,
+        );
 
   /// Icon for _teeth-open_ in `la las` style
   const LaIcon.lasTeethOpen({
@@ -12004,7 +22660,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasTeethOpen);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasTeethOpen,
+        );
 
   /// Icon for _telegram_ in `la lab` style
   const LaIcon.labTelegram({
@@ -12013,7 +22677,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labTelegram);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labTelegram,
+        );
 
   /// Icon for _telegram-plane_ in `la lab` style
   const LaIcon.labTelegramPlane({
@@ -12022,7 +22694,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labTelegramPlane);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labTelegramPlane,
+        );
 
   /// Icon for _television_ in `la las` style
   const LaIcon.lasTelevision({
@@ -12031,7 +22711,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasTelevision);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasTelevision,
+        );
 
   /// Icon for _tencent-weibo_ in `la lab` style
   const LaIcon.labTencentWeibo({
@@ -12040,7 +22728,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labTencentWeibo);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labTencentWeibo,
+        );
 
   /// Icon for _tenge_ in `la las` style
   const LaIcon.lasTenge({
@@ -12049,7 +22745,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasTenge);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasTenge,
+        );
 
   /// Icon for _terminal_ in `la las` style
   const LaIcon.lasTerminal({
@@ -12058,7 +22762,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasTerminal);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasTerminal,
+        );
 
   /// Icon for _text-height_ in `la las` style
   const LaIcon.lasTextHeight({
@@ -12067,7 +22779,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasTextHeight);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasTextHeight,
+        );
 
   /// Icon for _text-width_ in `la las` style
   const LaIcon.lasTextWidth({
@@ -12076,7 +22796,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasTextWidth);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasTextWidth,
+        );
 
   /// Icon for _th_ in `la las` style
   const LaIcon.lasTh({
@@ -12085,7 +22813,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasTh);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasTh,
+        );
 
   /// Icon for _theater-masks_ in `la las` style
   const LaIcon.lasTheaterMasks({
@@ -12094,7 +22830,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasTheaterMasks);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasTheaterMasks,
+        );
 
   /// Icon for _themeco_ in `la lab` style
   const LaIcon.labThemeco({
@@ -12103,7 +22847,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labThemeco);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labThemeco,
+        );
 
   /// Icon for _themeisle_ in `la lab` style
   const LaIcon.labThemeisle({
@@ -12112,7 +22864,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labThemeisle);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labThemeisle,
+        );
 
   /// Icon for _the-red-yeti_ in `la lab` style
   const LaIcon.labTheRedYeti({
@@ -12121,7 +22881,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labTheRedYeti);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labTheRedYeti,
+        );
 
   /// Icon for _thermometer_ in `la las` style
   const LaIcon.lasThermometer({
@@ -12130,7 +22898,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasThermometer);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasThermometer,
+        );
 
   /// Icon for _thermometer-1-2-full_ in `la las` style
   const LaIcon.lasThermometer12Full({
@@ -12139,7 +22915,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasThermometer12Full);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasThermometer12Full,
+        );
 
   /// Icon for _thermometer-1-4-full_ in `la las` style
   const LaIcon.lasThermometer14Full({
@@ -12148,7 +22932,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasThermometer14Full);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasThermometer14Full,
+        );
 
   /// Icon for _thermometer-3-4-full_ in `la las` style
   const LaIcon.lasThermometer34Full({
@@ -12157,7 +22949,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasThermometer34Full);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasThermometer34Full,
+        );
 
   /// Icon for _thermometer-empty_ in `la las` style
   const LaIcon.lasThermometerEmpty({
@@ -12166,7 +22966,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasThermometerEmpty);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasThermometerEmpty,
+        );
 
   /// Icon for _thermometer-full_ in `la las` style
   const LaIcon.lasThermometerFull({
@@ -12175,7 +22983,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasThermometerFull);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasThermometerFull,
+        );
 
   /// Icon for _think-peaks_ in `la lab` style
   const LaIcon.labThinkPeaks({
@@ -12184,7 +23000,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labThinkPeaks);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labThinkPeaks,
+        );
 
   /// Icon for _th-large_ in `la las` style
   const LaIcon.lasThLarge({
@@ -12193,7 +23017,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasThLarge);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasThLarge,
+        );
 
   /// Icon for _th-list_ in `la las` style
   const LaIcon.lasThList({
@@ -12202,7 +23034,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasThList);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasThList,
+        );
 
   /// Icon for _thumbs-down_ in `la lar` style
   const LaIcon.larThumbsDown({
@@ -12211,7 +23051,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larThumbsDown);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larThumbsDown,
+        );
 
   /// Icon for _thumbs-down_ in `la las` style
   const LaIcon.lasThumbsDown({
@@ -12220,7 +23068,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasThumbsDown);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasThumbsDown,
+        );
 
   /// Icon for _thumbs-up_ in `la lar` style
   const LaIcon.larThumbsUp({
@@ -12229,7 +23085,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larThumbsUp);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larThumbsUp,
+        );
 
   /// Icon for _thumbs-up_ in `la las` style
   const LaIcon.lasThumbsUp({
@@ -12238,7 +23102,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasThumbsUp);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasThumbsUp,
+        );
 
   /// Icon for _thumbtack_ in `la las` style
   const LaIcon.lasThumbtack({
@@ -12247,7 +23119,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasThumbtack);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasThumbtack,
+        );
 
   /// Icon for _times_ in `la las` style
   const LaIcon.lasTimes({
@@ -12256,7 +23136,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasTimes);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasTimes,
+        );
 
   /// Icon for _times-circle_ in `la lar` style
   const LaIcon.larTimesCircle({
@@ -12265,7 +23153,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larTimesCircle);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larTimesCircle,
+        );
 
   /// Icon for _times-circle_ in `la las` style
   const LaIcon.lasTimesCircle({
@@ -12274,7 +23170,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasTimesCircle);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasTimesCircle,
+        );
 
   /// Icon for _tint_ in `la las` style
   const LaIcon.lasTint({
@@ -12283,7 +23187,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasTint);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasTint,
+        );
 
   /// Icon for _tint-slash_ in `la las` style
   const LaIcon.lasTintSlash({
@@ -12292,7 +23204,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasTintSlash);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasTintSlash,
+        );
 
   /// Icon for _tired-face_ in `la lar` style
   const LaIcon.larTiredFace({
@@ -12301,7 +23221,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larTiredFace);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larTiredFace,
+        );
 
   /// Icon for _tired-face_ in `la las` style
   const LaIcon.lasTiredFace({
@@ -12310,7 +23238,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasTiredFace);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasTiredFace,
+        );
 
   /// Icon for _toggle-off_ in `la las` style
   const LaIcon.lasToggleOff({
@@ -12319,7 +23255,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasToggleOff);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasToggleOff,
+        );
 
   /// Icon for _toggle-on_ in `la las` style
   const LaIcon.lasToggleOn({
@@ -12328,7 +23272,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasToggleOn);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasToggleOn,
+        );
 
   /// Icon for _toilet_ in `la las` style
   const LaIcon.lasToilet({
@@ -12337,7 +23289,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasToilet);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasToilet,
+        );
 
   /// Icon for _toilet-paper_ in `la las` style
   const LaIcon.lasToiletPaper({
@@ -12346,7 +23306,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasToiletPaper);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasToiletPaper,
+        );
 
   /// Icon for _toolbox_ in `la las` style
   const LaIcon.lasToolbox({
@@ -12355,7 +23323,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasToolbox);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasToolbox,
+        );
 
   /// Icon for _tools_ in `la las` style
   const LaIcon.lasTools({
@@ -12364,7 +23340,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasTools);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasTools,
+        );
 
   /// Icon for _tooth_ in `la las` style
   const LaIcon.lasTooth({
@@ -12373,7 +23357,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasTooth);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasTooth,
+        );
 
   /// Icon for _torah_ in `la las` style
   const LaIcon.lasTorah({
@@ -12382,7 +23374,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasTorah);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasTorah,
+        );
 
   /// Icon for _torii-gate_ in `la las` style
   const LaIcon.lasToriiGate({
@@ -12391,7 +23391,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasToriiGate);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasToriiGate,
+        );
 
   /// Icon for _tractor_ in `la las` style
   const LaIcon.lasTractor({
@@ -12400,7 +23408,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasTractor);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasTractor,
+        );
 
   /// Icon for _trade-federation_ in `la lab` style
   const LaIcon.labTradeFederation({
@@ -12409,7 +23425,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labTradeFederation);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labTradeFederation,
+        );
 
   /// Icon for _trademark_ in `la las` style
   const LaIcon.lasTrademark({
@@ -12418,7 +23442,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasTrademark);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasTrademark,
+        );
 
   /// Icon for _traffic-light_ in `la las` style
   const LaIcon.lasTrafficLight({
@@ -12427,7 +23459,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasTrafficLight);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasTrafficLight,
+        );
 
   /// Icon for _train_ in `la las` style
   const LaIcon.lasTrain({
@@ -12436,7 +23476,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasTrain);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasTrain,
+        );
 
   /// Icon for _tram_ in `la las` style
   const LaIcon.lasTram({
@@ -12445,7 +23493,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasTram);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasTram,
+        );
 
   /// Icon for _transgender_ in `la las` style
   const LaIcon.lasTransgender({
@@ -12454,7 +23510,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasTransgender);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasTransgender,
+        );
 
   /// Icon for _trash_ in `la las` style
   const LaIcon.lasTrash({
@@ -12463,7 +23527,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasTrash);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasTrash,
+        );
 
   /// Icon for _trash-restore_ in `la las` style
   const LaIcon.lasTrashRestore({
@@ -12472,7 +23544,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasTrashRestore);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasTrashRestore,
+        );
 
   /// Icon for _tree_ in `la las` style
   const LaIcon.lasTree({
@@ -12481,7 +23561,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasTree);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasTree,
+        );
 
   /// Icon for _trello_ in `la lab` style
   const LaIcon.labTrello({
@@ -12490,7 +23578,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labTrello);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labTrello,
+        );
 
   /// Icon for _tripadvisor_ in `la lab` style
   const LaIcon.labTripadvisor({
@@ -12499,7 +23595,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labTripadvisor);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labTripadvisor,
+        );
 
   /// Icon for _trophy_ in `la las` style
   const LaIcon.lasTrophy({
@@ -12508,7 +23612,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasTrophy);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasTrophy,
+        );
 
   /// Icon for _truck_ in `la las` style
   const LaIcon.lasTruck({
@@ -12517,7 +23629,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasTruck);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasTruck,
+        );
 
   /// Icon for _truck-loading_ in `la las` style
   const LaIcon.lasTruckLoading({
@@ -12526,7 +23646,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasTruckLoading);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasTruckLoading,
+        );
 
   /// Icon for _truck-monster_ in `la las` style
   const LaIcon.lasTruckMonster({
@@ -12535,7 +23663,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasTruckMonster);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasTruckMonster,
+        );
 
   /// Icon for _truck-moving_ in `la las` style
   const LaIcon.lasTruckMoving({
@@ -12544,7 +23680,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasTruckMoving);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasTruckMoving,
+        );
 
   /// Icon for _truck-side_ in `la las` style
   const LaIcon.lasTruckSide({
@@ -12553,7 +23697,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasTruckSide);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasTruckSide,
+        );
 
   /// Icon for _t-shirt_ in `la las` style
   const LaIcon.lasTShirt({
@@ -12562,7 +23714,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasTShirt);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasTShirt,
+        );
 
   /// Icon for _tty_ in `la las` style
   const LaIcon.lasTty({
@@ -12571,7 +23731,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasTty);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasTty,
+        );
 
   /// Icon for _tumblr_ in `la lab` style
   const LaIcon.labTumblr({
@@ -12580,7 +23748,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labTumblr);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labTumblr,
+        );
 
   /// Icon for _tumblr-square_ in `la lab` style
   const LaIcon.labTumblrSquare({
@@ -12589,7 +23765,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labTumblrSquare);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labTumblrSquare,
+        );
 
   /// Icon for _turkish-lira-sign_ in `la las` style
   const LaIcon.lasTurkishLiraSign({
@@ -12598,7 +23782,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasTurkishLiraSign);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasTurkishLiraSign,
+        );
 
   /// Icon for _twitch_ in `la lab` style
   const LaIcon.labTwitch({
@@ -12607,7 +23799,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labTwitch);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labTwitch,
+        );
 
   /// Icon for _twitter_ in `la lab` style
   const LaIcon.labTwitter({
@@ -12616,7 +23816,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labTwitter);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labTwitter,
+        );
 
   /// Icon for _twitter-square_ in `la lab` style
   const LaIcon.labTwitterSquare({
@@ -12625,7 +23833,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labTwitterSquare);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labTwitterSquare,
+        );
 
   /// Icon for _typo3_ in `la lab` style
   const LaIcon.labTypo3({
@@ -12634,7 +23850,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labTypo3);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labTypo3,
+        );
 
   /// Icon for _uber_ in `la lab` style
   const LaIcon.labUber({
@@ -12643,7 +23867,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labUber);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labUber,
+        );
 
   /// Icon for _ubuntu_ in `la lab` style
   const LaIcon.labUbuntu({
@@ -12652,7 +23884,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labUbuntu);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labUbuntu,
+        );
 
   /// Icon for _uikit_ in `la lab` style
   const LaIcon.labUikit({
@@ -12661,7 +23901,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labUikit);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labUikit,
+        );
 
   /// Icon for _umbraco_ in `la lab` style
   const LaIcon.labUmbraco({
@@ -12670,7 +23918,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labUmbraco);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labUmbraco,
+        );
 
   /// Icon for _umbrella_ in `la las` style
   const LaIcon.lasUmbrella({
@@ -12679,7 +23935,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasUmbrella);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasUmbrella,
+        );
 
   /// Icon for _umbrella-beach_ in `la las` style
   const LaIcon.lasUmbrellaBeach({
@@ -12688,7 +23952,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasUmbrellaBeach);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasUmbrellaBeach,
+        );
 
   /// Icon for _underline_ in `la las` style
   const LaIcon.lasUnderline({
@@ -12697,7 +23969,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasUnderline);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasUnderline,
+        );
 
   /// Icon for _undo_ in `la las` style
   const LaIcon.lasUndo({
@@ -12706,7 +23986,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasUndo);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasUndo,
+        );
 
   /// Icon for _uniregistry_ in `la lab` style
   const LaIcon.labUniregistry({
@@ -12715,7 +24003,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labUniregistry);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labUniregistry,
+        );
 
   /// Icon for _united-states-of-america-flag_ in `la las` style
   const LaIcon.lasUnitedStatesOfAmericaFlag({
@@ -12724,7 +24020,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasUnitedStatesOfAmericaFlag);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasUnitedStatesOfAmericaFlag,
+        );
 
   /// Icon for _united-states-postal-service_ in `la lab` style
   const LaIcon.labUnitedStatesPostalService({
@@ -12733,7 +24037,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labUnitedStatesPostalService);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labUnitedStatesPostalService,
+        );
 
   /// Icon for _universal-access_ in `la las` style
   const LaIcon.lasUniversalAccess({
@@ -12742,7 +24054,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasUniversalAccess);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasUniversalAccess,
+        );
 
   /// Icon for _university_ in `la las` style
   const LaIcon.lasUniversity({
@@ -12751,7 +24071,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasUniversity);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasUniversity,
+        );
 
   /// Icon for _unlink_ in `la las` style
   const LaIcon.lasUnlink({
@@ -12760,7 +24088,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasUnlink);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasUnlink,
+        );
 
   /// Icon for _unlock_ in `la las` style
   const LaIcon.lasUnlock({
@@ -12769,7 +24105,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasUnlock);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasUnlock,
+        );
 
   /// Icon for _untappd_ in `la lab` style
   const LaIcon.labUntappd({
@@ -12778,7 +24122,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labUntappd);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labUntappd,
+        );
 
   /// Icon for _upload_ in `la las` style
   const LaIcon.lasUpload({
@@ -12787,7 +24139,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasUpload);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasUpload,
+        );
 
   /// Icon for _ups_ in `la lab` style
   const LaIcon.labUps({
@@ -12796,7 +24156,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labUps);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labUps,
+        );
 
   /// Icon for _usb_ in `la lab` style
   const LaIcon.labUsb({
@@ -12805,7 +24173,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labUsb);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labUsb,
+        );
 
   /// Icon for _user_ in `la lar` style
   const LaIcon.larUser({
@@ -12814,7 +24190,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larUser);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larUser,
+        );
 
   /// Icon for _user_ in `la las` style
   const LaIcon.lasUser({
@@ -12823,7 +24207,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasUser);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasUser,
+        );
 
   /// Icon for _user-astronaut_ in `la las` style
   const LaIcon.lasUserAstronaut({
@@ -12832,7 +24224,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasUserAstronaut);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasUserAstronaut,
+        );
 
   /// Icon for _user-check_ in `la las` style
   const LaIcon.lasUserCheck({
@@ -12841,7 +24241,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasUserCheck);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasUserCheck,
+        );
 
   /// Icon for _user-circle_ in `la lar` style
   const LaIcon.larUserCircle({
@@ -12850,7 +24258,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larUserCircle);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larUserCircle,
+        );
 
   /// Icon for _user-circle_ in `la las` style
   const LaIcon.lasUserCircle({
@@ -12859,7 +24275,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasUserCircle);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasUserCircle,
+        );
 
   /// Icon for _user-clock_ in `la las` style
   const LaIcon.lasUserClock({
@@ -12868,7 +24292,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasUserClock);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasUserClock,
+        );
 
   /// Icon for _user-cog_ in `la las` style
   const LaIcon.lasUserCog({
@@ -12877,7 +24309,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasUserCog);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasUserCog,
+        );
 
   /// Icon for _user-edit_ in `la las` style
   const LaIcon.lasUserEdit({
@@ -12886,7 +24326,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasUserEdit);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasUserEdit,
+        );
 
   /// Icon for _user-friends_ in `la las` style
   const LaIcon.lasUserFriends({
@@ -12895,7 +24343,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasUserFriends);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasUserFriends,
+        );
 
   /// Icon for _user-graduate_ in `la las` style
   const LaIcon.lasUserGraduate({
@@ -12904,7 +24360,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasUserGraduate);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasUserGraduate,
+        );
 
   /// Icon for _user-injured_ in `la las` style
   const LaIcon.lasUserInjured({
@@ -12913,7 +24377,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasUserInjured);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasUserInjured,
+        );
 
   /// Icon for _user-lock_ in `la las` style
   const LaIcon.lasUserLock({
@@ -12922,7 +24394,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasUserLock);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasUserLock,
+        );
 
   /// Icon for _user-minus_ in `la las` style
   const LaIcon.lasUserMinus({
@@ -12931,7 +24411,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasUserMinus);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasUserMinus,
+        );
 
   /// Icon for _user-ninja_ in `la las` style
   const LaIcon.lasUserNinja({
@@ -12940,7 +24428,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasUserNinja);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasUserNinja,
+        );
 
   /// Icon for _user-plus_ in `la las` style
   const LaIcon.lasUserPlus({
@@ -12949,7 +24445,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasUserPlus);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasUserPlus,
+        );
 
   /// Icon for _users_ in `la las` style
   const LaIcon.lasUsers({
@@ -12958,7 +24462,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasUsers);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasUsers,
+        );
 
   /// Icon for _users-cog_ in `la las` style
   const LaIcon.lasUsersCog({
@@ -12967,7 +24479,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasUsersCog);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasUsersCog,
+        );
 
   /// Icon for _user-secret_ in `la las` style
   const LaIcon.lasUserSecret({
@@ -12976,7 +24496,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasUserSecret);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasUserSecret,
+        );
 
   /// Icon for _user-shield_ in `la las` style
   const LaIcon.lasUserShield({
@@ -12985,7 +24513,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasUserShield);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasUserShield,
+        );
 
   /// Icon for _user-slash_ in `la las` style
   const LaIcon.lasUserSlash({
@@ -12994,7 +24530,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasUserSlash);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasUserSlash,
+        );
 
   /// Icon for _user-tag_ in `la las` style
   const LaIcon.lasUserTag({
@@ -13003,7 +24547,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasUserTag);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasUserTag,
+        );
 
   /// Icon for _user-tie_ in `la las` style
   const LaIcon.lasUserTie({
@@ -13012,7 +24564,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasUserTie);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasUserTie,
+        );
 
   /// Icon for _us-sunnah-foundation_ in `la lab` style
   const LaIcon.labUsSunnahFoundation({
@@ -13021,7 +24581,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labUsSunnahFoundation);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labUsSunnahFoundation,
+        );
 
   /// Icon for _utensils_ in `la las` style
   const LaIcon.lasUtensils({
@@ -13030,7 +24598,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasUtensils);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasUtensils,
+        );
 
   /// Icon for _utensil-spoon_ in `la las` style
   const LaIcon.lasUtensilSpoon({
@@ -13039,7 +24615,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasUtensilSpoon);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasUtensilSpoon,
+        );
 
   /// Icon for _vaadin_ in `la lab` style
   const LaIcon.labVaadin({
@@ -13048,7 +24632,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labVaadin);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labVaadin,
+        );
 
   /// Icon for _vector-square_ in `la las` style
   const LaIcon.lasVectorSquare({
@@ -13057,7 +24649,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasVectorSquare);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasVectorSquare,
+        );
 
   /// Icon for _venus_ in `la las` style
   const LaIcon.lasVenus({
@@ -13066,7 +24666,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasVenus);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasVenus,
+        );
 
   /// Icon for _venus-double_ in `la las` style
   const LaIcon.lasVenusDouble({
@@ -13075,7 +24683,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasVenusDouble);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasVenusDouble,
+        );
 
   /// Icon for _venus-mars_ in `la las` style
   const LaIcon.lasVenusMars({
@@ -13084,7 +24700,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasVenusMars);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasVenusMars,
+        );
 
   /// Icon for _vertical-ellipsis_ in `la las` style
   const LaIcon.lasVerticalEllipsis({
@@ -13093,7 +24717,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasVerticalEllipsis);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasVerticalEllipsis,
+        );
 
   /// Icon for _viacoin_ in `la lab` style
   const LaIcon.labViacoin({
@@ -13102,7 +24734,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labViacoin);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labViacoin,
+        );
 
   /// Icon for _vial_ in `la las` style
   const LaIcon.lasVial({
@@ -13111,7 +24751,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasVial);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasVial,
+        );
 
   /// Icon for _vials_ in `la las` style
   const LaIcon.lasVials({
@@ -13120,7 +24768,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasVials);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasVials,
+        );
 
   /// Icon for _viber_ in `la lab` style
   const LaIcon.labViber({
@@ -13129,7 +24785,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labViber);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labViber,
+        );
 
   /// Icon for _video_ in `la lab` style
   const LaIcon.labVideo({
@@ -13138,7 +24802,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labVideo);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labVideo,
+        );
 
   /// Icon for _video_ in `la las` style
   const LaIcon.lasVideo({
@@ -13147,7 +24819,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasVideo);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasVideo,
+        );
 
   /// Icon for _video-file_ in `la lar` style
   const LaIcon.larVideoFile({
@@ -13156,7 +24836,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larVideoFile);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larVideoFile,
+        );
 
   /// Icon for _video-file_ in `la las` style
   const LaIcon.lasVideoFile({
@@ -13165,7 +24853,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasVideoFile);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasVideoFile,
+        );
 
   /// Icon for _video-slash_ in `la las` style
   const LaIcon.lasVideoSlash({
@@ -13174,7 +24870,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasVideoSlash);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasVideoSlash,
+        );
 
   /// Icon for _video-square_ in `la lab` style
   const LaIcon.labVideoSquare({
@@ -13183,7 +24887,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labVideoSquare);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labVideoSquare,
+        );
 
   /// Icon for _vihara_ in `la las` style
   const LaIcon.lasVihara({
@@ -13192,7 +24904,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasVihara);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasVihara,
+        );
 
   /// Icon for _vimeo_ in `la lab` style
   const LaIcon.labVimeo({
@@ -13201,7 +24921,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labVimeo);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labVimeo,
+        );
 
   /// Icon for _vimeo-2_ in `la lab` style
   const LaIcon.labVimeo2({
@@ -13210,7 +24938,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labVimeo2);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labVimeo2,
+        );
 
   /// Icon for _vimeo-square_ in `la lab` style
   const LaIcon.labVimeoSquare({
@@ -13219,7 +24955,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labVimeoSquare);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labVimeoSquare,
+        );
 
   /// Icon for _vine_ in `la lab` style
   const LaIcon.labVine({
@@ -13228,7 +24972,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labVine);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labVine,
+        );
 
   /// Icon for _visa-credit-card_ in `la lab` style
   const LaIcon.labVisaCreditCard({
@@ -13237,7 +24989,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labVisaCreditCard);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labVisaCreditCard,
+        );
 
   /// Icon for _vk_ in `la lab` style
   const LaIcon.labVk({
@@ -13246,7 +25006,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labVk);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labVk,
+        );
 
   /// Icon for _vnv_ in `la lab` style
   const LaIcon.labVnv({
@@ -13255,7 +25023,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labVnv);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labVnv,
+        );
 
   /// Icon for _voicemail_ in `la las` style
   const LaIcon.lasVoicemail({
@@ -13264,7 +25040,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasVoicemail);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasVoicemail,
+        );
 
   /// Icon for _volleyball-ball_ in `la las` style
   const LaIcon.lasVolleyballBall({
@@ -13273,7 +25057,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasVolleyballBall);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasVolleyballBall,
+        );
 
   /// Icon for _volume-down_ in `la las` style
   const LaIcon.lasVolumeDown({
@@ -13282,7 +25074,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasVolumeDown);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasVolumeDown,
+        );
 
   /// Icon for _volume-mute_ in `la las` style
   const LaIcon.lasVolumeMute({
@@ -13291,7 +25091,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasVolumeMute);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasVolumeMute,
+        );
 
   /// Icon for _volume-off_ in `la las` style
   const LaIcon.lasVolumeOff({
@@ -13300,7 +25108,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasVolumeOff);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasVolumeOff,
+        );
 
   /// Icon for _volume-up_ in `la las` style
   const LaIcon.lasVolumeUp({
@@ -13309,7 +25125,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasVolumeUp);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasVolumeUp,
+        );
 
   /// Icon for _vote-yea_ in `la las` style
   const LaIcon.lasVoteYea({
@@ -13318,7 +25142,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasVoteYea);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasVoteYea,
+        );
 
   /// Icon for _vue-js_ in `la lab` style
   const LaIcon.labVueJs({
@@ -13327,7 +25159,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labVueJs);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labVueJs,
+        );
 
   /// Icon for _walking_ in `la las` style
   const LaIcon.lasWalking({
@@ -13336,7 +25176,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasWalking);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasWalking,
+        );
 
   /// Icon for _wallet_ in `la las` style
   const LaIcon.lasWallet({
@@ -13345,7 +25193,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasWallet);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasWallet,
+        );
 
   /// Icon for _warehouse_ in `la las` style
   const LaIcon.lasWarehouse({
@@ -13354,7 +25210,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasWarehouse);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasWarehouse,
+        );
 
   /// Icon for _water_ in `la las` style
   const LaIcon.lasWater({
@@ -13363,7 +25227,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasWater);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasWater,
+        );
 
   /// Icon for _wavy-money-bill_ in `la las` style
   const LaIcon.lasWavyMoneyBill({
@@ -13372,7 +25244,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasWavyMoneyBill);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasWavyMoneyBill,
+        );
 
   /// Icon for _waze_ in `la lab` style
   const LaIcon.labWaze({
@@ -13381,7 +25261,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labWaze);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labWaze,
+        );
 
   /// Icon for _weebly_ in `la lab` style
   const LaIcon.labWeebly({
@@ -13390,7 +25278,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labWeebly);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labWeebly,
+        );
 
   /// Icon for _weibo_ in `la lab` style
   const LaIcon.labWeibo({
@@ -13399,7 +25295,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labWeibo);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labWeibo,
+        );
 
   /// Icon for _weight_ in `la las` style
   const LaIcon.lasWeight({
@@ -13408,7 +25312,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasWeight);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasWeight,
+        );
 
   /// Icon for _weixin--wechat-_ in `la lab` style
   const LaIcon.labWeixinWechat({
@@ -13417,7 +25329,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labWeixinWechat);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labWeixinWechat,
+        );
 
   /// Icon for _what-s-app_ in `la lab` style
   const LaIcon.labWhatSApp({
@@ -13426,7 +25346,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labWhatSApp);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labWhatSApp,
+        );
 
   /// Icon for _what-s-app-square_ in `la lab` style
   const LaIcon.labWhatSAppSquare({
@@ -13435,7 +25363,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labWhatSAppSquare);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labWhatSAppSquare,
+        );
 
   /// Icon for _wheelchair_ in `la las` style
   const LaIcon.lasWheelchair({
@@ -13444,7 +25380,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasWheelchair);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasWheelchair,
+        );
 
   /// Icon for _whmcs_ in `la lab` style
   const LaIcon.labWhmcs({
@@ -13453,7 +25397,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labWhmcs);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labWhmcs,
+        );
 
   /// Icon for _wifi_ in `la las` style
   const LaIcon.lasWifi({
@@ -13462,7 +25414,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasWifi);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasWifi,
+        );
 
   /// Icon for _wikipedia-w_ in `la lab` style
   const LaIcon.labWikipediaW({
@@ -13471,7 +25431,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labWikipediaW);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labWikipediaW,
+        );
 
   /// Icon for _wind_ in `la las` style
   const LaIcon.lasWind({
@@ -13480,7 +25448,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasWind);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasWind,
+        );
 
   /// Icon for _window-close_ in `la lar` style
   const LaIcon.larWindowClose({
@@ -13489,7 +25465,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larWindowClose);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larWindowClose,
+        );
 
   /// Icon for _window-close_ in `la las` style
   const LaIcon.lasWindowClose({
@@ -13498,7 +25482,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasWindowClose);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasWindowClose,
+        );
 
   /// Icon for _window-maximize_ in `la lar` style
   const LaIcon.larWindowMaximize({
@@ -13507,7 +25499,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larWindowMaximize);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larWindowMaximize,
+        );
 
   /// Icon for _window-maximize_ in `la las` style
   const LaIcon.lasWindowMaximize({
@@ -13516,7 +25516,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasWindowMaximize);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasWindowMaximize,
+        );
 
   /// Icon for _window-minimize_ in `la lar` style
   const LaIcon.larWindowMinimize({
@@ -13525,7 +25533,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larWindowMinimize);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larWindowMinimize,
+        );
 
   /// Icon for _window-minimize_ in `la las` style
   const LaIcon.lasWindowMinimize({
@@ -13534,7 +25550,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasWindowMinimize);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasWindowMinimize,
+        );
 
   /// Icon for _window-restore_ in `la lar` style
   const LaIcon.larWindowRestore({
@@ -13543,7 +25567,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larWindowRestore);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larWindowRestore,
+        );
 
   /// Icon for _window-restore_ in `la las` style
   const LaIcon.lasWindowRestore({
@@ -13552,7 +25584,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasWindowRestore);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasWindowRestore,
+        );
 
   /// Icon for _windows_ in `la lab` style
   const LaIcon.labWindows({
@@ -13561,7 +25601,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labWindows);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labWindows,
+        );
 
   /// Icon for _wine-bottle_ in `la las` style
   const LaIcon.lasWineBottle({
@@ -13570,7 +25618,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasWineBottle);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasWineBottle,
+        );
 
   /// Icon for _wine-glass_ in `la las` style
   const LaIcon.lasWineGlass({
@@ -13579,7 +25635,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasWineGlass);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasWineGlass,
+        );
 
   /// Icon for _winking-face_ in `la lar` style
   const LaIcon.larWinkingFace({
@@ -13588,7 +25652,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larWinkingFace);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larWinkingFace,
+        );
 
   /// Icon for _winking-face_ in `la las` style
   const LaIcon.lasWinkingFace({
@@ -13597,7 +25669,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasWinkingFace);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasWinkingFace,
+        );
 
   /// Icon for _winking-face-with-tongue_ in `la lar` style
   const LaIcon.larWinkingFaceWithTongue({
@@ -13606,7 +25686,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larWinkingFaceWithTongue);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larWinkingFaceWithTongue,
+        );
 
   /// Icon for _winking-face-with-tongue_ in `la las` style
   const LaIcon.lasWinkingFaceWithTongue({
@@ -13615,7 +25703,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasWinkingFaceWithTongue);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasWinkingFaceWithTongue,
+        );
 
   /// Icon for _wired-network_ in `la las` style
   const LaIcon.lasWiredNetwork({
@@ -13624,7 +25720,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasWiredNetwork);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasWiredNetwork,
+        );
 
   /// Icon for _wix_ in `la lab` style
   const LaIcon.labWix({
@@ -13633,7 +25737,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labWix);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labWix,
+        );
 
   /// Icon for _wizard-s-hat_ in `la las` style
   const LaIcon.lasWizardSHat({
@@ -13642,7 +25754,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasWizardSHat);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasWizardSHat,
+        );
 
   /// Icon for _wizards-of-the-coast_ in `la lab` style
   const LaIcon.labWizardsOfTheCoast({
@@ -13651,7 +25771,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labWizardsOfTheCoast);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labWizardsOfTheCoast,
+        );
 
   /// Icon for _wolf-pack-battalion_ in `la lab` style
   const LaIcon.labWolfPackBattalion({
@@ -13660,7 +25788,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labWolfPackBattalion);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labWolfPackBattalion,
+        );
 
   /// Icon for _won-sign_ in `la las` style
   const LaIcon.lasWonSign({
@@ -13669,7 +25805,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasWonSign);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasWonSign,
+        );
 
   /// Icon for _word-file_ in `la lar` style
   const LaIcon.larWordFile({
@@ -13678,7 +25822,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.larWordFile);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.larWordFile,
+        );
 
   /// Icon for _word-file_ in `la las` style
   const LaIcon.lasWordFile({
@@ -13687,7 +25839,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasWordFile);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasWordFile,
+        );
 
   /// Icon for _wordpress-logo_ in `la lab` style
   const LaIcon.labWordpressLogo({
@@ -13696,7 +25856,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labWordpressLogo);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labWordpressLogo,
+        );
 
   /// Icon for _wordpress-simple_ in `la lab` style
   const LaIcon.labWordpressSimple({
@@ -13705,7 +25873,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labWordpressSimple);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labWordpressSimple,
+        );
 
   /// Icon for _wpbeginner_ in `la lab` style
   const LaIcon.labWpbeginner({
@@ -13714,7 +25890,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labWpbeginner);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labWpbeginner,
+        );
 
   /// Icon for _wpexplorer_ in `la lab` style
   const LaIcon.labWpexplorer({
@@ -13723,7 +25907,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labWpexplorer);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labWpexplorer,
+        );
 
   /// Icon for _wpforms_ in `la lab` style
   const LaIcon.labWpforms({
@@ -13732,7 +25924,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labWpforms);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labWpforms,
+        );
 
   /// Icon for _wpressr_ in `la lab` style
   const LaIcon.labWpressr({
@@ -13741,7 +25941,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labWpressr);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labWpressr,
+        );
 
   /// Icon for _wrench_ in `la las` style
   const LaIcon.lasWrench({
@@ -13750,7 +25958,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasWrench);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasWrench,
+        );
 
   /// Icon for _xbox_ in `la lab` style
   const LaIcon.labXbox({
@@ -13759,7 +25975,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labXbox);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labXbox,
+        );
 
   /// Icon for _xing_ in `la lab` style
   const LaIcon.labXing({
@@ -13768,7 +25992,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labXing);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labXing,
+        );
 
   /// Icon for _xing-square_ in `la lab` style
   const LaIcon.labXingSquare({
@@ -13777,7 +26009,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labXingSquare);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labXingSquare,
+        );
 
   /// Icon for _x-ray_ in `la las` style
   const LaIcon.lasXRay({
@@ -13786,7 +26026,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasXRay);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasXRay,
+        );
 
   /// Icon for _yahoo-logo_ in `la lab` style
   const LaIcon.labYahooLogo({
@@ -13795,7 +26043,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labYahooLogo);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labYahooLogo,
+        );
 
   /// Icon for _yammer_ in `la lab` style
   const LaIcon.labYammer({
@@ -13804,7 +26060,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labYammer);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labYammer,
+        );
 
   /// Icon for _yandex_ in `la lab` style
   const LaIcon.labYandex({
@@ -13813,7 +26077,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labYandex);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labYandex,
+        );
 
   /// Icon for _yandex-international_ in `la lab` style
   const LaIcon.labYandexInternational({
@@ -13822,7 +26094,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labYandexInternational);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labYandexInternational,
+        );
 
   /// Icon for _yarn_ in `la lab` style
   const LaIcon.labYarn({
@@ -13831,7 +26111,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labYarn);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labYarn,
+        );
 
   /// Icon for _y-combinator_ in `la lab` style
   const LaIcon.labYCombinator({
@@ -13840,7 +26128,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labYCombinator);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labYCombinator,
+        );
 
   /// Icon for _yelp_ in `la lab` style
   const LaIcon.labYelp({
@@ -13849,7 +26145,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labYelp);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labYelp,
+        );
 
   /// Icon for _yen-sign_ in `la las` style
   const LaIcon.lasYenSign({
@@ -13858,7 +26162,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasYenSign);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasYenSign,
+        );
 
   /// Icon for _yin-yang_ in `la las` style
   const LaIcon.lasYinYang({
@@ -13867,7 +26179,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.lasYinYang);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 4.5,
+  }) : super(
+          LaIcons.lasYinYang,
+        );
 
   /// Icon for _yoast_ in `la lab` style
   const LaIcon.labYoast({
@@ -13876,7 +26196,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labYoast);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labYoast,
+        );
 
   /// Icon for _youtube_ in `la lab` style
   const LaIcon.labYoutube({
@@ -13885,7 +26213,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labYoutube);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labYoutube,
+        );
 
   /// Icon for _youtube-square_ in `la lab` style
   const LaIcon.labYoutubeSquare({
@@ -13894,7 +26230,15 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labYoutubeSquare);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labYoutubeSquare,
+        );
 
   /// Icon for _zhihu_ in `la lab` style
   const LaIcon.labZhihu({
@@ -13903,5 +26247,13 @@ class LaIcon extends Icon {
     super.color,
     super.semanticLabel,
     super.textDirection,
-  }) : super(LaIcons.labZhihu);
+    super.fill,
+    super.grade,
+    super.opticalSize,
+    super.shadows,
+    super.applyTextScaling,
+    double? weight = 2,
+  }) : super(
+          LaIcons.labZhihu,
+        );
 }
