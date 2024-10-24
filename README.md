@@ -1,4 +1,4 @@
-# Line Awesome Icons 1.3.0 (by www.icons8.com) library for Flutter
+# Line Awesome Icons 1.3.0 (by Icons8) library for Flutter
 
 # Just another bunch of beautiful icons to use
 
@@ -12,30 +12,31 @@ So, thank you [Icons8](https://icons8.com/line-awesome).
 
 After some suggestions and some further reading, I decided to rebuild the `line_icons` library. It's still very related to it, but `la_icons` is built from scratch. Use whichever suits you best, but my suggestion is using this brand new `la_icons` library for new projects.
 
-`line_icons` will likely be discontinued, but the library will still be available at [pub.dev](https://pub.dev/packages/line_icons), until the pub.dev team decides otherwise.
-
 ## Line, clean, icons
 
 Imagine a cross-over: Windows10 style and Awesome inspiration. Well, stop dreaming! You got plenty of beautiful icons to choose from for your Android app (not tested in iOS yet, sorry). I'd rather like this set over Material, and I find much easier to find the icon I'm looking for in [Icons8](https://icons8.com/line-awesome) than in the [Material Icons page](https://material.io/tools/icons/?style=baseline).
 
-[<img src="[snapshot]" />][snapshot]
+You can take a look at the [demo page](https://galonsos.github.io/la_icons/) for a visual list of available icons.
 
 **The font (v1.3.0)**
 
-* [Line Awesome font by Icons8](https://icons8.com/line-awesome)
-* [Line Awesome icon searching](https://icons8.com/line-awesome)
+You can find the original font (version 1.3.0) released by Icons8 here:
+
+* [Line Awesome homepage](https://icons8.com/line-awesome)
+* [Line Awesome font download](https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/line-awesome-1.3.0.zip)
 
 # Features
 
-* Renaming according to the Icons8 SVG names, closer to the original names. I.e., `las-x-ray`
 * Styling: there're three different styles: brands, regular and solid. Icons are prefixed `lab`, `lar` and `las` respectively. It also helps avoiding name conflicts, such as `alternate-comment`, which exists for regular and solid styles, turning into `lar-alternate-comment` and `las-alternate-comment`.
-* Const constructors (`const icon = const LaIcon.lasAlternateHeadphones();` vs `final icon = LaIcon.lasAlternateHeadphones()`)
-* Flutterish names for constructors (*prefixedCamelCase*) and *prefixed-kebab-case* for icon names
-* `iconMap` property is provided in LaIcons class to access `IconData` as a map. I.e., `Icon(LaIcons.iconMap['las-dog'])`. 
-* `byName` getter is also available to access the `IconData` related to the icon name passed as parameter. I.e., `Icon(LaIcons.byName('desktop'))`.
+* Flutterish *prefixedCamelCase* names for `Icon` constructors and getters, while preserving the original icon names (*prefixed-kebab-case*) to access `IconData`.
+* `@staticIconProvider` notation as suggested in [Flutter docs](https://api.flutter.dev/flutter/widgets/staticIconProvider-constant.html).
+* `iconMap` static property is provided in `LaIcons` class to access `IconData` as a map. I.e., `Icon(LaIcons.iconMap['las-dog'])`. 
+* `byName` static getter is also available to access the `IconData` related to the icon name passed as parameter. I.e., `Icon(LaIcons.byName('las-desktop'))`.
 * `LaIcon` (singular) class is provided along `LaIcons` (plural), so you can spare some code using `LaIcon.lasTablet()` instead of `Icon(LaIcons.lasTablet)`.
-* `LaIcon` constructor parameters are the same as `Icon`'s, so you may customize a `LaIcon` instance the same way. I.e., `Icon(LaIcons.lasWrench, color: Colors.red)` is equivalent to `LaIcon.lasWrench(color: Colors.red)`, `Icon(LaIcons.lasWrench, color: Colors.red)`, `Icon(LaIcons.iconMap['las-wrench'])` or `Icon(LaIcons.getByName('las-wrench'))`
-* `@staticIconProvider` notation as suggested in [Flutter docs](https://api.flutter.dev/flutter/widgets/staticIconProvider-constant.html)
+* Const constructors (`const icon = const LaIcon.lasAlternateHeadphones();` vs `final icon = LaIcon.lasAlternateHeadphones()`).
+* `LaIcon` constructor parameters are the same as `Icon`'s, so you may customize a `LaIcon` instance the same way. I.e., `Icon(LaIcons.lasWrench, color: Colors.red)` is equivalent to `LaIcon.lasWrench(color: Colors.red)`, `Icon(LaIcons.lasWrench, color: Colors.red)`, `Icon(LaIcons.iconMap['las-wrench'])` or `Icon(LaIcons.getByName('las-wrench'))`. 
+
+Note: due to the fact the font is static, and not variable, the `fill`, `grade`, `opticalSize` and `weight` properties will have no effect ☹. `shadows`, however, is available. 
 
 ## Let's give it a try
 
@@ -51,7 +52,7 @@ Include `la_icons` in your `pubspec.yaml` file:
 dependencies:
   flutter:
     sdk: flutter
-  la_icons: ^0.0.1
+  la_icons: ^1.0.0
 ```
 
 If your IDE doesn't do it automatically, type:
@@ -171,7 +172,7 @@ class MyHomePage extends StatelessWidget {
               color: Colors.amber,
             ),
             Text(
-              'Icon(LaIcons.iconMap[\'las-mobile-phone\'], size: 48.0, color: Colors.amber,)',
+              'Icon(LaIcons.iconMap['las-mobile-phone'], size: 48.0, color: Colors.amber,)',
             ),
           ],
         ),
@@ -180,10 +181,8 @@ class MyHomePage extends StatelessWidget {
   }
 }
 ```
+You may also find an example at the 
 
 ## GitHub source code
 
 If you're interested on the code (feel free to modify it anyway you want), you can find it here: https://github.com/galonsos/la_icons
-
-
-[snapshot]: ttps://blog.icons8.com/wp-content/uploads/old-uploads/2019/10/business-icons.png
