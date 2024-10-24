@@ -181,7 +181,7 @@ class MyHomePage extends StatelessWidget {
   }
 }
 ```
-You may also find an example at the 
+You may also find the [demo page](https://galonsos.github.io/la_icons/) source code at the GitHub repository.
 
 ## GitHub source code
 
