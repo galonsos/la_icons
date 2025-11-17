@@ -12,6 +12,10 @@ Some minor changes on the example provided: description on `pubspec.yaml` and `r
 
 Suggested by `pub publish`, the `docs` folder is now `doc`.
 
+* License file
+
+License added
+
 ## [1.0.0] - October, 23 2024
 
 * Constructor update
