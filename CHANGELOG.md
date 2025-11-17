@@ -1,8 +1,16 @@
-## [1.4.0] - November, 17 2025
+## [1.0.3] - November, 17 2025
+
+* Version fixed
+
+For some reason, version was not consistent between Git and `pub.dev`.
 
 * Example
 
 Some minor changes on the example provided: description on `pubspec.yaml` and `readme.md`.
+
+* Docs folder renamed
+
+Suggested by `pub publish`, the `docs` folder is now `doc`.
 
 ## [1.0.0] - October, 23 2024
 

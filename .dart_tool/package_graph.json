@@ -5,7 +5,7 @@
   "packages": [
     {
       "name": "la_icons",
-      "version": "1.4.0",
+      "version": "1.0.3",
       "dependencies": [
         "flutter"
       ],

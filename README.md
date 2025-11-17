@@ -1,4 +1,4 @@
-# Line Awesome Icons 1.4.0 (by Icons8) library for Flutter
+# Line Awesome Icons 1.0.3 (by Icons8) library for Flutter
 
 # Just another bunch of beautiful icons to use
 

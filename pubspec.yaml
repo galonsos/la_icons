@@ -1,8 +1,8 @@
 name: la_icons
-description: Line Awesome Icons 1.4.0 (by www.icons8.com) library for Flutter
-version: 1.4.0
+description: Line Awesome Icons 1.0.3 (by www.icons8.com) library for Flutter
+version: 1.0.3
 repository: https://github.com/galonsos/la_icons
-homepage: https://github.com/galonsos/la_icons
+homepage: https://galonsos.github.io/la_icons/
 issue_tracker: https://github.com/galonsos/la_icons/issues
 topics:
   - icons
