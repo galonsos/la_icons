@@ -1,3 +1,9 @@
+## [1.4.0] - November, 17 2025
+
+* Example
+
+Some minor changes on the example provided: description on `pubspec.yaml` and `readme.md`.
+
 ## [1.0.0] - October, 23 2024
 
 * Constructor update

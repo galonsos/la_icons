@@ -3,6 +3,7 @@ library la_icons;
 import 'package:flutter/widgets.dart';
 import 'package:la_icons/src/constants.dart';
 export 'package:la_icons/src/widgets/la_icon.dart';
+export 'package:la_icons/la_icons.dart';
 
 @staticIconProvider
 
